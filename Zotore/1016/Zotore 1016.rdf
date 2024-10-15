@@ -1,0 +1,828 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Document rdf:about="https://www.zotero.org/start">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Zotero | Your personal research assistant</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.zotero.org/start</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-09-08 09:43:17</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Document rdf:about="#item_2">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_3"/>
+        <dc:title>Zotero | Your personal research assistant</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.zotero.org/start</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-09-08 09:43:23</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_3">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/3/start.html"/>
+        <dc:title>Zotero | Your personal research assistant</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.zotero.org/start</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-09-08 09:43:29</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://kns.cnki.net/kcms2/article/abstract?v=uagkXMi-j-XxjRtUxU6J2hC3GnA47TUKMGQHMMLc4WA6EGcGYN4TT-Av0WcvylL1A4OYuEwQRJJkyT3d2Fd_pcDABi6gb9OkhkTPFcPzLEMQQ0KTDcjwi0RACMTnBkSy6EtgVAYZONjRcvo5RYrFmnlRSNEGtR-XgRB8UyusXi28qZ-ms-5ihYFPW8NDihCV&amp;uniplatform=NZKPT&amp;language=CHS">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1674-9081"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>陈</foaf:surname>
+                        <foaf:givenName>子佳</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>彭</foaf:surname>
+                        <foaf:givenName>文茜</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>张</foaf:surname>
+                        <foaf:givenName>德政</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>刘</foaf:surname>
+                        <foaf:givenName>欣</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>王</foaf:surname>
+                        <foaf:givenName>志飞</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_5"/>
+        <link:link rdf:resource="#item_6"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>大语言模型</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>前景</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>挑战</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>学科交叉</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>应用</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>中医药</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>大预言模型</dc:subject>
+        <dc:subject>中医学</dc:subject>
+        <dc:subject>综述</dc:subject>
+        <dc:subject>LLM</dc:subject>
+        <dc:subject>TCM</dc:subject>
+        <dc:title>大语言模型在中医药领域的应用、挑战与前景</dc:title>
+        <dcterms:abstract>随着人工智能与医学交叉浪潮的掀起，大语言模型（large language model，LLM）以其出色表现在诊疗、医药、康养等领域被广泛应用。LLM在中医药领域独具优势，例如与“四诊合参”完美结合、中医药自然语言与“自监督”学习的完美配合、可适应中药复方特色、协助中医诊疗等。目前已开发出多种LLM模型，如“岐黄问道大模型”、数字中医大模型“GLM-130B”等，但也面临价值不符与医学滥用、可解释性需求增加、技术有待提升、国内政策准入情况等挑战。本文就LLM发展史、LLM在中医药领域的独特优势及应用、LLM存在的问题及挑战、LLM未来发展趋势进行综述，以期为LLM在传统医学领域的进一步推广提供参考。</dcterms:abstract>
+        <z:language>zh-CN</z:language>
+        <z:libraryCatalog>CNKI</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://kns.cnki.net/kcms2/article/abstract?v=uagkXMi-j-XxjRtUxU6J2hC3GnA47TUKMGQHMMLc4WA6EGcGYN4TT-Av0WcvylL1A4OYuEwQRJJkyT3d2Fd_pcDABi6gb9OkhkTPFcPzLEMQQ0KTDcjwi0RACMTnBkSy6EtgVAYZONjRcvo5RYrFmnlRSNEGtR-XgRB8UyusXi28qZ-ms-5ihYFPW8NDihCV&amp;uniplatform=NZKPT&amp;language=CHS</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-09-08 09:54:13</dcterms:dateSubmitted>
+        <bib:pages>1-8</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1674-9081">
+       <dc:title>协和医学杂志</dc:title><dc:identifier>ISSN 1674-9081</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_5">
+        <rdf:value>&lt;div data-schema-version=&quot;9&quot;&gt;&lt;h1&gt;笔记&lt;/h1&gt;
+&lt;h1&gt;文献概要&lt;/h1&gt;
+&lt;p&gt;[简短总结文献的主要内容和贡献]&lt;/p&gt;
+&lt;p&gt;这篇文献主要探索了当前大预言模型有哪些优势可以在中医学方面进行应用，医学的大模型有哪些，以及目前大预言模型在中医学领域面临的问题。还讨论了未来大预言模型和中医学结合的方向。&lt;/p&gt;
+&lt;h1&gt;关键点：&lt;/h1&gt;
+&lt;p&gt;使用TCM+LLM的优势&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+中医学的四诊可以和大语言模型结合，因为是文字+图片数据
+&lt;/li&gt;
+&lt;li&gt;
+文字术语能和用来预训练模型
+&lt;/li&gt;
+&lt;li&gt;
+能用在中药复方，参考Alphafold3这种实现生物分子预测
+&lt;/li&gt;
+&lt;li&gt;
+协助诊疗
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;案例模型&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+岐黄问道大模型：南京大经中医药信息技术有限公司 2023-07-28
+&lt;/li&gt;
+&lt;li&gt;
+GLM-130B：北中医东方医院+智谱华章 2023-06-27
+&lt;/li&gt;
+&lt;li&gt;
+神农TCM-LLM：华东师大，基于LLama
+&lt;/li&gt;
+&lt;li&gt;
+TCMLLM-PR：北京交大
+&lt;/li&gt;
+&lt;li&gt;
+仲景（CMLM-ZhongJing）：复旦+同济
+&lt;/li&gt;
+&lt;li&gt;
+黄帝（Huang-Di）：南京大学信息管理学院 + 郑州大学人工智能学院，基于Ziya-LLama-13B
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;存在的问题&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+与传统医学价值观不符合。主要是专业知识上不足，以及幻想导致的错误回答
+&lt;/li&gt;
+&lt;li&gt;
+中医专业的可解释性有待加强。主要是说黑盒LLM难以解释内部机制，同理导致回答的中医诊断和治疗的过程难以追溯
+&lt;/li&gt;
+&lt;li&gt;
+技术可提升。主要是目前没用图片等多模态。
+&lt;/li&gt;
+&lt;li&gt;
+互联网医院中的代开方问题。违反了国家政策“禁止AI代替中医开处方”
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;未来方向&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+多模态
+&lt;/li&gt;
+&lt;li&gt;
+预测疾病
+&lt;/li&gt;
+&lt;li&gt;
+新药新方研发
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;研究方法：&lt;/h1&gt;
+&lt;p&gt;主要采用文献收集的方式，收集了来自中英文的文献。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;文献时间跨度：2020-2024&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;2020年：1篇&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;2021年：2篇&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;2022年：1篇&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;2023年：大约20篇&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;2024年：约15篇&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;期刊类型：包含了Arxiv等e-print平台&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;国际顶级综合性期刊：&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;Nature&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;Science&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;医学领域权威期刊：&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;JAMA (Journal of the American Medical Association)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;BMJ (British Medical Journal)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;Nature Medicine&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;专业医学期刊：&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;Journal of Medical Internet Research&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;Journal of Pediatric Urology&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;European Journal of Nuclear Medicine and Molecular Imaging&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;Journal of Pediatric Surgery&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;人工智能和计算机科学期刊：&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;NPJ Digital Medicine&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;IEEE Journal of Biomedical and Health Informatics&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;中文核心期刊：&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;中国科学：信息科学&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;计算机应用与软件&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;南京中医药大学学报&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;中国药理学与毒理学杂志&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;预印本平台：&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;arXiv&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;medRxiv&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;专业数据库收录的期刊：&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;PubMed收录的各类医学期刊&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;其他专业期刊：&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;Bioengineering&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;Frontiers in Digital Health&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;Journal of Medical Systems&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;参考文献的关键字：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;人工智能技术&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;Large Language Models (大语言模型)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;ChatGPT&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;Artificial Intelligence (人工智能)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;Machine Learning (机器学习)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;Natural Language Processing (自然语言处理)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;BERT (Bidirectional Encoder Representations from Transformers)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;Neural Networks (神经网络)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;医学和医疗应用&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;Medicine (医学)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;Healthcare (医疗保健)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;Clinical Decision Making (临床决策)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;Radiologic Decision Making (放射学决策)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;Disease Prediction (疾病预测)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;Personalized Medicine (个性化医疗)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;中医药&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;Traditional Chinese Medicine (中医药)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;数据和信息处理&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;Electronic Health Records (电子病历)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;Data Mining (数据挖掘)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;Predictive Models (预测模型)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;生物信息学&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;Biomolecular Interactions (生物分子相互作用)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;Bioengineering (生物工程)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;新兴医疗技术&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;Digital Health (数字健康)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;Multimodal Learning (多模态学习)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;研究方法和伦理&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;Interpretable Models (可解释模型)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;Artificial Intelligence Ethics (人工智能伦理)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;Scientific Research (科学研究)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;创新和发展&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;span style=&quot;color: rgb(0, 0, 0)&quot;&gt;&lt;span style=&quot;background-color: rgb(247, 247, 247)&quot;&gt;Innovation in Healthcare (医疗创新)&lt;/span&gt;&lt;/span&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;主要发现：&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+总体来说文献数量比较少
+&lt;/li&gt;
+&lt;li&gt;
+可用的专业中医学大模型不多，都是大参数模型
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;局限性：&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+信息比较简单，没有深入探讨LLM可以用在TCM哪些领域
+&lt;/li&gt;
+&lt;li&gt;
+当前LLM的对比情况没有涉及
+&lt;/li&gt;
+&lt;li&gt;
+没有提到信息保密问题
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;与我的研究相关性：&lt;/h1&gt;
+&lt;p&gt;[讨论这篇文献如何与你的研究主题相关]&lt;/p&gt;
+&lt;p&gt;第一篇综述可以参考这个结构来，收集下目前大语言模型在TCM的现状，可以重点写大预言模型的评分，以及大参数模型和小参数模型的区别，存在的隐私问题，怎么解决隐私问题等。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;个人思考：&lt;/h1&gt;
+&lt;p&gt;[你对这篇文献的看法、可能的应用或改进]&lt;/p&gt;
+&lt;p&gt;看起来像普通同学写的练手论文，可以作为我的i第一篇文章&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h1&gt;引用句子：&lt;/h1&gt;
+&lt;p&gt;[复制文献中的关键句子，记得标注页码]&lt;/p&gt;
+&lt;h1&gt;后续行动：&lt;/h1&gt;
+&lt;p&gt;继续找其他综述&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_6">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/6/陈 等 - 大语言模型在中医药领域的应用、挑战与前景.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Thesis rdf:about="https://kns.cnki.net/kcms2/article/abstract?v=QenloEQs_R-oHG8lmU7ZpSSWH9yA3iCBYWgc9MtpGUAJ4FrK4rYdUPkmQjgmAEd6cKUHJXOK8Z3L2blGILL-uGbea1syhjxUREOggUdpkkWWtAljB0QU_ZobdEjdtVWibF9nIj_E3NO4ppXIxkj6T4JUviLUgfDc2Ihc_FxMXhQm01j92Eh7PUt_BXaFq796&amp;uniplatform=NZKPT&amp;language=CHS">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>大理大学</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>贾</foaf:surname>
+                        <foaf:givenName>宗荣</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_12"/>
+        <dc:title>融合大语言模型的中药领域知识图谱问答系统的研究</dc:title>
+        <dcterms:abstract>随着大语言模型问答系统的大量出现,这些系统在问答领域展现出了卓越的自然语言处理能力。然而,在准确性和可解释性方面,以及特定专业领域的问答中,大语言模型问答系统与知识图谱问答系统相比,仍有一定的差距。同时,现有的知识图谱问答系统研究在语义理解和答案生成方面也面临局限。鉴于这两种方法各有优缺点,并且它们之间存在互补性,本研究提出了一种通过融合大型语言模型和知识图谱来构建智能问答系统的解决方案。
+
+本方案利用图数据库技术,基于丰富的中药开源数据,利用知识图谱的知识提取和知识融合技术,精心设计并构建了一个全面的中药领域知识图谱。该图谱涵盖了中药的性状、功效、临床应用等多个维度,囊括了各种实体、属性以及它们之间的复杂关系,为问答系统提供准确的数据支持,并通过该知识图谱所包含的结构化数据实现问答系统中的数据检索。此外,围绕该知识图谱,本方案还构建了大量问答对数据集,对大语言模型进行微调以优化大语言模型,加强在问句解析方面的能力。通过结合该模型并设计合理的提示词,利用大语言模型出色的语义解析能力实现高效的问句解析,并生成对应的查询语句以检索知识图谱。针对检索结果,再次调用大语言模型并设计适当的提示词,利用其优秀的文本生成能力,通过读取查询结果生成流畅且丰富的自然语言回答。最后,本方案利用最新的开发框架成功实现了该问答系统,并以可视化的形式展现了这一解决方案,为用户提供了一个直观、易用的问答平台。
+
+为了验证该策略的有效性,本研究通过在中药知识问答数据集上进行对比实验,将该融合策略开发的问答系统与仅依赖大语言模型的问答系统进行比较,并设计指标对实验结果进行评估。实验结果表明,融合知识图谱与大语言模型的方法显著提高了问答系统的准确性和可解释性。该方案同时利用了大语言模型在自然语言处理方面的优势,以及知识图谱高效的数据查询能力,证明了该方案在智能问答系统中的有效性,尤其是在特定专业领域的应用中。
+
+关键词:
+
+知识图谱；大语言模型；问答系统；中药</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://kns.cnki.net/kcms2/article/abstract?v=QenloEQs_R-oHG8lmU7ZpSSWH9yA3iCBYWgc9MtpGUAJ4FrK4rYdUPkmQjgmAEd6cKUHJXOK8Z3L2blGILL-uGbea1syhjxUREOggUdpkkWWtAljB0QU_ZobdEjdtVWibF9nIj_E3NO4ppXIxkj6T4JUviLUgfDc2Ihc_FxMXhQm01j92Eh7PUt_BXaFq796&amp;uniplatform=NZKPT&amp;language=CHS</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <z:type>硕士论文</z:type>
+    </bib:Thesis>
+    <z:Attachment rdf:about="#item_12">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/12/贾 - 融合大语言模型的中药领域知识图谱问答系统的研究.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Thesis rdf:about="https://kns.cnki.net/kcms2/article/abstract?v=QenloEQs_R9mIPi8cwvm-8UYSOf6s9eeh2Iw_LmJ9ppKvfELwU5MvJQUm1z3pNlStG6gisS5iYucelskfR-4ZhhclJwtjg2RCDKrHZl9gnanvzL_jU9wz9laTsOwcIsxrJ6F_u-4xwT5Dfa_4bXZ_V3unLjKq4ENjnHQujkYeHq0qFAcBkpmm9A2DEWSn9HH&amp;uniplatform=NZKPT&amp;language=CHS">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>江苏省</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>南京中医药大学</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>周</foaf:surname>
+                        <foaf:givenName>宗桢</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_11"/>
+        <dc:title>中医疫病文献的知识图谱构建与应用研究</dc:title>
+        <dcterms:abstract>疫病,以其高度的传染性和潜在的致命性,对人类健康造成严重威胁。中医药凭借几千年的发展历程,在疫病的预防和治疗方面形成了完整的理论体系和丰富的诊疗经验。中医疫病文献是中医疫病领域的主要知识载体,其中记载了许多治疗方法和经验,具有极高的医学研究和临床价值。在人工智能与大数据时代,对中医疫病文献进行挖掘和利用是传承与创新的重要任务之一。但还存在如下挑战:一方面疫病文献多数以书籍的形式存储,非结构化的数据难以利用,对数据的人工处理与抽取耗时耗力。另一方面,现有对知识进行应用的系统大都采用模板化的方式进行,对于多变的临床情景和使用需求无法提供灵活、准确的回应。针对上述问题,本文从以下方面开展研究: (1)中医疫病文献的知识抽取。对传统的BERT-BILSTM-CRF模型进行改进,通过改进后的模型对中医疫病文献进行知识抽取。具体来说,在传统的BERT-BILSTM-CRF模型中加入残差网络并且将原始的BERT模型替换为BERT-WWM模型,使用人工标注的疫病数据集进行训练,通过实验证明改进后效果得到了提升,在P值、R值、F1值上比原模型分别提高了 2.15%、0.86%、1.56%;之后利用改进的模型对剩余数据进行抽取,从而将非结构化的中医疫病数据转为结构化数据。 (2)中医疫病文献的知识补全与图谱构建。由于知识抽取会不可避免造成部分信息丢失,为了弥补信息丢失同时挖掘隐含知识,本研究通过对知识表示学习模型进行实验,利用CrossE模型对抽取出的三元组进行处理,在向量空间中映射各实体和关系的表示进而通过链路预测来补全知识库中缺失的信息。之后将抽取与补全后的数据,利用Neo4j图数据库构建中医疫病领域包含病症、症方、方药等关系的知识图谱,方便疫病知识的展示和应用。 (3)结合知识图谱的中医疫病问答大模型构建。为了更高效地利用处理得到的中医疫病知识图谱数据,提出了一种将知识图谱有效与大语言模型进行融合的方法。通过将图谱利用ChatGPT转为指令调优数据集,让模型有效学习其中的知识,提高回答能力。使用LoRA、Ptuning v2等技术进行参数高效调优,降低了训练时计算资源的消耗,并与其它大模型进行了实验对比,证明知识图谱的融入能有效提高模型领域内的性能和应用效率。 (4)基于大语言模型的中医疫病知识图谱问答系统设计与实现。本研究设计并实现了中医疫病问答系统,使用Flask框架进行后端程序开发、使用React进行前端的实现。系统包括了内容介绍、疫病问答、图谱展示等功能,以便用户使用问答模型和查看图谱。通过直观的问答界面,用户能够轻松获取中医疫病相关知识,同时也支持对知识图谱的查询,大大促进了相关知识的普及和传播。 
+关键字：中医药;命名实体识别;疫病;知识图谱;大语言模型;</dcterms:abstract>
+        <z:libraryCatalog>10.27253/d.cnki.gnjzu.2024.000019</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://kns.cnki.net/kcms2/article/abstract?v=QenloEQs_R9mIPi8cwvm-8UYSOf6s9eeh2Iw_LmJ9ppKvfELwU5MvJQUm1z3pNlStG6gisS5iYucelskfR-4ZhhclJwtjg2RCDKrHZl9gnanvzL_jU9wz9laTsOwcIsxrJ6F_u-4xwT5Dfa_4bXZ_V3unLjKq4ENjnHQujkYeHq0qFAcBkpmm9A2DEWSn9HH&amp;uniplatform=NZKPT&amp;language=CHS</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <z:type>硕士论文</z:type>
+    </bib:Thesis>
+    <z:Attachment rdf:about="#item_11">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/11/周 - 中医疫病文献的知识图谱构建与应用研究.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Thesis rdf:about="https://kns.cnki.net/kcms2/article/abstract?v=QenloEQs_R8S0RdkDeGU-z8sL_1jgnQSU6RfawAHosUbDBuBXtMSijVUeU0WnnPdn4d7KEbyFjP9uixKa-7wmw53f71FasjJuMYdOS58qbXXY3EWHHmW98ex-OJzqD0tTkldgct5CHeIY-Zpar36QvOq9TNaVKPv2P2w0Wv_ftclN-T5ph74pVLXI6QiCrEC&amp;uniplatform=NZKPT&amp;language=CHS">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>南京中医药大学</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>李</foaf:surname>
+                        <foaf:givenName>玥</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_15"/>
+        <link:link rdf:resource="#item_14"/>
+        <dc:title>国医大师干祖望诊治鼻炎医案的知识图谱构建及用药规律研究</dc:title>
+        <dcterms:abstract>鼻炎是一种耳鼻喉科常见疾病,在我国发病率较高。虽然鼻炎通常不会威胁生命安全,但它会严重影响患者的生活质量。国医大师干祖望在治疗耳鼻喉科疾病方面具有丰富的经验,他在中医耳鼻喉科领域做出了许多贡献,不仅在理论创新方面有所突破,如提出了“五诊”和“十纲”等概念,还创新出“鼻渊合剂”和“参梅含片”等经验方。干祖望教授的工作和研究对整个中医领域产生了深远的影响,并获得了广泛的认可和尊敬。然而,由于医案信息的非结构化特点,如何快速利用计算机技术挖掘国医大师的医案数据,发现其中隐藏的用药规律,以实现辅助治疗,已成为中医药信息领域的研究热点。针对这一问题,本文以知识图谱为基础,结合大语言模型对干祖望教授的医案文本进行整理和分析。主要研究内容如下: (1)针对耳鼻喉科知识图谱暂未有可复用的本体模型这一问题,本文通过对干祖望教授临证经验的背景知识梳理,自顶向下完成了以国医大师医案书写格式为基础的医案本体构建,致力于为后续进一步进行医案中的知识序化提供清晰的模式参考。 (2)考虑到传统的医案知识抽取多采用人工标注方法,导致抽取成本过高的因素,为减少人工投入时间并加快抽取进程,本文利用大语言模型的上下文理解与文本生成能力,微调大语言模型,实现自动抽取疾病、症状、检查、舌象、脉象等实体及其对应关系与属性。经过多模型对比实验,证实了大语言模型在知识抽取方面的强大性能。在构建知识图谱的过程中,参考模式层与数据层进行Schema的设置,利用微调后的大语言模型对非结构化医案文本进行自动化抽取,生成的结构化的三元组数据同步存储到图数据库Nebula Graph中,并通过Cypher语言实现知识的可视化表达,这一过程简化了实体导入和关系连接的步骤,使构建一步到位。 (3)由于知识图谱的构建以患者为中心,容易忽视干祖望教授诊疗时的用药规律。本文采用多种数据挖掘技术对干祖望教授的用药规律进行全面分析,使用关联规则、皮尔逊相关系数等方式揭示了国医大师的用药经验和药物之间的潜在关联关系,补充了知识图谱中未展现出来的隐性信息。 (4)为方便医案经验学习,利用Django框架开发了集成知识图谱展示、中药信息检索、医案数据挖掘和医案处方推荐四个功能的国医大师医案用药规律分析系统,为中医辅助诊疗提供新思路。 本文以国医大师干祖望教授诊疗医案为数据基础,通过专业人士识别实现了医案的可读性处理,利用大语言模型对非结构化医案文本进行自动抽取,生成结构化的三元组数据,并同步存储到图数据库Nebula Graph中,简化了实体导入和关系连接的过程。利用Cypher语言实现知识的可视化表达,通过多种数据挖掘方法对干祖望教授的用药规律进行全面分析,皮尔逊相关系数等挖掘结果补充了知识图谱中未展现出来的隐形信息。最后,利用Django框架开发了干祖望教授医案用药规律分析系统平台,为中医诊疗用药规律的研究提供新的研究思路
+关键词：	大语言模型;知识图谱;自动化抽取;处方推荐;用药经验;</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://kns.cnki.net/kcms2/article/abstract?v=QenloEQs_R8S0RdkDeGU-z8sL_1jgnQSU6RfawAHosUbDBuBXtMSijVUeU0WnnPdn4d7KEbyFjP9uixKa-7wmw53f71FasjJuMYdOS58qbXXY3EWHHmW98ex-OJzqD0tTkldgct5CHeIY-Zpar36QvOq9TNaVKPv2P2w0Wv_ftclN-T5ph74pVLXI6QiCrEC&amp;uniplatform=NZKPT&amp;language=CHS</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>学科专业：	软件工程</dc:description>
+        <z:type>硕士论文</z:type>
+    </bib:Thesis>
+    <bib:Memo rdf:about="#item_15">
+        <rdf:value>&lt;div data-schema-version=&quot;9&quot;&gt;&lt;p&gt;这篇文章使用了多个LLM对比其准确性。使用350+例兵力数据进行数据表及测试，训练集和验证集比例为7:3。此外，还使用了F1值、精确率Precision、召回率Recall三个指标评估自动化抽取的结果。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_14">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/14/李 - 国医大师干祖望诊治鼻炎医案的知识图谱构建及用药规律研究.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Thesis rdf:about="https://kns.cnki.net/kcms2/article/abstract?v=QenloEQs_R9lBrlNC6pfSsk6Ji0b6jE8neZd7CWZ85OFvcHDqAdJioa45AWe5dCvB3OtbkbeL6PKgRvXpHc2V2MhmTGgdD5aKPgxQoexM7RnWsT60HHs_m7oVIQ1-GxHsD-ApwzGG-tfIrg0u6Fh_uj0yaSGzBQYAbXFOun1Kz781E5dlw4uFGh7urpKT-DjUpjcpP6jeC8vK-p62dYiCA==&amp;uniplatform=NZKPT">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>南京中医药大学</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>朱</foaf:surname>
+                        <foaf:givenName>金阳</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_17"/>
+        <dc:title>基于知识图谱的肝病智能问答的研究</dc:title>
+        <dcterms:abstract>随着互联网行业的快速发展,我们进入了一个信息爆炸的时代,如何在海量的信息中有效且迅速地检索到我们所需的知识,已经成为当前研究者面临的一大挑战。知识图谱和大语言模型的出现为知识获取提供了便利。本课题首先研究了关系抽取模型,为自动构建肝病知识图谱提供了技术支持。其次,结合中医临床医案和医疗网站数据,构建了融合中西医的肝病知识图谱,为智能问答提供专业而又准确的肝病知识。再次,基于QLoRA用医疗问答数据对中文LLaMA模型进行微调,构建了面向中医药领域的医疗问答大模型,并提出了中医药领域大语言模型的性能评估指标。最后,通过结合前文研究的知识图谱和医疗问答大模型,实现了肝病智能问答系统,为用户提供了科学准确的肝病医疗知识,满足了用户有关肝病知识的咨询需求。本文主要研究内容如下: (1)基于RoBERTa构建了中医药领域关系抽取模型RLTP。中医医案文本结构复杂且存在大量的实体重叠和实体嵌套问题,严重影响了知识图谱的自动化构建效果。因此,本文融合RoBERTa编码器和TPLinker解码器构建了 RLTP模型,在它的编码器和解码器之间使用改进后的LSTM握手模块连接。RLTP模型在单阶段完成实体识别和关系分类,解决了实体嵌套和重叠的问题,同时消除了曝光偏差。此外,本文利用通用信息抽取模型完成半自动数据标注工作,标注人员只需要审核通用模型的抽取结果,大大降低了数据标注的成本。RLTP在测试集上取得了准确率83.12%,召回率60.49%,F1值70.02%的良好识别效果,较对比模型至多提高了 41.99%,最后通过消融实验验证了改进模块的有效性。 (2)基于RLTP构建了肝病中西医结合知识图谱。目前医疗知识图谱研究相对较少,尤其缺乏中医药领域的肝病知识图谱,不能充分发挥中医药在肝病科的诊疗优势。因此,本文在关系抽取模型RLTP的基础上抽取出中医药知识,融合半结构化的网页数据和结构化的公开图谱数据,构建肝病中西医结合知识图谱。首先利用爬虫技术抓取医疗网站半结构化的实体和关系,然后将其与RLTP抽取结果和公开图谱数据进行实体对齐并融合,最终将融合后的图谱存储在Neo4j图数据库。知识图谱中实体数量为68714个,关系数量为467280 条。 (3)基于LLaMA2构建了医疗问答大语言模型。ChatGPT的成功向人们展示了大规模语言模型在中医药领域的应用潜力,但是目前LLM正面临着硬件瓶颈、模型专业知识不足、领域内评估困难等问题,限制了大模型与中医药的结合发展。因此,本文在LLaMA2的基础上构建了命名为ZhongJing的医疗问答大模型,该模型能够流畅地生成医疗回答。此外,为了评估模型的专业能力,本文参考医学生的考试题目,设计了中医药领域大语言模型的评估方法TCMEval。实验结果表明,ZhongJing较基线模型在中医药领域提高了 6.49%的TCMEval值,能够生成更符合医疗健康行业的回答。 (4)基于知识图谱和大语言模型设计并实现了肝病问答系统。将上述研究成果结合到系统实现中,通过结合知识获取和回答生成这两大核心技术,能够根据用户的输入查询图数据库得到肝病知识子图,然后利用医疗问答大模型和知识子图生成回答内容返回到前端界面,最终实现了系统的智能问答、图谱查询、图谱管理等功能。 
+关键词：	智能问答;知识图谱;大语言模型;关系抽取;NLP;</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://kns.cnki.net/kcms2/article/abstract?v=QenloEQs_R9lBrlNC6pfSsk6Ji0b6jE8neZd7CWZ85OFvcHDqAdJioa45AWe5dCvB3OtbkbeL6PKgRvXpHc2V2MhmTGgdD5aKPgxQoexM7RnWsT60HHs_m7oVIQ1-GxHsD-ApwzGG-tfIrg0u6Fh_uj0yaSGzBQYAbXFOun1Kz781E5dlw4uFGh7urpKT-DjUpjcpP6jeC8vK-p62dYiCA==&amp;uniplatform=NZKPT</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <z:type>硕士论文</z:type>
+    </bib:Thesis>
+    <z:Attachment rdf:about="#item_17">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/17/朱 - 基于知识图谱的肝病智能问答的研究.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Thesis rdf:about="https://kns.cnki.net/kcms2/article/abstract?v=QenloEQs_R-rlkiI3auQL2kcCoQ3cIAgBn3KdFeivdBHNoBUWAJq7UwlVVrTu1zcKUhn5OUeqW85_uE3c8nZd9xTS-BxC9NJwB6oGrOiPY6dZM7CP-Lp1vKz53kvR4K7alQqQ62OsRrxXXIX0mLcqe75zJ4qzAvkqyepD0m8d2lVOA7QvCV8T-6C_ghJ0wNSC6Rurh6hFjU=&amp;uniplatform=NZKPT&amp;language=CHS">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>中国中医科学院</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>刘</foaf:surname>
+                        <foaf:givenName>金垒</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_19"/>
+        <dc:title>冠心病中医人工智能辅助诊疗系统研究与开发</dc:title>
+        <dcterms:abstract>研究背景冠心病是全球重大公共卫生问题,是一种主要的死亡危险因素,在有些国家占据单一死亡原因的第一位。中国冠心病的患病率和死亡率近年来一直处于上升趋势。从Web of Science数据库检索显示,近30年来冠心病一直处于全球热点研究领域。中医药是中华文明的瑰宝,在常见病、多发病和重大疫情防治中发挥了重要作用。冠心病在中医学中归于“胸痹”、“真心痛”的范畴,中医学在防治冠心病领域已有数千年的临床实践,具有一定的诊疗特色和优势。全国名中医的诊疗水平代表着中医的第一梯队,名中医诊疗冠心病具有显著疗效。然而由于中医药自身的特点所限,名中医诊疗优势的推广与普及面临着中医人才培养周期长、名中医经验传承难度大等问题,难以满足广大患者对名中医诊疗日益增长的需求。因此迫切需要新技术以模拟、复制并推广名中医诊疗冠心病的方法,辅助中医人才培养和名中医经验传承,惠及广大患者。人工智能为医学领域的深度变革提供了路径。研究通过人工智能新技术模拟名中医临床诊疗冠心病的模式,实现中医冠心病的人工智能化诊疗,将成为上述问题的有效解决方案。研究目的针对上述问题,本研究探索通过人工智能新技术模拟全国名中医王阶教授诊疗冠心病的方法,形成针对冠心病的中医人工智能辅助诊疗系统,对诊疗系统的智能性和中医思维进行科学评估,对诊疗系统处方的中药分子成分和靶点调控机制进行展示。为冠心病的中医人工智能诊疗提供有效的解决方案,为名中医诊疗模式的批量化复制与推广、名中医诊疗经验传承和中医人才培养提供技术路径。研究方法1.基于文献研究明确研究方案通过对人工智能与医学交叉研究的文献进行定性和定量分析,获取其研究脉络、热点和前景方向,梳理人工智能在医学领域的主要应用和算法等。通过对中医与人工智能的交叉研究进行系统分析,对于制约中医与人工智能深度结合的原因进行了深入剖析。综合上述内容明确本研究的研究方案。2.基于研究方案拆解功能模块从顶层设计角度将冠心病中医人工智能辅助诊疗系统按功能模块进行拆解以分模块进行研究并细化技术路线。3.数据集构建收集王阶教授诊疗冠心病的临床医案、古今名医诊疗冠心病医案、冠心病中医诊疗指南和中医经典名方等相关数据,进行数据预处理和数据挖掘后构建冠心病的中医基础数据集。4.自然语言处理模块跟进自然语言处理的研究进展,选择适配中医冠心病诊疗的自然语言处理模型,并进行模型筛选和评估。5.人工智能诊疗模块基于文献综述结果,分别采用知识图谱、专家增强机器学习和深度学习方法,基于基础数据集构建和训练人工智能诊疗模型并进行测试评估。6.辅助功能模块模拟中医专家真实的诊疗模式和过程,设计并开发针对冠心病中医人工智能诊疗的辅助功能,将本研究所构建的功能和模型进行整合,形成便捷易用的冠心病中医人工智能辅助诊疗系统。7.图灵测试针对冠心病中医人工智能辅助诊疗系统设计人工智能图灵测试。对王阶教授医案处方和人工智能诊疗系统根据相应医案开具的处方进行随机编盲,邀请中医心血管领域的临床专家对上述两种处方进行鉴别,统计临床专家的错误分类率。研究结果1.依据临床辅助决策系统的构建方法,结合中医药的特点选择人工神经网络、自然语言处理、机器学习、深度学习、知识图谱等人工智能技术作为研究中医人工智能诊疗系统的技术手段。选定冠心病这一病种,通过人工智能模拟全国名中医王阶教授诊疗冠心病的模式和方法,形成冠心病中医人工智能辅助诊疗系统的研究方案。2.依据人工智能诊疗系统的顶层设计和功能架构,确定分模块研究的拆解方案,并对冠心病中医人工智能辅助诊疗系统的5个主要模块的具体实现进行细化如下:模块1是症状体征采集模块。实现了患者口述症状与体征的语音识别与智能处理。模块2是人工智能诊疗模型模块。采用知识图谱、专家增强机器学习和深度学习方法,构建人工智能诊疗模型。模块3是人工智能处方的智能审核、医师人工修改和处方机制分析模块。模块4是系统数据库模块,支持数据的管理和维护,为模型计算和数据展示提供支撑。模块5是前端显示模块,实现与医师操作界面、人工智能诊疗模型、数据分析与展示界面以及后台数据库的交互。3.构建了冠心病基础数据集。收集王阶教授诊疗冠心病临床医案582条、古今名医诊疗冠心病医案2055条、冠心病中医诊疗指南和中医经典名方10140首作为数据来源构建基础数据集。以支持自然语言处理模型与人工智能诊疗模型的构建和训练。4.采用了与ChatGPT类似的预训练大模型的方式构建冠心病中医自然语言处理模型的预训练模块。筛选出的最优模型为以Bert-base-Chinese作为预训练模型,以输入层768维、中间层32维和输出层109维的全连接神经网络模型作为微调模型的自然语言处理模型。经测试最优模型的准确率为为0.9373。5.针对构建的三种模型进行评估,基于知识图谱的人工智能诊疗模型的主方准确率为71.17%,加减方准确率为90%;基于专家增强机器学习的人工智能诊疗模型处方与王阶教授处方符合度为73.65%;基于深度学习的人工智能诊疗模型处方与王阶教授处方符合度为84.85%。6.设计开发了处方推荐指数功能、用药加减功能、人工智能处方剂量初始赋值功能、处方智能审核功能、智能处方调控疾病的分子和靶点机制分析功能和知识图谱可视化展示功能。7.共邀请5位中医心血管领域的临床专家作为受访专家,5位专家鉴别两种处方的错误分类率分别为55%、60%、55%、60%和55%,均超过50%接近随机猜测。冠心病中医人工智能辅助诊疗系统经初步评估通过了图灵测试。研究结论1.基于名中医临床诊疗医案和诊疗经验进行数据预处理和数据挖掘方法构建针对中医冠心病的自主数据集,采用预训练模型与基于自主数据集训练微调模型相结合的方法构建针对冠心病的中医自然语言处理模型,该方法能够有效实现诊疗系统对患者口述症状的识别和处理。2.基于构建的中医冠心病基础数据集,采用知识图谱、专家增强机器学习和深度学习方法分别构建人工智能诊疗模型,实现给诊疗系统语音录入或输入症状体征,系统智能输出中医处方的功能。三个人工智能诊疗模型均具有良好的效果。3.冠心病中医人工智能辅助诊疗系统经初步评估通过了人工智能图灵测试,中医心血管领域的临床专家鉴别机器智能处方与王阶教授处方的过程接近随机猜测过程,人工智能诊疗系统具有了一定“智能”即具有一定的中医思维。4.经功能模块和辅助功能整合后的冠心病中医人工智能辅助诊疗系统,能够为医师临床诊疗冠心病提供智能化便捷化的临床辅助决策支持并辅助名医经验传承和医师临床思维培养。本研究针对冠心病构建中医人工智能辅助诊疗系统的方法经初步验证具有良好的可行性和科学性。这为其他中医专家基于人工智能新技术研究人工智能诊疗系统提供了研究参考和方案借鉴。 
+关键词：	冠心病;中医药;人工智能;自然语言处理;专家增强机器学习;深度学习;图灵测试;</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://kns.cnki.net/kcms2/article/abstract?v=QenloEQs_R-rlkiI3auQL2kcCoQ3cIAgBn3KdFeivdBHNoBUWAJq7UwlVVrTu1zcKUhn5OUeqW85_uE3c8nZd9xTS-BxC9NJwB6oGrOiPY6dZM7CP-Lp1vKz53kvR4K7alQqQ62OsRrxXXIX0mLcqe75zJ4qzAvkqyepD0m8d2lVOA7QvCV8T-6C_ghJ0wNSC6Rurh6hFjU=&amp;uniplatform=NZKPT&amp;language=CHS</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <z:type>博士论文</z:type>
+    </bib:Thesis>
+    <z:Attachment rdf:about="#item_19">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/19/刘 - 冠心病中医人工智能辅助诊疗系统研究与开发.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Thesis rdf:about="https://kns.cnki.net/kcms2/article/abstract?v=QenloEQs_R9qW6lTFxR6M3VOGZl-iVDnbJubz05EquPv8Zcpz3wor1gvQxuWFQQtgGNTIrAMiBI9lqIIBuGFPn8LLkFv9njJI7iSrUjVchWyUivMXsf1mVKSaHkbGVi1eJ32RnkSUcirtmPGfGrelvExeD264t5hzY1pcX_gerCOOyGvdkwfzNoWFps41W6i&amp;uniplatform=NZKPT&amp;language=CHS">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>南京中医药大学</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>刘</foaf:surname>
+                        <foaf:givenName>文静</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_21"/>
+        <link:link rdf:resource="#item_29"/>
+        <dc:title>面向中医文化传播的中医古籍机器翻译研究</dc:title>
+        <dcterms:abstract>目的为了推动中医文化“走出去”,深入研究公众对中医古籍翻译的认知,并运用机器翻译方法实现中医古籍的自动翻译。以期打破中医知识传播的传统模式,帮助公众阅读和理解中医古籍中蕴含的知识和文化内涵,促进中华文化的传承和传播。 方法首先,通过文献分析法系统梳理古籍机器翻译和中医古籍翻译的研究现状及发展趋势,关注语料匮乏时可采用的数据增强方法。然后,采集社交媒体用户关于中医古籍翻译的讨论文本,利用LDA主题模型和百度AI情感倾向分析进行主题识别和情感分析,深入分析用户对中医古籍翻译认知的现状和对翻译工作的主要关注点。其次,运用比较研究法,对比分析mT5、mBART和mRASP等多个预训练模型在中医古籍的古英、古现和现英三种翻译场景下的翻译性能。最后,运用回译的数据增强方法,进一步提升模型的翻译性能。 结果(1)社交媒体用户对中医古籍翻译的讨论可归纳出5个主题,分别是:中医文化与理论表达、中医知识的跨文化传播、中医古籍翻译准则与策略、中医古籍翻译全球化和中医临床实践与研究成果。情感分析结果显示:社交媒体中有56%的用户讨论对中医古籍翻译工作持积极情感,有43%的用户讨论表现为消极情感,仅有1%的用户讨论是对中医古籍翻译持中性情感。综合主题识别和情感分析结果,用户对中医古籍翻译工作的主要关注体现在四个方面:①中医古籍翻译可以促进中华文化传承和传播;②现有翻译方式难以准确传达文化内涵;③缺乏统一的翻译标准;④缺少有效的翻译工具。 (2)构建中医古籍古现英平行语料,在多语言预训练模型的基础上进行微调训练,可以在古英(lzh-en)、现英(zh-en)和古现(lzh-zh)的翻译场景中展现优异性能。对比分析发现:在古英和现英的翻译场景中,多语言预训练模型的微调性能呈现的层次性排序结果完全一致:mBART-large-cc25&lt;mRASP&lt;mT5-large&lt;mBART-large-50。mBART-large-50模型在古英翻译的BLEU值达29.23,在现英翻译场景中的BLEU值达32.06。在古现的翻译场景中,各模型的性能表现顺序为:mBART-large-cc25&lt;mBART-large-50&lt;mT5-large&lt;mRASP。mRASP模型在古现翻译场景中的BLEU值达23.65。 (3)运用并对比三种回译的数据增强方法,进一步提升基于mBART-large-50和mRASP预训练模型微调得到的模型在三种翻译场景中的性能。在古英(lzh-en)的翻译实验中,在基于反向翻译模型的回译策略下BLEU值提高了 1.53%,运用火山翻译的回译使得BLEU值降低了 0.1%,基于ChatGPT-4的回译策略实现BLEU值0.61%的提升。在现英(zh-en)的翻译实验中,基于反向翻译模型的回译策略使BLEU值增加1.03%,基于火山翻译的回译策略实现0.53%的BLEU值提升,基于ChatGPT-4的回译策略使BLEU值提高0.9%。在古现(lzh-zh)翻译场景下的回译实验中,基于反向翻译模型的回译策略使BLEU值提升1.1%,基于火山翻译的回译策略使BLEU值下降1.02%,基于ChatGPT-4的回译策略实现BLEU评分增加0.52%。 结论(1)中医古籍翻译的工作进展迅速,但尚存在一定不足:在国家大力发展中医药和积极推进新时代古籍翻译工作的背景下,中医古籍翻译工作向全球化发展,很多经典古籍被翻译为多种国家的语言。然而,依然存在着中医术语翻译标准不一、译名不统一的问题,使得译本的翻译质量参差不齐,严重制约了中医在国际上的传播和使用。 (2)预训练模型在中医古籍翻译中具有较高的有效性:构建高性能的机器翻译模型是实现中医古籍自动翻译的核心,研究表明以mBART-large-50和mRASP预训练模型为基础微调训练得到的mBART-lzh-en、mBART-zh-en和mRASP-lzh-zh模型分别在中医古籍的古英、现英和古现翻译场景中表现优异,与市场上的在线翻译平台相比也有一定优越性。 (3)基于反向翻译模型回译的数据增强方法领域适应性较强:基于反向翻译模型回译的数据增强方法在三种翻译场景中均实现BLEU值1.0%以上的提升,表明这一回译策略更适用于中医古籍平行语料的生成,具有更高的领域适应性。此外,利用ChatGPT-4回译的数据增强方法在提升机器翻译性能上也有一定的有效性。 
+关键词：	中医文化传播;中医古籍;机器翻译;预训练模型;数据增强;</dcterms:abstract>
+        <z:libraryCatalog>10.27253/d.cnki.gnjzu.2024.000073</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://kns.cnki.net/kcms2/article/abstract?v=QenloEQs_R9qW6lTFxR6M3VOGZl-iVDnbJubz05EquPv8Zcpz3wor1gvQxuWFQQtgGNTIrAMiBI9lqIIBuGFPn8LLkFv9njJI7iSrUjVchWyUivMXsf1mVKSaHkbGVi1eJ32RnkSUcirtmPGfGrelvExeD264t5hzY1pcX_gerCOOyGvdkwfzNoWFps41W6i&amp;uniplatform=NZKPT&amp;language=CHS</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>学科专业：公共管理</dc:description>
+        <z:type>硕士论文</z:type>
+    </bib:Thesis>
+    <bib:Memo rdf:about="#item_21">
+        <rdf:value>&lt;div data-schema-version=&quot;9&quot;&gt;&lt;p&gt;以BERT模型为主&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_29">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/29/刘 - 面向中医文化传播的中医古籍机器翻译研究.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Thesis rdf:about="#item_22">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>华中科技大学</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>范</foaf:surname>
+                        <foaf:givenName>嘉豪</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_23"/>
+        <dc:title>基于端到端网络的慢阻肺中医智能诊疗模型设计与系统实现</dc:title>
+        <dcterms:abstract>慢性阻塞性肺疾病,简称慢阻肺,是最常见的慢性呼吸病,其较高的发病率和死亡率给社会带来了沉重的负担。中医治疗慢阻肺具有疗效精准、副作用小的优势,规范的中医治疗是降低疾病负担的关键。目前我国慢阻肺患者基数大、合格的中医生数量不足,因此针对慢阻肺的中医智能诊疗研究具有重要现实意义。针对慢阻肺中医诊疗数据集缺乏问题,本文首先设计了一种全新的慢阻肺患者信息录入形式,并对湖北省中医院肺病科近五年来(2016-2011)的临床病案数据进行规范化录入,进一步地,本文对患者症状、体征等特征进行分级规范化,并提出将无症状看作一种症状表现以统一患者症状集长度,最终得到规范化的慢阻肺中医诊疗数据集,消除了原始病案数据中的信息杂乱现象,能够更好地适应后续模型训练。针对慢阻肺患者症状繁多,治疗处方呈现多样化,中医智能诊疗缺乏“症状-证型-处方”一体化模型等问题,本文提出了一种基于编码器-解码器结构的端到端慢阻肺智能诊疗模型。模型首先通过Transformer编码器充分提取患者的病理特征,依此推断出患者的证型,进一步地结合患者的病理信息和证型信息解码处方。针对模型构建过程中存在的证型和药物分布不均衡问题,本文将损失函数分为证型推断损失和处方推荐损失两部分,证型推断损失通过改进Focal Loss以提升模型对难辨证型的关注度,处方推荐损失采用一种非对称的损失函数区分模型对不同药物的正样本和负样本的关注度,进而缓解每种药物的正负样本数量差异对模型输出的干扰。在本文构建的慢阻肺中医诊疗数据集上进行实验,将本文提出的模型与经典模型进行对比,实验结果表明,证型推断的F1值达71.10%,处方推荐的F1值达63.51%,高于对比模型。同时,对比实验表明改进后的损失函数相比传统交叉熵损失明显降低了数据不均衡对模型的影响,模型的证型推断和处方推荐结果更精准。为了实际地辅助医生诊断,本文基于上述慢阻肺智能诊疗模型,设计并实现了慢阻肺中医智能诊疗系统,系统具备证型推断、处方推荐等功能,目前本系统已在湖北省中医院投入使用。 
+关键词：慢性阻塞性肺疾病;证型推断;处方推荐;数据不均衡;</dcterms:abstract>
+        <dc:subject>
+            <dcterms:LCC>
+               <rdf:value>10.27157/d.cnki.ghzku.2022.002615</rdf:value>
+            </dcterms:LCC>
+        </dc:subject>
+        <dc:description>学科专业：	信息与通信工程</dc:description>
+        <z:type>硕士论文</z:type>
+    </bib:Thesis>
+    <z:Attachment rdf:about="#item_23">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/23/范 - 基于端到端网络的慢阻肺中医智能诊疗模型设计与系统实现.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Thesis rdf:about="QenloEQs_R_Jxx9z49kpxgxN7Dj7wg0PzRBFsYid18ZFyAw56rHIxkkxddazwOtLF__8djx72TvAivtSBES2AOzTHfIAzLjW1wQKMIUFNn2tiXbadyjqQ78jQb7zYVfiFXPbNgQz1sRv8ZbweZhvZ0jLUQOp94BTxCT_tZFMUFNpiKx5ez855xULucOpVezN">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>南京中医药大学</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>张</foaf:surname>
+                        <foaf:givenName>忠坤</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_25"/>
+        <dc:title>基于思维导图的图形化PDDL编译方法与应用研究</dc:title>
+        <dcterms:abstract>智能规划是人工智能领域的一个重要分支,在机器人、自动驾驶和工业自动化等领域有着重要的应用。PDDL是智能规划领域广泛使用的一种逻辑描述语言,具有形式化和标准化等特点。然而,目前PDDL模型开发面临着多版本语法格式不兼容,领域模型和问题模型复杂度高以及PDDL文件阅读困难等问题。使用可视化的方式建模PDDL成为规划社区解决上述问题的一个研究方向。思维导图能对信息进行清晰地组织和展示,让抽象复杂的概念变得更易理解与掌握,因此被认为是一个优秀的视觉建模工具。通过思维导图来对PDDL进行可视化建模与规划,需要研究一个编译方法来实现思维导图与PDDL之间的编译转换。与此同时,ROS已成为机器人领域的热门开发框架,但目前还缺少将PDDL建模与ROS系统集成在一起的相关研究。因此,研究并设计出思维导图语言与PDDL语言之间的编译转换方法并将其集成在ROS系统中具有重要的研究价值和实际意义。 本文主要研究了实现思维导图与PDDL之间互相转化的编译方法,以及实现ROS系统与图形化PDDL建模集成的应用方法。在此基础上,本文进一步结合大语言模型ChatGPT,实现了将自然语言转换为图形化PDDL的自动建模功能。最终,本文集成上述实现,设计了图形化PDDL在线规划系统。本文的主要工作总结如下: (1)研究jsMind思维导图与PDDL之间的编译转换方法。本文首先分析jsMind语言与PDDL语言的词法和语法结构,并设计了对jsMind语言和PDDL语言的词法分析、语法分析和程序转换三个功能模块,实现了 jsMind语言与PDDL语言之间双向转换的编译流程,并对编译转换方法进行了功能对比测试。测试用例选自多届国际规划竞赛的比赛用例。测试结果表明,本文设计的编译转换方法能顺利地将思维导图编译转换为PDDL模型,在对多版本PDDL模型的编译支持上也具有明显的优越性。 (2)研究利用大语言模型ChatGPT辅助图形化PDDL建模的方法。在后端中设计了 ChatGPT的接口模块,通过对返回内容进行规则设定,使用户输入的自然语言被严格返回为PDDL语法格式数据。之后通过编译转换方法,将ChatGPT接口返回的PDDL数据编译转换为jsMind思维导图数据,实现了从自然语言输入到图形化PDDL自动生成的建模流程,可以为希望快速建模的用户提供帮助。 (3)针对当前缺少集成PDDL建模与ROS系统相关研究的现状,本文研究了图形化PDDL在ROS系统上的应用方法。考虑到ROS节点之间通过订阅和接收话题消息进行信息交换,本文设计了一个ROS应用模块。模块首先分析规划结果的格式,对规划结果进行有效内容的提取,生成Token流,之后构建话题消息的中间表示,并将Token流中的数据存储到中间表示中,最终数据被转换为话题消息并通过节点发布到ROS网络中。机器人可以通过订阅该话题消息,按照规划结果进行相应地运动。实验中,巡逻机器人成功按照规划结果进行活动,并完成巡逻任务,这表明ROS应用方法具有较高的可操作性和实用性。 (4)本文基于对图形化PDDL编译方法的研究成果,以及对大语言模型ChatGPT和ROS系统的研究和集成工作,分析并设计了图形化PDDL在线规划系统。系统遵循软件工程的设计思想,基于Python语言和Django框架进行系统开发,并将上述工作集成到软件系统中,方便开发者进行PDDL的快速建模和对ROS项目的任务规划。经过与其他PDDL建模系统的功能对比,在线规划系统在PDDL的建模、规划与调度方面都具有明显的便捷性和集成性优势。
+关键词：	智能规划;规划领域描述语言;编译方法;大语言模型;机器人操作系统;</dcterms:abstract>
+        <z:libraryCatalog>10.27253/d.cnki.gnjzu.2024.000136</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>QenloEQs_R_Jxx9z49kpxgxN7Dj7wg0PzRBFsYid18ZFyAw56rHIxkkxddazwOtLF__8djx72TvAivtSBES2AOzTHfIAzLjW1wQKMIUFNn2tiXbadyjqQ78jQb7zYVfiFXPbNgQz1sRv8ZbweZhvZ0jLUQOp94BTxCT_tZFMUFNpiKx5ez855xULucOpVezN</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>学科专业：软件工程</dc:description>
+        <z:type>硕士论文</z:type>
+    </bib:Thesis>
+    <z:Attachment rdf:about="#item_25">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/25/张 - 基于思维导图的图形化PDDL编译方法与应用研究.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Thesis rdf:about="https://kns.cnki.net/kcms2/article/abstract?v=QenloEQs_R8uSuXZI1p7nCAKzcprDw0DN-Wxwysz9Sfvl4rEJ3Y5TiMD3qeuHwsYfVDdh3vfCpTV2A7mr1YQChHkr_ET3ul0rfAUoDg88ihxJEZr-5hLPTvg6oW6rUIdiDGV0-xLgAfPKsPVxCx3o-z9K97sSjnZd6H_uiHnR7Nkrx7AVICPzHAFBNNLlvKbm4CxRyTbxHw=&amp;uniplatform=NZKPT&amp;language=CHS">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>北京邮电大学</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>张</foaf:surname>
+                        <foaf:givenName>铮</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_27"/>
+        <link:link rdf:resource="#item_28"/>
+        <dc:title>面向中医古籍的命名实体识别算法研究</dc:title>
+        <dcterms:abstract>中医古籍是中华民族数千年智慧的结晶,是中国传统文化中最宝贵的财富之一。然而,中医古籍文本词句之间无显著分隔标志、断句困难,文中介词连词等虚词较多、句式语义复杂多变、专业性较强等。这些特点使得基于深度学习等技术进行命名实体识别时存在边界识别模糊、部分单字实体识别错误、缺乏中医领域数据集等问题。针对以上问题本文提出一种基于知识嵌入的中医古籍命名实体识别算法。该算法基于BERT-BiLSTM算法,额外添加知识嵌入层,用来加强边界信息的提取。此外将其进一步优化,与基于字符的命名实体识别算法进行联合判决,加强对单字实体的标签识别优化。论文主要研究内容如下:(1)针对中医古籍词句之间无明显边界,造成边界识别困难的问题,提出一种基于知识嵌入的中医古籍命名实体识别算法(Naming Entity Recognition of Ancient Chinese Books Based on Knowledge Embedding,NER-KE)。该算法利用外部知识库通过字典匹配方式,得到短文本中候选实体,将候选实体的信息与输入文字序列的特征向量拼接,加强对实体边界信息的特征提取和利用。(2)针对中医古籍单字词语义复杂多变,识别困难的问题,融合基于字符的命名实体识别算法在单字实体识别上提取字符级特征和加强标签序列约束的优势,在NER-KE基础上提出一种基于联合判决的中医古籍命名实体识别算法。该算法在基于知识嵌入的算法基础上,新增单字实体辅助识别算法,对两算的识别结果进行联合判决,进而对NER-KE结果进行修正,让算法在多字实体和单字实体上都有较好的表现,从而提高算法整体识别的准确率。(3)在上述基于知识嵌入的中文命名实体识别算法基础上设计并搭建了一个中医古籍自动标引系统,有效提高标引人员的工作效率。</dcterms:abstract>
+        <z:libraryCatalog>10.26969/d.cnki.gbydu.2023.002314</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://kns.cnki.net/kcms2/article/abstract?v=QenloEQs_R8uSuXZI1p7nCAKzcprDw0DN-Wxwysz9Sfvl4rEJ3Y5TiMD3qeuHwsYfVDdh3vfCpTV2A7mr1YQChHkr_ET3ul0rfAUoDg88ihxJEZr-5hLPTvg6oW6rUIdiDGV0-xLgAfPKsPVxCx3o-z9K97sSjnZd6H_uiHnR7Nkrx7AVICPzHAFBNNLlvKbm4CxRyTbxHw=&amp;uniplatform=NZKPT&amp;language=CHS</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>学科专业：通信工程（含宽带网络、移动通信等）（专业学位）</dc:description>
+        <z:type>硕士论文</z:type>
+    </bib:Thesis>
+    <bib:Memo rdf:about="#item_27">
+        <rdf:value>&lt;div data-schema-version=&quot;9&quot;&gt;&lt;p&gt;&lt;code&gt;注：并不以GPT作为主要研究方法，只是在算法中提到了GPT1-3&lt;/code&gt;&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_28">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/28/张 - 面向中医古籍的命名实体识别算法研究.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Collection rdf:about="#collection_1">
+        <dc:title>LLM+TCM</dc:title>
+        <dcterms:hasPart rdf:resource="https://kns.cnki.net/kcms2/article/abstract?v=uagkXMi-j-XxjRtUxU6J2hC3GnA47TUKMGQHMMLc4WA6EGcGYN4TT-Av0WcvylL1A4OYuEwQRJJkyT3d2Fd_pcDABi6gb9OkhkTPFcPzLEMQQ0KTDcjwi0RACMTnBkSy6EtgVAYZONjRcvo5RYrFmnlRSNEGtR-XgRB8UyusXi28qZ-ms-5ihYFPW8NDihCV&amp;uniplatform=NZKPT&amp;language=CHS"/>
+        <dcterms:hasPart rdf:resource="https://kns.cnki.net/kcms2/article/abstract?v=QenloEQs_R-oHG8lmU7ZpSSWH9yA3iCBYWgc9MtpGUAJ4FrK4rYdUPkmQjgmAEd6cKUHJXOK8Z3L2blGILL-uGbea1syhjxUREOggUdpkkWWtAljB0QU_ZobdEjdtVWibF9nIj_E3NO4ppXIxkj6T4JUviLUgfDc2Ihc_FxMXhQm01j92Eh7PUt_BXaFq796&amp;uniplatform=NZKPT&amp;language=CHS"/>
+        <dcterms:hasPart rdf:resource="https://kns.cnki.net/kcms2/article/abstract?v=QenloEQs_R9mIPi8cwvm-8UYSOf6s9eeh2Iw_LmJ9ppKvfELwU5MvJQUm1z3pNlStG6gisS5iYucelskfR-4ZhhclJwtjg2RCDKrHZl9gnanvzL_jU9wz9laTsOwcIsxrJ6F_u-4xwT5Dfa_4bXZ_V3unLjKq4ENjnHQujkYeHq0qFAcBkpmm9A2DEWSn9HH&amp;uniplatform=NZKPT&amp;language=CHS"/>
+        <dcterms:hasPart rdf:resource="https://kns.cnki.net/kcms2/article/abstract?v=QenloEQs_R8S0RdkDeGU-z8sL_1jgnQSU6RfawAHosUbDBuBXtMSijVUeU0WnnPdn4d7KEbyFjP9uixKa-7wmw53f71FasjJuMYdOS58qbXXY3EWHHmW98ex-OJzqD0tTkldgct5CHeIY-Zpar36QvOq9TNaVKPv2P2w0Wv_ftclN-T5ph74pVLXI6QiCrEC&amp;uniplatform=NZKPT&amp;language=CHS"/>
+        <dcterms:hasPart rdf:resource="https://kns.cnki.net/kcms2/article/abstract?v=QenloEQs_R9lBrlNC6pfSsk6Ji0b6jE8neZd7CWZ85OFvcHDqAdJioa45AWe5dCvB3OtbkbeL6PKgRvXpHc2V2MhmTGgdD5aKPgxQoexM7RnWsT60HHs_m7oVIQ1-GxHsD-ApwzGG-tfIrg0u6Fh_uj0yaSGzBQYAbXFOun1Kz781E5dlw4uFGh7urpKT-DjUpjcpP6jeC8vK-p62dYiCA==&amp;uniplatform=NZKPT"/>
+        <dcterms:hasPart rdf:resource="https://kns.cnki.net/kcms2/article/abstract?v=QenloEQs_R-rlkiI3auQL2kcCoQ3cIAgBn3KdFeivdBHNoBUWAJq7UwlVVrTu1zcKUhn5OUeqW85_uE3c8nZd9xTS-BxC9NJwB6oGrOiPY6dZM7CP-Lp1vKz53kvR4K7alQqQ62OsRrxXXIX0mLcqe75zJ4qzAvkqyepD0m8d2lVOA7QvCV8T-6C_ghJ0wNSC6Rurh6hFjU=&amp;uniplatform=NZKPT&amp;language=CHS"/>
+        <dcterms:hasPart rdf:resource="https://kns.cnki.net/kcms2/article/abstract?v=QenloEQs_R9qW6lTFxR6M3VOGZl-iVDnbJubz05EquPv8Zcpz3wor1gvQxuWFQQtgGNTIrAMiBI9lqIIBuGFPn8LLkFv9njJI7iSrUjVchWyUivMXsf1mVKSaHkbGVi1eJ32RnkSUcirtmPGfGrelvExeD264t5hzY1pcX_gerCOOyGvdkwfzNoWFps41W6i&amp;uniplatform=NZKPT&amp;language=CHS"/>
+        <dcterms:hasPart rdf:resource="#item_22"/>
+        <dcterms:hasPart rdf:resource="QenloEQs_R_Jxx9z49kpxgxN7Dj7wg0PzRBFsYid18ZFyAw56rHIxkkxddazwOtLF__8djx72TvAivtSBES2AOzTHfIAzLjW1wQKMIUFNn2tiXbadyjqQ78jQb7zYVfiFXPbNgQz1sRv8ZbweZhvZ0jLUQOp94BTxCT_tZFMUFNpiKx5ez855xULucOpVezN"/>
+        <dcterms:hasPart rdf:resource="https://kns.cnki.net/kcms2/article/abstract?v=QenloEQs_R8uSuXZI1p7nCAKzcprDw0DN-Wxwysz9Sfvl4rEJ3Y5TiMD3qeuHwsYfVDdh3vfCpTV2A7mr1YQChHkr_ET3ul0rfAUoDg88ihxJEZr-5hLPTvg6oW6rUIdiDGV0-xLgAfPKsPVxCx3o-z9K97sSjnZd6H_uiHnR7Nkrx7AVICPzHAFBNNLlvKbm4CxRyTbxHw=&amp;uniplatform=NZKPT&amp;language=CHS"/>
+    </z:Collection>
+</rdf:RDF>
