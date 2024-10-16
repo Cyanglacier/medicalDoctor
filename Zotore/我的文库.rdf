@@ -580,6 +580,7 @@ TCMLLM-PR：北京交大
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_41"/>
         <dcterms:isReferencedBy rdf:resource="#item_15"/>
         <link:link rdf:resource="#item_14"/>
         <dc:title>国医大师干祖望诊治鼻炎医案的知识图谱构建及用药规律研究</dc:title>
@@ -593,6 +594,111 @@ TCMLLM-PR：北京交大
         <dc:description>学科专业：	软件工程</dc:description>
         <z:type>硕士论文</z:type>
     </bib:Thesis>
+    <bib:Memo rdf:about="#item_41">
+        <rdf:value>&lt;div data-schema-version=&quot;9&quot;&gt;&lt;p&gt;#论文概述&lt;br&gt;本论文主要研究国医大师干祖望诊治鼻炎医案的知识图谱构建及用药规律。主要内容包括:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+构建了国医大师干祖望医案的本体框架
+&lt;/li&gt;
+&lt;li&gt;
+基于大语言模型实现了医案三元组的自动抽取
+&lt;/li&gt;
+&lt;li&gt;
+利用Nebula Graph构建了医案知识图谱
+&lt;/li&gt;
+&lt;li&gt;
+采用多维数据挖掘方法分析了干祖望的用药规律
+&lt;/li&gt;
+&lt;li&gt;
+开发了一个集知识图谱展示、中药信息检索、医案数据挖掘、医案处方推荐等功能的应用系统
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;#背景&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+鼻炎是常见病,发病率高,影响生活质量
+&lt;/li&gt;
+&lt;li&gt;
+国医大师干祖望在治疗耳鼻喉疾病方面经验丰富
+&lt;/li&gt;
+&lt;li&gt;
+医案信息非结构化,需要计算机技术挖掘其中隐含的用药规律
+&lt;/li&gt;
+&lt;li&gt;
+知识图谱和大语言模型为挖掘医案数据提供了新思路
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;#实验方法&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+基于Protégé构建医案本体框架
+&lt;/li&gt;
+&lt;li&gt;
+利用ChatGPT4等大语言模型自动抽取医案三元组
+&lt;/li&gt;
+&lt;li&gt;
+使用Nebula Graph构建知识图谱
+&lt;/li&gt;
+&lt;li&gt;
+采用频次统计、关联规则、聚类分析等多种数据挖掘方法分析用药规律
+&lt;/li&gt;
+&lt;li&gt;
+基于Django框架开发应用系统
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;#实验结果&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+构建了包含8个核心概念的医案本体
+&lt;/li&gt;
+&lt;li&gt;
+自动抽取生成了23550条关系、9619个实体的知识图谱
+&lt;/li&gt;
+&lt;li&gt;
+挖掘出干祖望常用药物组合及用药规律
+&lt;/li&gt;
+&lt;li&gt;
+开发了一个集多功能于一体的医案分析系统
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;#论文结论&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+实现了医案知识的结构化和可视化表达
+&lt;/li&gt;
+&lt;li&gt;
+揭示了干祖望诊治鼻炎的用药特点和规律
+&lt;/li&gt;
+&lt;li&gt;
+为中医临床辅助决策提供了新的思路和平台
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;#关键点&lt;br&gt;特点:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+结合大语言模型和知识图谱,实现了医案知识的自动化抽取和构建
+&lt;/li&gt;
+&lt;li&gt;
+采用多维数据挖掘方法,全面分析了干祖望的用药规律
+&lt;/li&gt;
+&lt;li&gt;
+开发了集成多功能的应用系统,方便医案知识的学习和应用
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;不足:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+医案数据规模还有待进一步扩大
+&lt;/li&gt;
+&lt;li&gt;
+缺乏中医专家知识的引入和验证
+&lt;/li&gt;
+&lt;li&gt;
+患者画像信息不够完善
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
     <bib:Memo rdf:about="#item_15">
         <rdf:value>&lt;div data-schema-version=&quot;9&quot;&gt;&lt;p&gt;这篇文章使用了多个LLM对比其准确性。使用350+例兵力数据进行数据表及测试，训练集和验证集比例为7:3。此外，还使用了F1值、精确率Precision、召回率Recall三个指标评估自动化抽取的结果。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -683,6 +789,7 @@ TCMLLM-PR：北京交大
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_39"/>
         <dcterms:isReferencedBy rdf:resource="#item_21"/>
         <link:link rdf:resource="#item_29"/>
         <dc:title>面向中医文化传播的中医古籍机器翻译研究</dc:title>
@@ -697,6 +804,149 @@ TCMLLM-PR：北京交大
         <dc:description>学科专业：公共管理</dc:description>
         <z:type>硕士论文</z:type>
     </bib:Thesis>
+    <bib:Memo rdf:about="#item_39">
+        <rdf:value>&lt;div data-schema-version=&quot;9&quot;&gt;&lt;p&gt;#论文概述&lt;br&gt;这篇论文聚焦于中医古籍的机器翻译,旨在促进中医文化的传播。主要研究内容包括:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+通过分析社交媒体数据,研究公众对中医古籍翻译的认知。
+&lt;/li&gt;
+&lt;li&gt;
+以《黄帝内经》为基础,构建古汉语-现代汉语-英语的平行语料库。
+&lt;/li&gt;
+&lt;li&gt;
+比较多个预训练模型(mT5、mBART、mRASP)在三种翻译场景(古汉语到英语、现代汉语到英语、古汉语到现代汉语)中的表现。
+&lt;/li&gt;
+&lt;li&gt;
+探索回译等数据增强方法,进一步提升翻译性能。
+&lt;/li&gt;
+&lt;li&gt;
+评估并比较微调后的模型与在线翻译工具的翻译质量。
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;研究表明,经过微调的预训练模型能在中医古籍翻译中取得良好效果。数据增强方法,尤其是回译,可以进一步提高翻译质量。微调后的模型在中医文本翻译中优于通用在线翻译工具。&lt;/p&gt;
+&lt;p&gt;#背景&lt;br&gt;研究背景包括:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+中医古籍包含宝贵的医学知识和文化遗产,但因古老的语言难以被现代读者理解。
+&lt;/li&gt;
+&lt;li&gt;
+翻译中医文献可以促进中医文化的全球传播,但面临术语翻译标准化等挑战。
+&lt;/li&gt;
+&lt;li&gt;
+机器翻译技术快速发展,但缺乏针对中医古籍等专业领域的研究。
+&lt;/li&gt;
+&lt;li&gt;
+中医古籍缺乏大规模平行语料库,限制了翻译模型的训练。
+&lt;/li&gt;
+&lt;li&gt;
+中国政府正在推动中医发展和古籍翻译工作,为这项研究创造了机会。
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;#实验方法&lt;br&gt;主要实验方法包括:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+收集并分析社交媒体上关于中医翻译的讨论,使用LDA主题建模和情感分析。
+&lt;/li&gt;
+&lt;li&gt;
+基于《黄帝内经》构建古汉语-现代汉语-英语的平行语料库。
+&lt;/li&gt;
+&lt;li&gt;
+在平行语料库上微调mT5、mBART和mRASP预训练模型。
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;比较微调模型在三种翻译场景中的表现:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+古汉语到英语
+&lt;/li&gt;
+&lt;li&gt;
+现代汉语到英语
+&lt;/li&gt;
+&lt;li&gt;
+古汉语到现代汉语
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;探索数据增强方法:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+使用反向翻译模型的回译
+&lt;/li&gt;
+&lt;li&gt;
+使用在线翻译工具的回译
+&lt;/li&gt;
+&lt;li&gt;
+使用ChatGPT的回译
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+使用BLEU分数评估翻译质量,并与在线翻译工具进行人工比较。
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;#实验结果&lt;br&gt;主要实验结果包括:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+mBART-large-50模型在古汉语到英语和现代汉语到英语的翻译中表现最佳,而mRASP模型在古汉语到现代汉语的翻译中表现最佳。
+&lt;/li&gt;
+&lt;li&gt;
+通过回译进行的数据增强改善了翻译性能,其中使用反向翻译模型的回译方法效果最显著。
+&lt;/li&gt;
+&lt;li&gt;
+微调后的模型在翻译中医文本时优于通用在线翻译工具,表现出更好的准确性和可读性。
+&lt;/li&gt;
+&lt;li&gt;
+基于ChatGPT的回译也在提高机器翻译性能方面显示出一定的有效性。
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;#论文结论&lt;br&gt;主要结论是:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+预训练模型在针对领域特定数据进行微调后,可以在中医古籍翻译中取得良好效果。
+&lt;/li&gt;
+&lt;li&gt;
+数据增强方法,尤其是使用反向翻译模型的回译,可以有效提高中医文本的翻译质量。
+&lt;/li&gt;
+&lt;li&gt;
+微调后的模型优于通用在线翻译工具,证明了开发专门针对中医文本的翻译工具的必要性。
+&lt;/li&gt;
+&lt;li&gt;
+在句子结构处理和上下文理解方面,中医文本翻译仍有改进空间。
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;#关键点&lt;br&gt;特点:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+聚焦于中医古籍这一专业领域,填补了机器翻译研究的空白。
+&lt;/li&gt;
+&lt;li&gt;
+利用预训练模型并探索数据增强方法,克服了平行语料库有限的挑战。
+&lt;/li&gt;
+&lt;li&gt;
+比较了与中医文本翻译相关的多种翻译场景的性能。
+&lt;/li&gt;
+&lt;li&gt;
+纳入社交媒体分析,了解公众对中医文本翻译的认知和需求。
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;不足:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+用于训练和评估的平行语料库规模有限。
+&lt;/li&gt;
+&lt;li&gt;
+缺乏模型性能评估的交叉验证。
+&lt;/li&gt;
+&lt;li&gt;
+回译数据增强方法的多样性有限。
+&lt;/li&gt;
+&lt;li&gt;
+缺乏实证研究来验证目标用户对翻译结果的有效性和接受度。
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
     <bib:Memo rdf:about="#item_21">
         <rdf:value>&lt;div data-schema-version=&quot;9&quot;&gt;&lt;p&gt;以BERT模型为主&lt;/p&gt;
 &lt;/div&gt;</rdf:value>
@@ -722,6 +972,7 @@ TCMLLM-PR：北京交大
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_40"/>
         <link:link rdf:resource="#item_23"/>
         <dc:title>基于端到端网络的慢阻肺中医智能诊疗模型设计与系统实现</dc:title>
         <dcterms:abstract>慢性阻塞性肺疾病,简称慢阻肺,是最常见的慢性呼吸病,其较高的发病率和死亡率给社会带来了沉重的负担。中医治疗慢阻肺具有疗效精准、副作用小的优势,规范的中医治疗是降低疾病负担的关键。目前我国慢阻肺患者基数大、合格的中医生数量不足,因此针对慢阻肺的中医智能诊疗研究具有重要现实意义。针对慢阻肺中医诊疗数据集缺乏问题,本文首先设计了一种全新的慢阻肺患者信息录入形式,并对湖北省中医院肺病科近五年来(2016-2011)的临床病案数据进行规范化录入,进一步地,本文对患者症状、体征等特征进行分级规范化,并提出将无症状看作一种症状表现以统一患者症状集长度,最终得到规范化的慢阻肺中医诊疗数据集,消除了原始病案数据中的信息杂乱现象,能够更好地适应后续模型训练。针对慢阻肺患者症状繁多,治疗处方呈现多样化,中医智能诊疗缺乏“症状-证型-处方”一体化模型等问题,本文提出了一种基于编码器-解码器结构的端到端慢阻肺智能诊疗模型。模型首先通过Transformer编码器充分提取患者的病理特征,依此推断出患者的证型,进一步地结合患者的病理信息和证型信息解码处方。针对模型构建过程中存在的证型和药物分布不均衡问题,本文将损失函数分为证型推断损失和处方推荐损失两部分,证型推断损失通过改进Focal Loss以提升模型对难辨证型的关注度,处方推荐损失采用一种非对称的损失函数区分模型对不同药物的正样本和负样本的关注度,进而缓解每种药物的正负样本数量差异对模型输出的干扰。在本文构建的慢阻肺中医诊疗数据集上进行实验,将本文提出的模型与经典模型进行对比,实验结果表明,证型推断的F1值达71.10%,处方推荐的F1值达63.51%,高于对比模型。同时,对比实验表明改进后的损失函数相比传统交叉熵损失明显降低了数据不均衡对模型的影响,模型的证型推断和处方推荐结果更精准。为了实际地辅助医生诊断,本文基于上述慢阻肺智能诊疗模型,设计并实现了慢阻肺中医智能诊疗系统,系统具备证型推断、处方推荐等功能,目前本系统已在湖北省中医院投入使用。 
@@ -734,6 +985,114 @@ TCMLLM-PR：北京交大
         <dc:description>学科专业：	信息与通信工程</dc:description>
         <z:type>硕士论文</z:type>
     </bib:Thesis>
+    <bib:Memo rdf:about="#item_40">
+        <rdf:value>&lt;div data-schema-version=&quot;9&quot;&gt;&lt;p&gt;#论文概述&lt;/p&gt;
+&lt;p&gt;本论文提出了一种基于端到端网络的慢性阻塞性肺疾病(COPD)中医智能诊疗模型。主要贡献包括:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+构建了COPD中医诊疗数据集,对症状进行了规范化处理。
+&lt;/li&gt;
+&lt;li&gt;
+提出了一种端到端的证型推断和处方推荐模型TLA,结合了中医&quot;辨证论治&quot;原则。
+&lt;/li&gt;
+&lt;li&gt;
+针对数据不均衡问题,提出了基于代价敏感的损失函数改进方法。
+&lt;/li&gt;
+&lt;li&gt;
+基于提出的模型设计并实现了COPD中医智能诊疗系统。
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;#背景&lt;/p&gt;
+&lt;p&gt;COPD是常见的慢性呼吸疾病,中医在治疗COPD方面具有优势。但目前存在以下问题:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+缺乏规范的COPD中医诊疗数据集。
+&lt;/li&gt;
+&lt;li&gt;
+缺乏结合中医理论的端到端智能诊疗模型。
+&lt;/li&gt;
+&lt;li&gt;
+数据不均衡问题影响模型性能。
+&lt;/li&gt;
+&lt;li&gt;
+现有研究缺乏实际应用考量。
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;#实验方法&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+数据集构建:基于真实病案构建COPD中医诊疗数据集,对症状进行规范化处理。
+&lt;/li&gt;
+&lt;li&gt;
+模型设计:提出TLA模型,包括Transformer编码器和LSTM解码器,可同时进行证型推断和处方推荐。
+&lt;/li&gt;
+&lt;li&gt;
+损失函数改进:提出基于代价敏感的损失函数改进方法,缓解数据不均衡影响。
+&lt;/li&gt;
+&lt;li&gt;
+系统实现:设计并实现COPD中医智能诊疗系统。
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;#实验结果&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+TLA模型在证型推断和处方推荐上均优于对比模型。
+&lt;/li&gt;
+&lt;li&gt;
+改进后的损失函数有效缓解了数据不均衡影响。
+&lt;/li&gt;
+&lt;li&gt;
+构建的系统在医院试用结果表明具有良好的辅助诊疗能力。
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;#论文结论&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+构建的COPD中医诊疗数据集填补了数据空白。
+&lt;/li&gt;
+&lt;li&gt;
+提出的TLA模型结合中医理论,证型推断和处方推荐效果优于现有方法。
+&lt;/li&gt;
+&lt;li&gt;
+基于代价敏感的损失函数改进方法有效缓解了数据不均衡问题。
+&lt;/li&gt;
+&lt;li&gt;
+实现的智能诊疗系统可有效辅助医生进行COPD诊疗。
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;#关键点&lt;/p&gt;
+&lt;p&gt;特点:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+构建了规范化的COPD中医诊疗数据集
+&lt;/li&gt;
+&lt;li&gt;
+提出了端到端的证型推断和处方推荐模型
+&lt;/li&gt;
+&lt;li&gt;
+提出了缓解数据不均衡的损失函数改进方法
+&lt;/li&gt;
+&lt;li&gt;
+实现了可用于实际的智能诊疗系统
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;不足:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+数据集规模有限,地域性较强
+&lt;/li&gt;
+&lt;li&gt;
+未考虑多证型复合情况
+&lt;/li&gt;
+&lt;li&gt;
+未涉及药物剂量推荐
+&lt;/li&gt;
+&lt;li&gt;
+系统功能还需进一步完善
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
     <z:Attachment rdf:about="#item_23">
         <z:itemType>attachment</z:itemType>
         <rdf:resource rdf:resource="files/23/范 - 基于端到端网络的慢阻肺中医智能诊疗模型设计与系统实现.pdf"/>
@@ -789,6 +1148,7 @@ TCMLLM-PR：北京交大
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_38"/>
         <dcterms:isReferencedBy rdf:resource="#item_27"/>
         <link:link rdf:resource="#item_28"/>
         <dc:title>面向中医古籍的命名实体识别算法研究</dc:title>
@@ -802,6 +1162,102 @@ TCMLLM-PR：北京交大
         <dc:description>学科专业：通信工程（含宽带网络、移动通信等）（专业学位）</dc:description>
         <z:type>硕士论文</z:type>
     </bib:Thesis>
+    <bib:Memo rdf:about="#item_38">
+        <rdf:value>&lt;div data-schema-version=&quot;9&quot;&gt;&lt;p&gt;论文概述:&lt;br&gt;本文针对中医古籍命名实体识别任务中存在的边界识别模糊和单字实体识别困难等问题,提出了一种基于知识嵌入的中医古籍命名实体识别算法。该算法主要包括以下创新:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+提出了一种知识嵌入模型(NER-KE),利用外部知识库通过字典匹配方式,得到短文本中候选实体,将候选实体的信息与输入文字序列的特征向量拼接,加强对实体边界信息的特征提取和利用。
+&lt;/li&gt;
+&lt;li&gt;
+在NER-KE基础上,融合基于字符的命名实体识别算法在单字实体识别上的优势,提出一种基于联合判决的中医古籍命名实体识别算法,提高算法在多字实体和单字实体上的识别准确率。
+&lt;/li&gt;
+&lt;li&gt;
+基于提出的算法设计并搭建了一个中医古籍自动标引系统,提高标引人员的工作效率。
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;背景:&lt;br&gt;中医古籍是中华民族智慧的结晶,对其进行知识抽取和整理具有重要意义。但中医古籍文本词句之间无显著分隔标志、断句困难,文中介词连词等虚词较多、句式语义复杂多变、专业性较强等。这些特点使得基于深度学习等技术进行命名实体识别时存在边界识别模糊、部分单字实体识别错误等问题。因此需要提出针对性的算法来解决这些问题。&lt;/p&gt;
+&lt;p&gt;实验方法:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+基于知识嵌入的命名实体识别算法(NER-KE):
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;
+使用BERT预训练模型对输入文本进行编码
+&lt;/li&gt;
+&lt;li&gt;
+利用BiLSTM进行特征提取
+&lt;/li&gt;
+&lt;li&gt;
+引入知识嵌入层,将外部知识库中的候选实体信息与特征向量拼接
+&lt;/li&gt;
+&lt;li&gt;
+使用全连接神经网络进行标签分类
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;
+基于联合判决的命名实体识别算法:
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;
+在NER-KE基础上额外增加单字实体辅助识别模型
+&lt;/li&gt;
+&lt;li&gt;
+对两个模型的识别结果进行联合判决,得到最终结果
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;
+在中医古籍数据集和CCKS开放域数据集上进行实验评估
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;实验结果:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+在中医古籍数据集上,提出的算法相比基线方法在准确率、召回率和F1值上均有提升:
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;
+准确率从76.23%提升到80.05%
+&lt;/li&gt;
+&lt;li&gt;
+召回率从76.64%提升到79.37%
+&lt;/li&gt;
+&lt;li&gt;
+F1值从76.43%提升到79.71%
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;
+在CCKS数据集上,算法也取得了较好的效果,验证了其在开放域数据上的泛化能力
+&lt;/li&gt;
+&lt;li&gt;
+消融实验验证了知识嵌入和联合判决策略的有效性
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;论文结论:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+提出的基于知识嵌入的命名实体识别算法能够有效提升中医古籍实体的识别准确率,尤其是在边界识别方面
+&lt;/li&gt;
+&lt;li&gt;
+联合判决策略能够进一步提升单字实体的识别效果
+&lt;/li&gt;
+&lt;li&gt;
+该方法在中医古籍和开放域数据集上均取得了较好的效果,具有一定的通用性
+&lt;/li&gt;
+&lt;li&gt;
+基于该算法开发的自动标引系统可以提高中医古籍知识整理的效率
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;关键点:&lt;br&gt;特点1:引入知识嵌入策略,加强对实体边界信息的提取&lt;br&gt;特点2:采用联合判决机制,平衡多字实体和单字实体的识别&lt;br&gt;特点3:在中医古籍和开放域数据集上均取得较好效果,具有一定通用性&lt;br&gt;特点4:提出了一个实际的中医古籍自动标引系统应用&lt;/p&gt;
+&lt;p&gt;不足1:对于一些复杂的语义关系和一词多义现象处理还不够充分&lt;br&gt;不足2:系统的功能还比较单一,可以进一步丰富和完善&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
     <bib:Memo rdf:about="#item_27">
         <rdf:value>&lt;div data-schema-version=&quot;9&quot;&gt;&lt;p&gt;&lt;code&gt;注：并不以GPT作为主要研究方法，只是在算法中提到了GPT1-3&lt;/code&gt;&lt;/p&gt;
 &lt;/div&gt;</rdf:value>
@@ -809,6 +1265,305 @@ TCMLLM-PR：北京交大
     <z:Attachment rdf:about="#item_28">
         <z:itemType>attachment</z:itemType>
         <rdf:resource rdf:resource="files/28/张 - 面向中医古籍的命名实体识别算法研究.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://arxiv.org/abs/2407.15862">
+        <z:itemType>preprint</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:identifier>arXiv:2407.15862 Search...</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>重庆医科大学</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wei</foaf:surname>
+                        <foaf:givenName>Qiuhong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_36"/>
+        <link:link rdf:resource="#item_32"/>
+        <dc:subject>重庆医科大学</dc:subject>
+        <dc:title>Performance Evaluation of Lightweight Open-source Large Language Models in Pediatric Consultations: A Comparative Analysis</dc:title>
+        <dcterms:abstract>Large language models (LLMs) have demonstrated potential applications in medicine, yet data privacy and computational burden limit their deployment in healthcare institutions. Open-source and lightweight versions of LLMs emerge as potential solutions, but their performance, particularly in pediatric settings remains underexplored. In this cross-sectional study, 250 patient consultation questions were randomly selected from a public online medical forum, with 10 questions from each of 25 pediatric departments, spanning from December 1, 2022, to October 30, 2023. Two lightweight open-source LLMs, ChatGLM3-6B and Vicuna-7B, along with a larger-scale model, Vicuna-13B, and the widely-used proprietary ChatGPT-3.5, independently answered these questions in Chinese between November 1, 2023, and November 7, 2023. To assess reproducibility, each inquiry was replicated once. We found that ChatGLM3-6B demonstrated higher accuracy and completeness than Vicuna-13B and Vicuna-7B (P &lt; .001), but all were outperformed by ChatGPT-3.5. ChatGPT-3.5 received the highest ratings in accuracy (65.2%) compared to ChatGLM3-6B (41.2%), Vicuna-13B (11.2%), and Vicuna-7B (4.4%). Similarly, in completeness, ChatGPT-3.5 led (78.4%), followed by ChatGLM3-6B (76.0%), Vicuna-13B (34.8%), and Vicuna-7B (22.0%) in highest ratings. ChatGLM3-6B matched ChatGPT-3.5 in readability, both outperforming Vicuna models (P &lt; .001). In terms of empathy, ChatGPT-3.5 outperformed the lightweight LLMs (P &lt; .001). In safety, all models performed comparably well (P &gt; .05), with over 98.4% of responses being rated as safe. Repetition of inquiries confirmed these findings. In conclusion, Lightweight LLMs demonstrate promising application in pediatric healthcare. However, the observed gap between lightweight and large-scale proprietary LLMs underscores the need for continued development efforts.</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/2407.15862</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:identifier>DOI https://doi.org/10.48550/arXiv.2407.15862</dc:identifier>
+        <z:type>Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Computation and Language (cs.CL); Computers and Society (cs.CY)</z:type>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_36">
+        <rdf:value>&lt;div data-schema-version=&quot;9&quot;&gt;&lt;p&gt;#论文概述&lt;br&gt;本研究评估了轻量级开源大语言模型在儿科咨询中的表现。主要工作包括:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+从在线医疗论坛随机选取250个儿科咨询问题。
+&lt;/li&gt;
+&lt;li&gt;
+使用两个轻量级开源模型(ChatGLM3-6B和Vicuna-7B)、一个大规模开源模型(Vicuna-13B)和ChatGPT-3.5回答这些问题。
+&lt;/li&gt;
+&lt;li&gt;
+由三名儿科医生从准确性、完整性、可读性、同理心和安全性五个维度评估模型回答。
+&lt;/li&gt;
+&lt;li&gt;
+对比分析了不同模型的表现。
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;主要发现:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+ChatGLM3-6B在准确性和完整性上优于Vicuna-13B和Vicuna-7B,但不如ChatGPT-3.5。
+&lt;/li&gt;
+&lt;li&gt;
+ChatGLM3-6B在可读性上与ChatGPT-3.5相当,均优于Vicuna模型。
+&lt;/li&gt;
+&lt;li&gt;
+在同理心方面,ChatGPT-3.5表现最佳。
+&lt;/li&gt;
+&lt;li&gt;
+在安全性方面,所有模型表现相当。
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;#背景&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+大语言模型在医疗领域展现了潜力,但数据隐私和计算负担限制了其在医疗机构的部署。
+&lt;/li&gt;
+&lt;li&gt;
+开源轻量级大语言模型可能是一个解决方案,但其在儿科设置中的表现尚未得到充分研究。
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;#实验方法&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+数据收集:从在线医疗论坛haodf.com随机选取250个儿科咨询问题,涵盖25个儿科专科。
+&lt;/li&gt;
+&lt;li&gt;
+模型选择:ChatGLM3-6B、Vicuna-7B、Vicuna-13B和ChatGPT-3.5。
+&lt;/li&gt;
+&lt;li&gt;
+询问过程:每个问题独立询问一次,并重复询问一次以评估可重复性。
+&lt;/li&gt;
+&lt;li&gt;
+评估方法:三名儿科医生从准确性、完整性、可读性、同理心和安全性五个维度评估模型回答。
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;#实验结果&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+准确性:ChatGPT-3.5 &amp;gt; ChatGLM3-6B &amp;gt; Vicuna-13B &amp;gt; Vicuna-7B
+&lt;/li&gt;
+&lt;li&gt;
+完整性:ChatGPT-3.5 &amp;gt; ChatGLM3-6B &amp;gt; Vicuna-13B &amp;gt; Vicuna-7B
+&lt;/li&gt;
+&lt;li&gt;
+可读性:ChatGPT-3.5 ≈ ChatGLM3-6B &amp;gt; Vicuna-13B &amp;gt; Vicuna-7B
+&lt;/li&gt;
+&lt;li&gt;
+同理心:ChatGPT-3.5 &amp;gt; 其他三个模型
+&lt;/li&gt;
+&lt;li&gt;
+安全性:所有模型表现相当,超过98.4%的回答被评为安全
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;#论文结论&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+轻量级开源大语言模型在儿科医疗咨询中展现出潜力,特别是ChatGLM3-6B在中文医疗背景下表现出色。
+&lt;/li&gt;
+&lt;li&gt;
+轻量级模型与大规模专有模型之间仍存在性能差距,需要进一步开发。
+&lt;/li&gt;
+&lt;li&gt;
+未来研究应考虑语言背景和模型微调,以改进轻量级模型在医疗领域的表现。
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;#关键点&lt;br&gt;特点:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+首次评估轻量级开源大语言模型在儿科医疗咨询中的表现。
+&lt;/li&gt;
+&lt;li&gt;
+使用真实的在线医疗咨询数据进行评估。
+&lt;/li&gt;
+&lt;li&gt;
+从多个维度对模型回答进行全面评估。
+&lt;/li&gt;
+&lt;li&gt;
+发现ChatGLM3-6B在中文医疗背景下表现优异。
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;不足:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+样本可能不能完全代表儿科咨询的广泛范围。
+&lt;/li&gt;
+&lt;li&gt;
+研究集中在中文儿科咨询,可能限制了其在其他语言或文化背景下的普适性。
+&lt;/li&gt;
+&lt;li&gt;
+缺乏与人类儿科医生表现的直接比较。
+&lt;/li&gt;
+&lt;li&gt;
+使用结构化的单轮对话,可能无法完全反映真实临床互动的复杂性。
+&lt;/li&gt;
+&lt;li&gt;
+大语言模型在不断更新,本研究使用的模型版本在未来可能会有变化。
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_32">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/32/Wei - Performance Evaluation of Lightweight Open-source Large Language Models in Pediatric Consultations.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://arxiv.org/abs/2407.10510">
+        <z:itemType>preprint</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Computation and Language (cs.CL); Artificial Intelligence (cs.AI); Computational Engineering, Finance, and Science (cs.CE</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhou</foaf:surname>
+                        <foaf:givenName>Xingzhi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_35"/>
+        <link:link rdf:resource="#item_34"/>
+        <dc:title>TCM-FTP: Fine-Tuning Large Language Models for Herbal Prescription Prediction</dc:title>
+        <dcterms:abstract>Traditional Chinese medicine (TCM) relies on specific combinations of herbs in prescriptions to treat symptoms and signs, a practice that spans thousands of years. Predicting TCM prescriptions presents a fascinating technical challenge with practical implications. However, this task faces limitations due to the scarcity of high-quality clinical datasets and the intricate relationship between symptoms and herbs. To address these issues, we introduce DigestDS, a new dataset containing practical medical records from experienced experts in digestive system diseases. We also propose a method, TCM-FTP (TCM Fine-Tuning Pre-trained), to leverage pre-trained large language models (LLMs) through supervised fine-tuning on DigestDS. Additionally, we enhance computational efficiency using a low-rank adaptation technique. TCM-FTP also incorporates data augmentation by permuting herbs within prescriptions, capitalizing on their order-agnostic properties. Impressively, TCM-FTP achieves an F1-score of 0.8031, surpassing previous methods significantly. Furthermore, it demonstrates remarkable accuracy in dosage prediction, achieving a normalized mean square error of 0.0604. In contrast, LLMs without fine-tuning perform poorly. Although LLMs have shown capabilities on a wide range of tasks, this work illustrates the importance of fine-tuning for TCM prescription prediction, and we have proposed an effective way to do that.</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/2407.10510</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:identifier>DOI https://doi.org/10.48550/arXiv.2407.10510</dc:identifier>
+        <z:citationKey>Large language models, Traditional Chinese medicine, Fine-tuning, Prescription prediction, Herb dosage prediction</z:citationKey>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_35">
+        <rdf:value>&lt;div data-schema-version=&quot;9&quot;&gt;&lt;p&gt;#论文概述&lt;br&gt;本论文提出了一种名为TCM-FTP的方法,用于中医处方预测任务。主要工作包括:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+构建了一个高质量的临床处方数据集DigestDS,专注于消化系统疾病。
+&lt;/li&gt;
+&lt;li&gt;
+提出TCM-FTP方法,使用大规模语言模型进行中医处方预测,包括药物和剂量预测。
+&lt;/li&gt;
+&lt;li&gt;
+采用低秩适应(LoRA)技术进行高效微调,并使用处方药物排列增强数据。
+&lt;/li&gt;
+&lt;li&gt;
+在DigestDS数据集上进行实验,TCM-FTP在药物预测和剂量预测方面都优于现有方法。
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;#背景&lt;br&gt;中医处方预测面临以下挑战:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+缺乏高质量的临床数据集。
+&lt;/li&gt;
+&lt;li&gt;
+现有模型性能不佳,可能误导用户。
+&lt;/li&gt;
+&lt;li&gt;
+忽视了药物剂量预测这一关键组成部分。
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;#实验方法&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+数据集构建:从2008-2022年的临床记录中收集消化系统疾病处方数据,构建DigestDS数据集。
+&lt;/li&gt;
+&lt;li&gt;
+模型构建:使用预训练语言模型(如Chinese-Alpaca-Plus-7B和ShenNong)作为基础,采用LoRA技术进行微调。
+&lt;/li&gt;
+&lt;li&gt;
+数据增强:通过随机排列处方中的药物顺序来增强数据。
+&lt;/li&gt;
+&lt;li&gt;
+实验设置:10个训练epoch,余弦学习率调度,LoRA秩为16,alpha为32等。
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;#实验结果&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+TCM-FTP在药物预测任务上达到0.8031的F1分数,显著优于基线方法。
+&lt;/li&gt;
+&lt;li&gt;
+在剂量预测上,TCM-FTP的NMSE为0.0604,优于基线方法。
+&lt;/li&gt;
+&lt;li&gt;
+专家质量评估显示TCM-FTP生成的处方在症状疗效和药物配伍方面得分较高。
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;#论文结论&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+TCM-FTP在中医处方预测任务上取得了显著进展,在药物预测和剂量预测方面都优于现有方法。
+&lt;/li&gt;
+&lt;li&gt;
+高质量临床数据集和大规模语言模型的结合对提升中医处方预测性能至关重要。
+&lt;/li&gt;
+&lt;li&gt;
+低秩适应技术和数据增强策略对模型性能的提升有重要作用。
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;#关键点&lt;br&gt;特点:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+构建了高质量的临床处方数据集DigestDS。
+&lt;/li&gt;
+&lt;li&gt;
+提出了基于大规模语言模型的TCM-FTP方法。
+&lt;/li&gt;
+&lt;li&gt;
+采用LoRA技术实现高效微调。
+&lt;/li&gt;
+&lt;li&gt;
+利用处方药物排列进行数据增强。
+&lt;/li&gt;
+&lt;li&gt;
+在药物预测和剂量预测两个任务上都取得了优秀性能。
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;不足:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+仅针对消化系统疾病,可能无法直接推广到其他疾病领域。
+&lt;/li&gt;
+&lt;li&gt;
+未探讨模型的可解释性问题。
+&lt;/li&gt;
+&lt;li&gt;
+未考虑中医理论如证型辨证等在处方生成中的作用。
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_34">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/34/Zhou - TCM-FTP Fine-Tuning Large Language Models for Herbal Prescription Prediction.pdf"/>
         <dc:title>PDF</dc:title>
         <link:type>application/pdf</link:type>
     </z:Attachment>
@@ -824,5 +1579,7 @@ TCMLLM-PR：北京交大
         <dcterms:hasPart rdf:resource="#item_22"/>
         <dcterms:hasPart rdf:resource="QenloEQs_R_Jxx9z49kpxgxN7Dj7wg0PzRBFsYid18ZFyAw56rHIxkkxddazwOtLF__8djx72TvAivtSBES2AOzTHfIAzLjW1wQKMIUFNn2tiXbadyjqQ78jQb7zYVfiFXPbNgQz1sRv8ZbweZhvZ0jLUQOp94BTxCT_tZFMUFNpiKx5ez855xULucOpVezN"/>
         <dcterms:hasPart rdf:resource="https://kns.cnki.net/kcms2/article/abstract?v=QenloEQs_R8uSuXZI1p7nCAKzcprDw0DN-Wxwysz9Sfvl4rEJ3Y5TiMD3qeuHwsYfVDdh3vfCpTV2A7mr1YQChHkr_ET3ul0rfAUoDg88ihxJEZr-5hLPTvg6oW6rUIdiDGV0-xLgAfPKsPVxCx3o-z9K97sSjnZd6H_uiHnR7Nkrx7AVICPzHAFBNNLlvKbm4CxRyTbxHw=&amp;uniplatform=NZKPT&amp;language=CHS"/>
+        <dcterms:hasPart rdf:resource="https://arxiv.org/abs/2407.15862"/>
+        <dcterms:hasPart rdf:resource="https://arxiv.org/abs/2407.10510"/>
     </z:Collection>
 </rdf:RDF>
