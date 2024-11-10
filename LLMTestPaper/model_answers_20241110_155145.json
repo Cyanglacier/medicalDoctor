@@ -1,0 +1,98 @@
+[
+  {
+    "question_number": 1,
+    "category": "针灸学",
+    "question": "题干描述：某男，50岁，腹泻2年。晨起即腹痛，泻后痛减，腹冷喜暖，精神疲乏，腰酸腿软，四肢发冷，舌淡，苔白，脉沉细。治疗除神阙、天枢、足三里、公孙外，应加用\n选项A：阴陵泉、命门\n选项B：阴陵泉、脾俞\n选项C：脾俞、太白\n选项D：肾俞、关元\n选项E：下脘、关元",
+    "correct_answer": "D",
+    "model_answer": null,
+    "is_correct": false
+  },
+  {
+    "question_number": 2,
+    "category": "中医外科",
+    "question": "题干描述：寒痛的特点是\n选项A：游走性，痛无定处\n选项B：阵发性，攻痛无常\n选项C：木痛，得热缓解\n选项D：酸痛，得热缓解\n选项E：持续性固定性胀痛",
+    "correct_answer": "D",
+    "model_answer": null,
+    "is_correct": false
+  },
+  {
+    "question_number": 3,
+    "category": "中医诊断学",
+    "question": "题干描述：伏脉的主病是\n选项A：失血伤阴\n选项B：亡血失精\n选项C：惊恐疼痛\n选项D：寒证痛证\n选项E：邪闭痛极",
+    "correct_answer": "E",
+    "model_answer": null,
+    "is_correct": false
+  },
+  {
+    "question_number": 4,
+    "category": "中医儿科学",
+    "question": "题干描述：面目皮肤发黄，颜色逐渐加深，晦暗无华，右胁下痞块质硬，肚腹膨胀，青筋显露，唇色暗红，舌见瘀点，苔黄；证属\n选项A：肠腑阻结证\n选项B：寒湿内蕴证\n选项C：脾运失职证\n选项D：肝失疏泄证\n选项E：气滞血瘀证",
+    "correct_answer": "E",
+    "model_answer": null,
+    "is_correct": false
+  },
+  {
+    "question_number": 5,
+    "category": "中医基础理论",
+    "question": "题干描述：最易伤肺的邪气是\n选项A：风邪\n选项B：寒邪\n选项C：湿邪\n选项D：燥邪\n选项E：火邪",
+    "correct_answer": "D",
+    "model_answer": null,
+    "is_correct": false
+  },
+  {
+    "question_number": 6,
+    "category": "中医儿科学",
+    "question": "题干描述：患儿，2岁。发热2小时。证见发热，恶寒，无汗，鼻塞，流清涕，微咳，咽部不红，纳少，舌淡红，苔薄白，指纹浮红。其证候是\n选项A：风寒感冒\n选项B：风热感冒\n选项C：暑邪感冒\n选项D：时邪感冒\n选项E：感冒夹滞",
+    "correct_answer": "A",
+    "model_answer": null,
+    "is_correct": false
+  },
+  {
+    "question_number": 7,
+    "category": "针灸学",
+    "question": "题干描述：三棱针点刺法常取的腧穴是\n选项A：十宣、井穴\n选项B：曲泽、委中\n选项C：肺俞、胃俞\n选项D：合谷、太冲\n选项E：列缺、照海",
+    "correct_answer": "A",
+    "model_answer": null,
+    "is_correct": false
+  },
+  {
+    "question_number": 8,
+    "category": "中医儿科学",
+    "question": "题干描述：患儿，8岁。反复咳嗽喘促3年余。证见咳嗽时作，喘促乏力，咯痰不爽，潮红盗汗，手足心热，大便秘结，小便少，舌质红，少苔，脉细数。治疗首选方\n选项A：桑菊饮\n选项B：麦味地黄丸\n选项C：养阴清肺汤\n选项D：麻杏石甘汤\n选项E：沙参麦冬汤",
+    "correct_answer": "B",
+    "model_answer": null,
+    "is_correct": false
+  },
+  {
+    "question_number": 9,
+    "category": "中医内科",
+    "question": "题干描述：热秘的特征为\n选项A：大便干结，小便短赤\n选项B：大便秘结，欲便不得\n选项C：虽有便意，努挣乏力\n选项D：大便艰涩，排出困难\n选项E：大便不干，小便清长",
+    "correct_answer": "A",
+    "model_answer": null,
+    "is_correct": false
+  },
+  {
+    "question_number": 10,
+    "category": "中医内科",
+    "question": "题干描述：患者腹大胀满，按之如囊裹水，伴下肢浮肿，胸脘痞胀，精神困倦，怯寒懒动，尿少便溏，舌苔白腻，脉缓。其治法是\n选项A：温中健脾，行气利水\n选项B：温补脾肾，化气行水\n选项C：健脾益气，化气行水\n选项D：理气疏肝，化瘀利水\n选项E：健脾渗湿，行气利水",
+    "correct_answer": "A",
+    "model_answer": null,
+    "is_correct": false
+  },
+  {
+    "question_number": 11,
+    "category": "针灸学",
+    "question": "题干描述：膀胱俞的定位是\n选项A：第1骶椎棘突下，旁开1.5寸，约平第1骶后孔\n选项B：第2骶椎棘突下，旁开1.5寸，约平第2骶后孔\n选项C：第3骶椎棘突下，旁开1.5寸，约平第3骶后孔\n选项D：第2骶椎棘突下，旁开3寸，约平第2骶后孔\n选项E：第3骶椎棘突下，旁开3寸，约平第3骶后孔",
+    "correct_answer": "B",
+    "model_answer": null,
+    "is_correct": false
+  },
+  {
+    "question_number": 12,
+    "category": "针灸学",
+    "question": "题干描述：治疗郁证的主穴是\n选项A：内关、水沟、丰隆、后溪、百会、印堂\n选项B：内关、水沟、太冲、神门、百会、印堂\n选项C：四神聪透百会、神庭透上星\n选项D：照海、申脉、神门、印堂、百会\n选项E：内关、郄门、神门、巨阙、印堂",
+    "correct_answer": "B",
+    "model_answer": null,
+    "is_correct": false
+  }
+]

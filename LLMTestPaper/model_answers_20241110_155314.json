@@ -1,0 +1,4002 @@
+[
+  {
+    "question_number": 1,
+    "category": "针灸学",
+    "question": "题干描述：某男，50岁，腹泻2年。晨起即腹痛，泻后痛减，腹冷喜暖，精神疲乏，腰酸腿软，四肢发冷，舌淡，苔白，脉沉细。治疗除神阙、天枢、足三里、公孙外，应加用\n选项A：阴陵泉、命门\n选项B：阴陵泉、脾俞\n选项C：脾俞、太白\n选项D：肾俞、关元\n选项E：下脘、关元",
+    "correct_answer": "D",
+    "model_answer": "选项A：阴陵泉、命门",
+    "is_correct": false
+  },
+  {
+    "question_number": 2,
+    "category": "中医外科",
+    "question": "题干描述：寒痛的特点是\n选项A：游走性，痛无定处\n选项B：阵发性，攻痛无常\n选项C：木痛，得热缓解\n选项D：酸痛，得热缓解\n选项E：持续性固定性胀痛",
+    "correct_answer": "D",
+    "model_answer": "A、游走性，痛无定处",
+    "is_correct": false
+  },
+  {
+    "question_number": 3,
+    "category": "中医诊断学",
+    "question": "题干描述：伏脉的主病是\n选项A：失血伤阴\n选项B：亡血失精\n选项C：惊恐疼痛\n选项D：寒证痛证\n选项E：邪闭痛极",
+    "correct_answer": "E",
+    "model_answer": "A: 失血伤阴",
+    "is_correct": false
+  },
+  {
+    "question_number": 4,
+    "category": "中医儿科学",
+    "question": "题干描述：面目皮肤发黄，颜色逐渐加深，晦暗无华，右胁下痞块质硬，肚腹膨胀，青筋显露，唇色暗红，舌见瘀点，苔黄；证属\n选项A：肠腑阻结证\n选项B：寒湿内蕴证\n选项C：脾运失职证\n选项D：肝失疏泄证\n选项E：气滞血瘀证",
+    "correct_answer": "E",
+    "model_answer": "选项A：肠腑阻结证",
+    "is_correct": false
+  },
+  {
+    "question_number": 5,
+    "category": "中医基础理论",
+    "question": "题干描述：最易伤肺的邪气是\n选项A：风邪\n选项B：寒邪\n选项C：湿邪\n选项D：燥邪\n选项E：火邪",
+    "correct_answer": "D",
+    "model_answer": "A: 风邪",
+    "is_correct": false
+  },
+  {
+    "question_number": 6,
+    "category": "中医儿科学",
+    "question": "题干描述：患儿，2岁。发热2小时。证见发热，恶寒，无汗，鼻塞，流清涕，微咳，咽部不红，纳少，舌淡红，苔薄白，指纹浮红。其证候是\n选项A：风寒感冒\n选项B：风热感冒\n选项C：暑邪感冒\n选项D：时邪感冒\n选项E：感冒夹滞",
+    "correct_answer": "A",
+    "model_answer": "根据患儿的证候，包括发热、恶寒、无汗、鼻塞、流清涕、微咳、咽部不红、纳少、舌淡红、苔薄白、指纹浮红，最佳选项是：\n\n选项A：风寒感冒",
+    "is_correct": false
+  },
+  {
+    "question_number": 7,
+    "category": "针灸学",
+    "question": "题干描述：三棱针点刺法常取的腧穴是\n选项A：十宣、井穴\n选项B：曲泽、委中\n选项C：肺俞、胃俞\n选项D：合谷、太冲\n选项E：列缺、照海",
+    "correct_answer": "A",
+    "model_answer": "选项A：十宣、井穴",
+    "is_correct": false
+  },
+  {
+    "question_number": 8,
+    "category": "中医儿科学",
+    "question": "题干描述：患儿，8岁。反复咳嗽喘促3年余。证见咳嗽时作，喘促乏力，咯痰不爽，潮红盗汗，手足心热，大便秘结，小便少，舌质红，少苔，脉细数。治疗首选方\n选项A：桑菊饮\n选项B：麦味地黄丸\n选项C：养阴清肺汤\n选项D：麻杏石甘汤\n选项E：沙参麦冬汤",
+    "correct_answer": "B",
+    "model_answer": "选项C：养阴清肺汤",
+    "is_correct": false
+  },
+  {
+    "question_number": 9,
+    "category": "中医内科",
+    "question": "题干描述：热秘的特征为\n选项A：大便干结，小便短赤\n选项B：大便秘结，欲便不得\n选项C：虽有便意，努挣乏力\n选项D：大便艰涩，排出困难\n选项E：大便不干，小便清长",
+    "correct_answer": "A",
+    "model_answer": "错误的选项，因为热秘的特征是大便干结、小便短赤。所以正确答案应该是 A：大便干结，小便短赤。",
+    "is_correct": false
+  },
+  {
+    "question_number": 10,
+    "category": "中医内科",
+    "question": "题干描述：患者腹大胀满，按之如囊裹水，伴下肢浮肿，胸脘痞胀，精神困倦，怯寒懒动，尿少便溏，舌苔白腻，脉缓。其治法是\n选项A：温中健脾，行气利水\n选项B：温补脾肾，化气行水\n选项C：健脾益气，化气行水\n选项D：理气疏肝，化瘀利水\n选项E：健脾渗湿，行气利水",
+    "correct_answer": "A",
+    "model_answer": "选项A：温中健脾，行气利水",
+    "is_correct": false
+  },
+  {
+    "question_number": 11,
+    "category": "针灸学",
+    "question": "题干描述：膀胱俞的定位是\n选项A：第1骶椎棘突下，旁开1.5寸，约平第1骶后孔\n选项B：第2骶椎棘突下，旁开1.5寸，约平第2骶后孔\n选项C：第3骶椎棘突下，旁开1.5寸，约平第3骶后孔\n选项D：第2骶椎棘突下，旁开3寸，约平第2骶后孔\n选项E：第3骶椎棘突下，旁开3寸，约平第3骶后孔",
+    "correct_answer": "B",
+    "model_answer": "A: 第1骶椎棘突下，旁开1.5寸，约平第1骶后孔",
+    "is_correct": false
+  },
+  {
+    "question_number": 12,
+    "category": "针灸学",
+    "question": "题干描述：治疗郁证的主穴是\n选项A：内关、水沟、丰隆、后溪、百会、印堂\n选项B：内关、水沟、太冲、神门、百会、印堂\n选项C：四神聪透百会、神庭透上星\n选项D：照海、申脉、神门、印堂、百会\n选项E：内关、郄门、神门、巨阙、印堂",
+    "correct_answer": "B",
+    "model_answer": "A、内关、水沟、丰隆、后溪、百会、印堂",
+    "is_correct": false
+  },
+  {
+    "question_number": 13,
+    "category": "中医内科",
+    "question": "题干描述：中经络风阳上扰证的治法是\n选项A：养血祛风通络\n选项B：平肝潜阳，活血通络\n选项C：熄风清火，豁痰开窍\n选项D：化痰熄风，宣郁开窍\n选项E：回阳救阴，益气固脱",
+    "correct_answer": "B",
+    "model_answer": "选项B：平肝潜阳，活血通络",
+    "is_correct": false
+  },
+  {
+    "question_number": 14,
+    "category": "中医内科",
+    "question": "题干描述：“消渴”上消临床表现突出的症状是\n选项A：消谷善饥\n选项B：烦躁不安\n选项C：身体消瘦\n选项D：烦渴引饮\n选项E：尿频量多",
+    "correct_answer": "D",
+    "model_answer": "选项D、烦渴引饮",
+    "is_correct": false
+  },
+  {
+    "question_number": 15,
+    "category": "中药学",
+    "question": "题干描述：伤寒邪在少阳，寒热往来者，宜选用的药物是\n选项A：柴胡\n选项B：菊花\n选项C：升麻\n选项D：桑叶\n选项E：葛根",
+    "correct_answer": "A",
+    "model_answer": "A、柴胡",
+    "is_correct": false
+  },
+  {
+    "question_number": 16,
+    "category": "方剂学",
+    "question": "题干描述：蒿芩清胆汤的功用是\n选项A：疏肝解郁，益血健脾\n选项B：补脾柔肝，祛湿止泻\n选项C：清热泻火，利水通淋\n选项D：清热利湿，逐瘀退黄\n选项E：清胆利湿，和胃化痰",
+    "correct_answer": "E",
+    "model_answer": "选项D、清热利湿，逐瘀退黄",
+    "is_correct": false
+  },
+  {
+    "question_number": 17,
+    "category": "中医外科",
+    "question": "题干描述：患者，男，38岁。患急性子痈2天，恶寒发热，左侧睾丸肿大疼痛，疼痛引及子系（精索），舌红苔黄腻，脉滑数。证属湿热下注，气血壅滞，经络阻隔为患。治宜清热解毒，利湿消肿，应首选\n选项A：透脓散\n选项B：滋阴除湿汤\n选项C：萆薜化毒汤\n选项D：柴胡疏肝散\n选项E：枸橘汤加减",
+    "correct_answer": "E",
+    "model_answer": "A: 透脓散",
+    "is_correct": false
+  },
+  {
+    "question_number": 18,
+    "category": "方剂学",
+    "question": "题干描述：治疗伤食积滞的代表方剂是\n选项A：保和丸\n选项B：健脾丸\n选项C：枳实消痞丸\n选项D：枳实导滞丸\n选项E：木香槟榔丸",
+    "correct_answer": "A",
+    "model_answer": "选项C：枳实消痞丸",
+    "is_correct": false
+  },
+  {
+    "question_number": 19,
+    "category": "中医儿科学",
+    "question": "题干描述：小儿肺炎喘嗽的主要治疗原则是\n选项A：辛温宣肺，化痰止咳\n选项B：辛凉宣肺，清热化痰\n选项C：开肺化痰，止咳平喘\n选项D：清热涤痰，肃肺定喘\n选项E：清热解毒，泻肺开闭",
+    "correct_answer": "C",
+    "model_answer": "选项D：清热涤痰，肃肺定喘",
+    "is_correct": false
+  },
+  {
+    "question_number": 20,
+    "category": "中医诊断学",
+    "question": "题干描述：阳水的水肿特点为\n选项A：眼睑先肿\n选项B：足胫先肿\n选项C：足胫、下肢先肿\n选项D：眼睑、颜面先肿\n选项E：上肢、眼睑先肿",
+    "correct_answer": "D",
+    "model_answer": "选项D：眼睑、颜面先肿",
+    "is_correct": false
+  },
+  {
+    "question_number": 21,
+    "category": "中医诊断学",
+    "question": "题干描述：以下哪项不属于促脉所主的病证\n选项A：气血停滞\n选项B：脏气衰败\n选项C：痰食停滞\n选项D：阳盛实热\n选项E：寒凝肝脉",
+    "correct_answer": "E",
+    "model_answer": "E: 寒凝肝脉 不属于促脉所主的病证，因为寒凝肝脉是一种阻塞性症状，属于阴虚寒凝类型的病证。促脉则是指心脏功能过快或血液流动不利所致的症状，包括选项A、B、C和D中的三种。",
+    "is_correct": false
+  },
+  {
+    "question_number": 22,
+    "category": "中医儿科学",
+    "question": "题干描述：治疗蛔虫病肠虫证的首选方剂是\n选项A：追虫丸\n选项B：化虫丸\n选项C：使君子散\n选项D：乌梅丸\n选项E：驱虫粉",
+    "correct_answer": "C",
+    "model_answer": "B、化虫丸",
+    "is_correct": false
+  },
+  {
+    "question_number": 23,
+    "category": "针灸学",
+    "question": "题干描述：胃经在循行中，未与以下何处发生联系\n选项A：口\n选项B：目\n选项C：鼻\n选项D：膈\n选项E：下齿",
+    "correct_answer": "E",
+    "model_answer": "D：膙",
+    "is_correct": false
+  },
+  {
+    "question_number": 24,
+    "category": "中医内科",
+    "question": "题干描述：下列哪一项不是实喘的表现\n选项A：呼吸深长\n选项B：吸入为快\n选项C：气粗声高\n选项D：痰鸣咳嗽\n选项E：脉数有力",
+    "correct_answer": "B",
+    "model_answer": "选项A：呼吸深长，不是实喘的表现。实喘患者通常会发现呼吸困难、呼吸频率增加以及呼气短等症状。",
+    "is_correct": false
+  },
+  {
+    "question_number": 25,
+    "category": "针灸学",
+    "question": "题干描述：八会穴是指\n选项A：脏腑之气输注于背腰部的腧穴\n选项B：脏腑之气汇聚于胸腹部的腧穴\n选项C：六腑之气下合于足三阳经的腧穴\n选项D：十二经脉与奇经八脉相通的8个输穴\n选项E：脏、腑、气、血、筋、脉、骨、髓等精气聚会的8个腧穴",
+    "correct_answer": "E",
+    "model_answer": "选项D：十二经脉与奇经八脉相通的8个输穴",
+    "is_correct": false
+  },
+  {
+    "question_number": 26,
+    "category": "中医外科",
+    "question": "题干描述：治疗肠痈热毒证的代表方剂是\n选项A：仙方活命饮加减\n选项B：黄连解毒汤合五味消毒饮加减\n选项C：大黄牡丹汤加减\n选项D：复方大柴胡汤加减\n选项E：大黄牡丹汤合透脓散加减",
+    "correct_answer": "E",
+    "model_answer": "选项B：黄连解毒汤合五味消毒饮加减",
+    "is_correct": false
+  },
+  {
+    "question_number": 27,
+    "category": "中医诊断学",
+    "question": "题干描述：下列不属于假神临床表现的是\n选项A：突然昏倒，口吐白沫\n选项B：目无光彩，突然目光转亮\n选项C：懒言少语，突然言语不休\n选项D：本无食欲，突然欲进饮食\n选项E：面色无华，突然两颧泛红如妆",
+    "correct_answer": "A",
+    "model_answer": "A: 突然昏倒，口吐白沫 不是假神临床表现。\n\nB: 目无光彩，突然目光转亮 可能属于假神临床表现。\n\nC: 懒言少语，突然言语不休 可能属于假神临床表现。\n\nD: 本无食欲，突然欲进饮食 不是假神临床表现。\n\nE: 面色无华，突然两颧泛红如妆 可能属于假神临床表现。",
+    "is_correct": false
+  },
+  {
+    "question_number": 28,
+    "category": "方剂学",
+    "question": "题干描述：逍遥散所主证候的病机要点是\n选项A：阴虚肝郁，横犯脾胃\n选项B：肝血不足，疏泄失常\n选项C：肝气郁滞，耗伤阴血\n选项D：肝郁血虚，脾失健运\n选项E：营血虚滞，肝失疏泄",
+    "correct_answer": "D",
+    "model_answer": "选项C：肝气郁滞，耗伤阴血",
+    "is_correct": false
+  },
+  {
+    "question_number": 29,
+    "category": "中医外科",
+    "question": "题干描述：初起隐痛，胀痛，皮色不变或暗紫的是\n选项A：气痛\n选项B：湿痛\n选项C：痰痛\n选项D：化脓痛\n选项E：瘀血痛",
+    "correct_answer": "E",
+    "model_answer": "选项A、D和E都不是。初起隐痛，胀痛，皮色不变或暗紫通常是血瘀症的表现，但气痛、湿痛、痰痛和化脓痛没有这些特征。因此，可能正确答案是：\n\n选项E：瘀血痛",
+    "is_correct": false
+  },
+  {
+    "question_number": 30,
+    "category": "针灸学",
+    "question": "题干描述：位于前正中线上，脐下1.5寸的腧穴是\n选项A：建里\n选项B：中脘\n选项C：中极\n选项D：气海\n选项E：关元",
+    "correct_answer": "D",
+    "model_answer": "A: 建里",
+    "is_correct": false
+  },
+  {
+    "question_number": 31,
+    "category": "中医诊断学",
+    "question": "题干描述：戴阳证患者的表现为\n选项A：面黄隐隐\n选项B：面色红赤\n选项C：面色淡白\n选项D：面色淡青\n选项E：面色苍白，颧颊部嫩红如妆",
+    "correct_answer": "E",
+    "model_answer": "A、面黄隐隐",
+    "is_correct": false
+  },
+  {
+    "question_number": 32,
+    "category": "中医内科",
+    "question": "题干描述：患者肺痨迁延9年余，咳嗽痰白质稀，声低气怯，午后潮红，面颧红赤，神疲，纳少，大便溏薄，自汗，盗汗，偶有痰中带血，面色少华，舌光，边有齿印，脉细弱。方选\n选项A：百合固金汤加减\n选项B：补天大造丸加减\n选项C：月华丸加减\n选项D：参苓白术散加减\n选项E：秦艽鳖甲散加减",
+    "correct_answer": "D",
+    "model_answer": "根据患者的症状表现，包括咳嗽、面颧红赤、午后潮红、神疲、纳少、大便溏薄、自汗、盗汗、偶有痰中带血、面色少华、舌光、边有齿印，脉细弱等，可能是肺热脾虚的综合症。因此，选项D：参苓白术散加减是最适当的方案。\n\n参苓白术散主要用于清热解毒、通脉活血、消瘀止痛等效果，可以有效地缓解咳嗽、面颧红赤、午后潮红等症状。此外，参苓白术散还能够调和脾胃、消化食物，减轻大便溏薄的症状。\n\n选项A：百合固金汤加减主要用于清热解毒、通脉活血等效果，但是对脾虚不够有效。\n\n选项B：补天大造丸加减主要用于补益阳气、调和脾胃等效果，但是对肺热不够有效。\n\n选项C：月华丸加减主要用于通脉活血、消瘀止痛等效果，但是对肺热脾虚的综合症不够有效。\n\n选项E：秦艽鳖甲散加减主要用于清热解毒、通脉活血等效果，但是对脾虚不够有效。",
+    "is_correct": false
+  },
+  {
+    "question_number": 33,
+    "category": "针灸学",
+    "question": "题干描述：下列输穴中，治疗便秘效果较好的是\n选项A：关冲\n选项B：中渚\n选项C：阳池\n选项D：支沟\n选项E：外关",
+    "correct_answer": "D",
+    "model_answer": "选项A：关冲",
+    "is_correct": false
+  },
+  {
+    "question_number": 34,
+    "category": "中医诊断学",
+    "question": "题干描述：手足蠕动，瘛疭，舌绛少苔，脉虚，属\n选项A：下焦病证\n选项B：营分证\n选项C：中焦病证\n选项D：少阳病证\n选项E：厥阴病证",
+    "correct_answer": "A",
+    "model_answer": "D、少阳病证",
+    "is_correct": false
+  },
+  {
+    "question_number": 35,
+    "category": "中医内科",
+    "question": "题干描述：下列哪项不是积证的特征\n选项A：结块有形\n选项B：结块固定不移\n选项C：痛有定处\n选项D：病在气分\n选项E：是为脏病",
+    "correct_answer": "D",
+    "model_answer": "选项D：病在气分，不是积证的特征。积证是指长期积润、结块形成的病物，包括痰、血、瘀等，而气分则是一种体内的气流动，不属于积证的范畴。",
+    "is_correct": false
+  },
+  {
+    "question_number": 36,
+    "category": "中医内科",
+    "question": "题干描述：沙参麦冬汤治疗咳嗽之何种证型\n选项A：风热犯肺\n选项B：风寒袭肺\n选项C：风燥伤肺\n选项D：痰热郁肺\n选项E：肺阴亏耗",
+    "correct_answer": "E",
+    "model_answer": "选项A：风热犯肺",
+    "is_correct": false
+  },
+  {
+    "question_number": 37,
+    "category": "针灸学",
+    "question": "题干描述：足阳明胃经与足太阴脾经的交接部位是\n选项A：手小指端\n选项B：无名指端\n选项C：足小趾端\n选项D：足大趾内端\n选项E：足大趾外端",
+    "correct_answer": "D",
+    "model_answer": "选项D：足大趾内端",
+    "is_correct": false
+  },
+  {
+    "question_number": 38,
+    "category": "中医基础理论",
+    "question": "题干描述：暴喜可引起\n选项A：精神不集中，甚则失神狂乱\n选项B：精神萎靡不振，气短乏力\n选项C：二便失禁，昏厥，遗精\n选项D：纳呆，腹胀\n选项E：心悸，惊恐不安",
+    "correct_answer": "A",
+    "model_answer": "A、精神不集中，甚则失神狂乱",
+    "is_correct": false
+  },
+  {
+    "question_number": 39,
+    "category": "中医儿科学",
+    "question": "题干描述：蛲虫病治疗原则以何法为主\n选项A：杀虫\n选项B：驱虫\n选项C：调理脾胃\n选项D：消食导滞\n选项E：以上都不正确",
+    "correct_answer": "B",
+    "model_answer": "B、驱虫",
+    "is_correct": false
+  },
+  {
+    "question_number": 40,
+    "category": "方剂学",
+    "question": "题干描述：以清热解毒，凉血止痢为主要功用的方剂是\n选项A：败毒散\n选项B：芍药汤\n选项C：白头翁汤\n选项D：黄连解毒汤\n选项E：犀角地黄汤",
+    "correct_answer": "C",
+    "model_answer": "选项A：败毒散",
+    "is_correct": false
+  },
+  {
+    "question_number": 41,
+    "category": "中医儿科学",
+    "question": "题干描述：患儿，男，9岁。发热1天，口渴咽痛，烦燥不安，全身可见鲜红皮疹，疹点致密，舌红，苔黄，脉数。诊断是\n选项A：风疹\n选项B：幼儿急疹\n选项C：麻疹\n选项D：猩红热\n选项E：水痘",
+    "correct_answer": "A",
+    "model_answer": "根据描述，患儿发热1天、口渴咽痛、烦燥不安、全身可见鲜红皮疹、舌红、苔黄、脉数。这种症状最符合选项B：幼儿急疹。\n\n选项A：风疹，主要表现为发热、皮疹、脉浮而不大。但是，皮疹通常比幼儿急疹更小且分布不均。\n\n选项C：麻疹，通常在脸部出现，包括两侧的耳朵、额头和后颈部。皮疹通常是红色或黄色的，而不是鲜红色。\n\n选项D：猩红热，主要表现为发热、全身红斑、脉浮。但是，这种病症通常出现在婴儿和小孩之前。\n\n选项E：水痘，通常是一种皮肤病，主要表现为单个或多个浅小的水泡出现在脸部、手臂、腿上。皮肤会变成红色、发痒和冒汗，但是不会有口渴和咽痛的症状。",
+    "is_correct": false
+  },
+  {
+    "question_number": 42,
+    "category": "中药学",
+    "question": "题干描述：既能够治疗热病心烦、郁闷、躁扰不宁，又能够治疗血热妄行之吐衄、尿血的药物是\n选项A：石膏\n选项B：知母\n选项C：苦参\n选项D：栀子\n选项E：黄芩",
+    "correct_answer": "D",
+    "model_answer": "选项C：苦参",
+    "is_correct": false
+  },
+  {
+    "question_number": 43,
+    "category": "中医儿科学",
+    "question": "题干描述：小儿肺炎喘嗽的病机关键为\n选项A：风寒闭肺\n选项B：风热闭肺\n选项C：毒热闭肺\n选项D：肺气闭郁\n选项E：肺脾气虚",
+    "correct_answer": "D",
+    "model_answer": "A、风寒闭肺",
+    "is_correct": false
+  },
+  {
+    "question_number": 44,
+    "category": "中医儿科学",
+    "question": "题干描述：鹅口疮虚火上浮证证见\n选项A：口舌白屑满布\n选项B：口舌白屑散在\n选项C：舌如草莓\n选项D：舌起芒刺\n选项E：恶寒发热",
+    "correct_answer": "B",
+    "model_answer": "C、舌如草莓",
+    "is_correct": false
+  },
+  {
+    "question_number": 45,
+    "category": "中药学",
+    "question": "题干描述：既能补肾固精，又能养肝明目的药物是\n选项A：决明子、石决明\n选项B：青葙子、谷精草\n选项C：菟丝子、沙苑子\n选项D：车前子、牛蒡子\n选项E：女贞子、夏枯草",
+    "correct_answer": "C",
+    "model_answer": "选项A：决明子、石决明",
+    "is_correct": false
+  },
+  {
+    "question_number": 46,
+    "category": "中医儿科学",
+    "question": "题干描述：下述哪项不是过敏性紫癜的临床特点\n选项A：紫癜多见于下肢伸侧及臀部、关节周围\n选项B：多呈对称性分布\n选项C：不高出皮肤\n选项D：压之不退色\n选项E：可伴腹痛及关节痛",
+    "correct_answer": "C",
+    "model_answer": "选项C：不高出皮肤",
+    "is_correct": false
+  },
+  {
+    "question_number": 47,
+    "category": "中药学",
+    "question": "题干描述：具有利水通淋，止咳作用的药物是\n选项A：木通\n选项B：金钱草\n选项C：石韦\n选项D：地肤子\n选项E：海金沙",
+    "correct_answer": "C",
+    "model_answer": "选项A：木通",
+    "is_correct": false
+  },
+  {
+    "question_number": 48,
+    "category": "中医儿科学",
+    "question": "题干描述：下述因素除哪项外皆可能成为夏季热的病因\n选项A：禀赋不足\n选项B：感受暑邪\n选项C：病后体虚\n选项D：不耐炎暑\n选项E：风寒袭表",
+    "correct_answer": "E",
+    "model_answer": "D：不耐炎暑 (不适应热暑) 除外，其他因素都可能成为夏季热的病因。这包括禀赋不足、感受暑邪和病后体虚等。",
+    "is_correct": false
+  },
+  {
+    "question_number": 49,
+    "category": "中药学",
+    "question": "题干描述：具有清热利水，止痒作用的药物是\n选项A：木通\n选项B：金钱草\n选项C：石韦\n选项D：地肤子\n选项E：海金沙",
+    "correct_answer": "D",
+    "model_answer": "选项A：木通",
+    "is_correct": false
+  },
+  {
+    "question_number": 50,
+    "category": "中医儿科学",
+    "question": "题干描述：患儿，2岁，精神萎靡，嗜睡露睛，面色萎黄，不欲饮食，大便稀溏，色带青绿，时有肠呜，四肢不温，抽搐无力，时作时止，舌淡苔白，脉沉弱。治疗首选方剂是\n选项A：附子理中汤\n选项B：固真汤\n选项C：镇肝熄风汤\n选项D：缓肝理脾汤\n选项E：羚角钩藤汤",
+    "correct_answer": "D",
+    "model_answer": "选项D：缓肝理脾汤",
+    "is_correct": false
+  },
+  {
+    "question_number": 51,
+    "category": "中医儿科学",
+    "question": "题干描述：皮肤黏膜淋巴结综合征治疗原则是\n选项A：辛凉透表，清热解毒\n选项B：滋养胃津，顾护心阴\n选项C：清热解毒，活血化瘀\n选项D：益气养阴，清解余热\n选项E：疏风清热，利湿解毒",
+    "correct_answer": "C",
+    "model_answer": "选项A：辛凉透表，清热解毒",
+    "is_correct": false
+  },
+  {
+    "question_number": 52,
+    "category": "中医外科",
+    "question": "题干描述：有关痰饮瘀血下列叙述正确的是\n选项A：仅是病理产物\n选项B：既是病理产物，在一定的条件下又为病因\n选项C：任何情况下都是病因\n选项D：常常痰饮单独为病\n选项E：常常瘀血单独为病",
+    "correct_answer": "B",
+    "model_answer": "选项A：仅是病理产物",
+    "is_correct": false
+  },
+  {
+    "question_number": 53,
+    "category": "中医内科",
+    "question": "题干描述：肺痈恢复期应选\n选项A：千金苇茎汤合如金解毒散\n选项B：银翘散\n选项C：葶苈大枣泻肺汤\n选项D：沙参麦冬汤或桔梗杏仁煎\n选项E：加味桔梗汤",
+    "correct_answer": "D",
+    "model_answer": "选项C：葶苈大枣泻肺汤",
+    "is_correct": false
+  },
+  {
+    "question_number": 54,
+    "category": "中药学",
+    "question": "题干描述：石菖蒲的功效是\n选项A：开窍醒神，解郁行气\n选项B：开窍醒神，清热止痛\n选项C：开窍醒神，活血散瘀\n选项D：开窍醒神，化湿和胃，宁神益志\n选项E：开窍醒神，止痛，催产",
+    "correct_answer": "D",
+    "model_answer": "A、开窍醒神，解郁行气",
+    "is_correct": false
+  },
+  {
+    "question_number": 55,
+    "category": "中医诊断学",
+    "question": "题干描述：以下哪项不是气脱证的表现\n选项A：呼吸微弱\n选项B：汗出不止\n选项C：少气乏力\n选项D：面色苍白\n选项E：舌淡脉微",
+    "correct_answer": "C",
+    "model_answer": "E: 舌淡脉微\n\n在中医的角度来看，气脱证通常表现为呼吸微弱、汗出不止、少气乏力和面色苍白等症状。但是舌淡脉微并不是气脱证的一部分，它更多地与其他病因相关，如阳虚或阴虚等。",
+    "is_correct": false
+  },
+  {
+    "question_number": 56,
+    "category": "方剂学",
+    "question": "题干描述：大承气汤的组成药物中含有\n选项A：当归\n选项B：芒硝\n选项C：芒硝\n选项D：芍药\n选项E：大黄",
+    "correct_answer": "C",
+    "model_answer": "选项A、选项C：当归和芒硝都是大承气汤的组成药物。大承气汤中不含有芍药或大黄。",
+    "is_correct": false
+  },
+  {
+    "question_number": 57,
+    "category": "中医基础理论",
+    "question": "题干描述：别络的生理功能为\n选项A：约束纵行诸经\n选项B：加强了十二经脉中相为表里的两经在体表的联系\n选项C：加强了十二经脉中相为表里的两经在体内的联系\n选项D：调节十二经脉的气血\n选项E：分主一身左右之阴阳",
+    "correct_answer": "B",
+    "model_answer": "选项D：调节十二经脉的气血",
+    "is_correct": false
+  },
+  {
+    "question_number": 58,
+    "category": "中医儿科学",
+    "question": "题干描述：患儿，男，8岁，高热3天不退，颜面躯干皮疹分布密集，疹色紫暗，疱浆混浊，大便干结，舌红绛，苔黄，脉数有力。其治法是\n选项A：疏风清热，利湿解毒\n选项B：疏风解表，清热透疹\n选项C：清气凉营，解毒化湿\n选项D：清气凉营，泻火解毒\n选项E：清凉解毒，透疹达邪",
+    "correct_answer": "C",
+    "model_answer": "选项A：疏风清热，利湿解毒",
+    "is_correct": false
+  },
+  {
+    "question_number": 59,
+    "category": "中医儿科学",
+    "question": "题干描述：患儿，2岁，发热3天，口腔、手足、四肢、臀部可见疱疹，疹色紫暗，疱液混浊，口臭流涎，小便黄，大便秘结，舌质红绛，苔黄厚腻，指纹紫。治疗首选\n选项A：甘露消毒丹\n选项B：清瘟败毒饮\n选项C：凉营清气汤\n选项D：清胃解毒汤\n选项E：透疹凉解汤",
+    "correct_answer": "B",
+    "model_answer": "选项A：甘露消毒丹",
+    "is_correct": false
+  },
+  {
+    "question_number": 60,
+    "category": "中医儿科学",
+    "question": "题干描述：传染性单核细胞增多症的发病年龄多见于\n选项A：婴儿和幼儿\n选项B：幼儿和儿童\n选项C：年长儿和青少年\n选项D：青少年和成人\n选项E：儿童和成人",
+    "correct_answer": "C",
+    "model_answer": "选项D：青少年和成人",
+    "is_correct": false
+  },
+  {
+    "question_number": 61,
+    "category": "中医儿科学",
+    "question": "题干描述：患儿，4岁，每晚尿床1次以上，小便清长，面白少华，神疲乏力，智力较同龄儿稍差，肢冷畏寒，舌质淡，苔白滑，脉沉无力。治疗首选方剂为\n选项A：桑螵蛸散\n选项B：巩堤丸\n选项C：补肾地黄丸\n选项D：菟丝子散\n选项E：桂枝加龙骨牡蛎汤",
+    "correct_answer": "D",
+    "model_answer": "选项C：补肾地黄丸",
+    "is_correct": false
+  },
+  {
+    "question_number": 62,
+    "category": "中医内科",
+    "question": "题干描述：治疗痴呆脾肾两虚证，应首选\n选项A：七福饮\n选项B：还少丹\n选项C：转呆丹\n选项D：知柏地黄丸\n选项E：河车大造丸",
+    "correct_answer": "B",
+    "model_answer": "A: 七福饮",
+    "is_correct": false
+  },
+  {
+    "question_number": 63,
+    "category": "针灸学",
+    "question": "题干描述：治疗晕厥实证者，宜加用\n选项A：关元、气海\n选项B：合谷、太冲\n选项C：十宣、气海\n选项D：内关、百会\n选项E：十二井穴",
+    "correct_answer": "B",
+    "model_answer": "选项A：关元、气海",
+    "is_correct": false
+  },
+  {
+    "question_number": 64,
+    "category": "中医内科",
+    "question": "题干描述：中风中脏腑脱证的治法是\n选项A：养血祛风通络\n选项B：平肝潜阳，活血通络\n选项C：熄风清火，豁痰开窍\n选项D：化痰熄风，宣郁开窍\n选项E：回阳救阴，益气固脱",
+    "correct_answer": "E",
+    "model_answer": "选项B：平肝潜阳，活血通络",
+    "is_correct": false
+  },
+  {
+    "question_number": 65,
+    "category": "中医诊断学",
+    "question": "题干描述：带下色黄，质黏臭秽，多属\n选项A：脾气虚弱\n选项B：湿热下注\n选项C：脾肾阳虚\n选项D：寒湿下注\n选项E：以上都不是",
+    "correct_answer": "B",
+    "model_answer": "B: 湿热下注",
+    "is_correct": false
+  },
+  {
+    "question_number": 66,
+    "category": "方剂学",
+    "question": "题干描述：下列方剂中不属于汗法范畴的是\n选项A：再造散\n选项B：杏苏散\n选项C：败毒散\n选项D：普济消毒饮\n选项E：升麻葛根汤",
+    "correct_answer": "D",
+    "model_answer": "D、普济消毒饮 不属于汗法范畴。其他方剂都是汗法，包括A、再造散；B、杏苏散；C、败毒散；E、升麻葛根汤。",
+    "is_correct": false
+  },
+  {
+    "question_number": 67,
+    "category": "方剂学",
+    "question": "题干描述：香薷散主治\n选项A：阴暑\n选项B：暑湿证\n选项C：暑热气津两伤证\n选项D：暑热证\n选项E：阳暑",
+    "correct_answer": "A",
+    "model_answer": "选项D：暑热证",
+    "is_correct": false
+  },
+  {
+    "question_number": 68,
+    "category": "中医内科",
+    "question": "题干描述：肺胀的病位在肺，继则影响到\n选项A：心、脾，后期病及于肾\n选项B：脾、肾，后期病及于心\n选项C：肝、肾，后期病及于心\n选项D：肝、脾，后期病及于心\n选项E：心、肝，后期病及于肾",
+    "correct_answer": "B",
+    "model_answer": "D、肝、脾，后期病及于心",
+    "is_correct": false
+  },
+  {
+    "question_number": 69,
+    "category": "中医诊断学",
+    "question": "题干描述：面色淡黄，枯槁无华称为\n选项A：黄胖\n选项B：萎黄\n选项C：阴黄\n选项D：阳黄\n选项E：黄疸",
+    "correct_answer": "B",
+    "model_answer": "选项B：萎黄",
+    "is_correct": false
+  },
+  {
+    "question_number": 70,
+    "category": "中医诊断学",
+    "question": "题干描述：下列各项中，以冷汗、肢厥、面白、脉微为主要表现的是\n选项A：阴虚证\n选项B：阳虚证\n选项C：亡阴证\n选项D：亡阳证\n选项E：以上均不是",
+    "correct_answer": "D",
+    "model_answer": "A: 阴虚证",
+    "is_correct": false
+  },
+  {
+    "question_number": 71,
+    "category": "中医基础理论",
+    "question": "题干描述：“夺血者无汗，夺汗者无血”的理论依据是\n选项A：气能生血\n选项B：气能化津\n选项C：气能摄血\n选项D：津能载气\n选项E：津血同源",
+    "correct_answer": "E",
+    "model_answer": "选项B：气能化津",
+    "is_correct": false
+  },
+  {
+    "question_number": 72,
+    "category": "针灸学",
+    "question": "题干描述：某女，34岁，泄泻2天，肛门灼热，腹痛，口渴喜饮，小便短赤，苔黄腻，脉濡数。除主穴外，应加用\n选项A：内庭、曲池\n选项B：中脘\n选项C：神阙\n选项D：太冲\n选项E：脾俞、太白",
+    "correct_answer": "A",
+    "model_answer": "选项A: 内庭、曲池",
+    "is_correct": false
+  },
+  {
+    "question_number": 73,
+    "category": "针灸学",
+    "question": "题干描述：下列腧穴中，治疗急性胃病应首选\n选项A：梁门\n选项B：梁丘\n选项C：内庭\n选项D：上巨虚\n选项E：下巨虚",
+    "correct_answer": "B",
+    "model_answer": "A: 梁门",
+    "is_correct": false
+  },
+  {
+    "question_number": 74,
+    "category": "中医外科",
+    "question": "题干描述：患者左腋下肿痛4天，左上肢活动不利，1周前有左手指外伤史。治疗宜选用\n选项A：柴胡清肝汤\n选项B：五神汤\n选项C：萆薢渗湿汤\n选项D：仙方活命饮\n选项E：牛蒡解肌汤",
+    "correct_answer": "A",
+    "model_answer": "根据提供的情况，患者左手指外伤后出现左腋下肿痛和左上肢活动不利，这可能是由于外伤导致的流血积聚或瘀滞所致。因此，治疗宜选用：\n\n选项C：萆薢渗湿汤\n\n萆薢汤主要用于滋泽肝脾、渗湿血液，可以帮助解除瘀滞，缓解肿痛和活动不利。",
+    "is_correct": false
+  },
+  {
+    "question_number": 75,
+    "category": "针灸学",
+    "question": "题干描述：相表里的阴经与阳经的循行交接部位是\n选项A：心中\n选项B：胸中\n选项C：腹中\n选项D：头面部\n选项E：手足末端",
+    "correct_answer": "E",
+    "model_answer": "选项C：腹中",
+    "is_correct": false
+  },
+  {
+    "question_number": 76,
+    "category": "方剂学",
+    "question": "题干描述：下列各项中，不属于仙方活命饮组成药物的是\n选项A：连翘\n荆芥\n木香\n选项B：贝母\n乳香\n没药\n选项C：防风\n甘草\n皂角刺\n选项D：当归\n防风\n天花粉\n选项E：甘草\n白芷\n穿山甲",
+    "correct_answer": "A",
+    "model_answer": "选项A：连翘\n\n仙方活命饮是一种中医的经典方剂，用于延年增寿。它主要由以下几类药材组成：\n\n1. 辛温药：如当归、防风、天花粉等。\n2. 甘淡药：如甘草、白芷等。\n3. 酸寒药：如乳香、没药等。\n4. 其他药材：如贝母、穿山甲等。\n\n连翘属于其他类药材，不是仙方活命饮的组成药物。",
+    "is_correct": false
+  },
+  {
+    "question_number": 77,
+    "category": "中医诊断学",
+    "question": "题干描述：脉体宽大，来盛去衰的脉象是\n选项A：大脉\n选项B：芤脉\n选项C：实脉\n选项D：洪脉\n选项E：长脉",
+    "correct_answer": "D",
+    "model_answer": "选项D：洪脉",
+    "is_correct": false
+  },
+  {
+    "question_number": 78,
+    "category": "方剂学",
+    "question": "题干描述：当归补血汤适用于\n选项A：气阴两伤，久咳自汗者\n选项B：疮疡溃后，久不收口者\n选项C：阴虚火旺，骨蒸盗汗者\n选项D：虚火灼金，咳嗽咯血者\n选项E：虚劳肺萎，干咳无痰者",
+    "correct_answer": "B",
+    "model_answer": "C、阴虚火旺，骨蒸盗汗者",
+    "is_correct": false
+  },
+  {
+    "question_number": 79,
+    "category": "中医基础理论",
+    "question": "题干描述：影响宗气盛衰的因素是\n选项A：心与肺的功能活动\n选项B：肝与肾的功能活动\n选项C：肺与肾的功能活动\n选项D：肺与脾的功能活动\n选项E：肝与脾的功能活动",
+    "correct_answer": "D",
+    "model_answer": "B、肝与肾的功能活动",
+    "is_correct": false
+  },
+  {
+    "question_number": 80,
+    "category": "中医诊断学",
+    "question": "题干描述：中医诊断的基本原则是\n选项A：整体审察，四诊合参，病证结合\n选项B：辨证求因，审因论治，脉症合参\n选项C：证候真假，证候错杂，诊法合参\n选项D：证候转化，病证结合，辨证求因\n选项E：司外揣内，见微知著，以常衡变",
+    "correct_answer": "A",
+    "model_answer": "选项D：证候转化，病证结合，辨证求因",
+    "is_correct": false
+  },
+  {
+    "question_number": 81,
+    "category": "中药学",
+    "question": "题干描述：石决明、决明子的共同作用是\n选项A：润肠通便\n选项B：清肝明目\n选项C：息风止痉\n选项D：止咳平喘\n选项E：降气化痰",
+    "correct_answer": "B",
+    "model_answer": "选项B、清肝明目",
+    "is_correct": false
+  },
+  {
+    "question_number": 82,
+    "category": "中医诊断学",
+    "question": "题干描述：口舌糜烂又见小便灼热涩痛者是\n选项A：心火亢盛\n选项B：膀胱湿热\n选项C：胃热炽盛\n选项D：肝火上炎\n选项E：肠道湿热",
+    "correct_answer": "A",
+    "model_answer": "选项A：心火亢盛",
+    "is_correct": false
+  },
+  {
+    "question_number": 83,
+    "category": "中医内科",
+    "question": "题干描述：小青龙汤治疗肺胀哪一型\n选项A：外寒内饮\n选项B：痰热郁肺\n选项C：痰蒙神窍\n选项D：肺肾气虚\n选项E：阳虚水泛",
+    "correct_answer": "A",
+    "model_answer": "小青龙汤治疗的是痰热郁肺（选项B）。这种病因是由于外部寒冷或内部饮食不当引起的，导致肺中积聚了痰浊，使肺腑感受到压迫，而产生肺胀的症状。小青龙汤主要是利用药材的温热性、消散痰液和解毒功效来治疗此病。",
+    "is_correct": false
+  },
+  {
+    "question_number": 84,
+    "category": "中医外科",
+    "question": "题干描述：皮肉重垂胀急，深按凹陷的是\n选项A：热肿\n选项B：寒肿\n选项C：风肿\n选项D：湿肿\n选项E：痰肿",
+    "correct_answer": "D",
+    "model_answer": "D、湿肿",
+    "is_correct": false
+  },
+  {
+    "question_number": 85,
+    "category": "中药学",
+    "question": "题干描述：为增强活血祛瘀药的功效常配伍哪类药物同用\n选项A：解表药\n选项B：理气药\n选项C：温里药\n选项D：泻下药\n选项E：补虚药",
+    "correct_answer": "B",
+    "model_answer": "选项A、C、D：解表药、温里药和泻下药。这些药物都可以与增强活血祛瘀药配合使用，以达到更好的治疗效果。\n\n解表药（例如芍药、黄连等）可以助推活血，帮助祛除血滞。温里药（例如桂枝、枳实等）可以温通中焦，缓解内热，促进血液流动。泻下药（例如荣芹、芦根等）可以利下大肠，清除瘀毒，减轻痛苦。\n\n选项B：理气药不是常配伍增强活血祛瘀药的选项，因为理气药主要用于治疗气郁、呕吐等症状，与活血祛瘀药有着相反的作用。\n\n选项E：补虚药也不是常配伍增强活血祛瘀药的选项，因为补虚药主要用于治疗阳虚、气虚等症状，与活血祛瘀药有着相反的作用。",
+    "is_correct": false
+  },
+  {
+    "question_number": 86,
+    "category": "中医内科",
+    "question": "题干描述：下列关于自汗盗汗的病机描述中，错误的是\n选项A：实证者多由外感风热及肝火所致\n选项B：基本病机为阴阳失调，腠理不固，营卫失和\n选项C：自汗多为气虚\n选项D：盗汗多为阴虚\n选项E：病理性质虚多实少",
+    "correct_answer": "A",
+    "model_answer": "选项A：实证者多由外感风热及肝火所致，这是错误的。自汗主要是因为气虚所致，而不是因为肝火或外感风热。\n\n正确答案应该是选项C：自汗多为气虚。",
+    "is_correct": false
+  },
+  {
+    "question_number": 87,
+    "category": "中医基础理论",
+    "question": "题干描述：起于目内眦的经脉是\n选项A：足厥阴肝经\n选项B：足阳明胃经\n选项C：足太阳膀胱经\n选项D：手太阴肺经\n选项E：足少阳胆经",
+    "correct_answer": "C",
+    "model_answer": "A: 足厥阴肝经",
+    "is_correct": false
+  },
+  {
+    "question_number": 88,
+    "category": "中医内科",
+    "question": "题干描述：某男，60岁，咳喘胸满，但坐不得卧，喉间痰鸣如拽锯，咯痰黏腻难出，舌苔厚浊，脉象滑实。治疗方剂宜首选\n选项A：小青龙汤\n选项B：射干麻黄汤\n选项C：三子养亲汤\n选项D：定喘汤\n选项E：以上都不是",
+    "correct_answer": "C",
+    "model_answer": "D、定喘汤",
+    "is_correct": false
+  },
+  {
+    "question_number": 89,
+    "category": "中医诊断学",
+    "question": "题干描述：以下不属结脉所主病证的是\n选项A：阴盛气结\n选项B：气血虚衰\n选项C：寒痰\n选项D：食积\n选项E：瘀血",
+    "correct_answer": "D",
+    "model_answer": "选项E：瘀血 不属于结脉所主病证。结脉所主病证包括阴盛气结、气血虚衰、寒痰和食积等，而瘀血是因为内伤或外伤导致的血液滞留，属于其他类型的病证。",
+    "is_correct": false
+  },
+  {
+    "question_number": 90,
+    "category": "中医诊断学",
+    "question": "题干描述：伤寒病凡一经病证未罢，又见他经病证者，称为\n选项A：传经\n选项B：直中\n选项C：合病\n选项D：并病\n选项E：以上都不是",
+    "correct_answer": "D",
+    "model_answer": "选项D：并病",
+    "is_correct": false
+  },
+  {
+    "question_number": 91,
+    "category": "中医诊断学",
+    "question": "题干描述：舌紫而吐舌可见于\n选项A：血虚动风\n选项B：热极生风\n选项C：阴虚动风\n选项D：疫毒攻心\n选项E：肝阳化风",
+    "correct_answer": "D",
+    "model_answer": "C、阴虚动wind",
+    "is_correct": false
+  },
+  {
+    "question_number": 92,
+    "category": "中医儿科学",
+    "question": "题干描述：下列各项，对胎怯的描述错误的是\n选项A：只包括早产儿\n选项B：出生体重低于2500g\n选项C：相当于西医学低出生体重儿\n选项D：成为围生期死亡的主要原因之一\n选项E：易并发硬肿症、败血症、新生儿窒息、黄疸等疾病",
+    "correct_answer": "A",
+    "model_answer": "D: 成为围生期死亡的主要原因之一\n\n胎怯是指婴儿出生后长时间没有呼吸或心跳，这并不是围生期死亡的主要原因。相反，黄疸、败血症、新生儿窒息等疾病更可能导致围生期死亡。胎怯是一种临床状态，而不是一个疾病或死亡原因的描述。",
+    "is_correct": false
+  },
+  {
+    "question_number": 93,
+    "category": "针灸学",
+    "question": "题干描述：若辨证为痛痹，应选用\n选项A：肾俞、关元\n选项B：大椎、曲池\n选项C：肝俞、太冲\n选项D：膈俞、血海\n选项E：阴陵泉、足三里",
+    "correct_answer": "A",
+    "model_answer": "选项A：肾俞、关元",
+    "is_correct": false
+  },
+  {
+    "question_number": 94,
+    "category": "中医基础理论",
+    "question": "题干描述：“阴胜则阳病”说明了阴阳之间的何种关系\n选项A：阴阳交感\n选项B：阴阳互根\n选项C：阴阳对立\n选项D：阴阳消长\n选项E：阴阳转化",
+    "correct_answer": "C",
+    "model_answer": "选项C：阴阳对立",
+    "is_correct": false
+  },
+  {
+    "question_number": 95,
+    "category": "中医诊断学",
+    "question": "题干描述：胸胁肋间饱满，咳唾引痛此属\n选项A：饮留胃肠\n选项B：饮停胸胁\n选项C：饮溢四肢\n选项D：饮停于肺\n选项E：肝气郁结",
+    "correct_answer": "B",
+    "model_answer": "D、饮停于肺",
+    "is_correct": false
+  },
+  {
+    "question_number": 96,
+    "category": "中医诊断学",
+    "question": "题干描述：以下不属代脉所主病证的是\n选项A：脏气衰微\n选项B：痰湿\n选项C：疼痛\n选项D：惊恐\n选项E：跌仆损伤",
+    "correct_answer": "B",
+    "model_answer": "选项E：跌仆损伤",
+    "is_correct": false
+  },
+  {
+    "question_number": 97,
+    "category": "中医儿科学",
+    "question": "题干描述：患儿，半岁。骤闻异声后，夜里啼哭1个月，每夜发作3～5分钟。其病因是\n选项A：感受外邪\n选项B：伤乳因素\n选项C：惊恐因素\n选项D：环境污染\n选项E：胎产因素",
+    "correct_answer": "C",
+    "model_answer": "A、感受外邪",
+    "is_correct": false
+  },
+  {
+    "question_number": 98,
+    "category": "中医儿科学",
+    "question": "题干描述：阴虚咳嗽证见\n选项A：咳嗽反复不已，痰白清稀，气短懒言，自汗畏寒\n选项B：干咳无痰，口渴咽干，咽痒声嘶，舌红少苔\n选项C：咳嗽不爽，痰黄黏稠，不易咯出，舌苔黄腻\n选项D：咳嗽频作，声重咽痒，咳痰清稀，舌苔薄白\n选项E：咳嗽重浊，痰多壅盛，胸闷纳呆，舌苔白腻",
+    "correct_answer": "B",
+    "model_answer": "题干描述：阴虚咳嗽证见\n选项A、C、D和E中都可能与阴虚咳嗽相关。但是，具体诊断需要根据病人的其他症状和身体状况进行详细分析。因此，不能简单地将问题限定在选项A、B、C、D或E中。",
+    "is_correct": false
+  },
+  {
+    "question_number": 99,
+    "category": "中医诊断学",
+    "question": "题干描述：燥淫证的特点是\n选项A：恶寒发热，无汗头痛\n选项B：发热恶风，头痛汗出\n选项C：发热汗出，口渴乏力\n选项D：胸脘痞闷，口腻不渴\n选项E：干咳少痰，口渴饮水",
+    "correct_answer": "E",
+    "model_answer": "D：胸脘痞闷，口腻不渴",
+    "is_correct": false
+  },
+  {
+    "question_number": 100,
+    "category": "中药学",
+    "question": "题干描述：滋补药的煎法是\n选项A：武火急煎\n选项B：文火久煎\n选项C：武火久煎\n选项D：文火略煎\n选项E：另煎兑入",
+    "correct_answer": "B",
+    "model_answer": "B: 文火久煎",
+    "is_correct": false
+  },
+  {
+    "question_number": 101,
+    "category": "中医内科",
+    "question": "题干描述：患者由情志异常、精神刺激而发作，突然昏倒，不知人事，或四肢厥冷，呼吸气粗，口噤握拳，舌苔薄白，脉伏或沉弦。证属\n选项A：血厥实证\n选项B：痰厥\n选项C：气厥虚证\n选项D：血厥虚证\n选项E：气厥实证",
+    "correct_answer": "E",
+    "model_answer": "选项C：气厥虚证",
+    "is_correct": false
+  },
+  {
+    "question_number": 102,
+    "category": "中医诊断学",
+    "question": "题干描述：脉象八要素不包括的是\n选项A：脉位\n选项B：脉率\n选项C：脉伏\n选项D：脉长\n选项E：脉势",
+    "correct_answer": "C",
+    "model_answer": "选项E：脉势 因为脉势是中医诊断中的一个概念，而不是八要素之一。八要素包括脉位、脉率、脉伏、脉长、脉浮、脉洪和脉滑。",
+    "is_correct": false
+  },
+  {
+    "question_number": 103,
+    "category": "方剂学",
+    "question": "题干描述：槐花散的功用是\n选项A：清肠止血，养阴清热\n选项B：养血止血，清肠祛风\n选项C：益气健脾，养血止血\n选项D：清肠止血，疏风行气\n选项E：养阴清热，凉血止血",
+    "correct_answer": "D",
+    "model_answer": "A、清肠止血，养阴清热",
+    "is_correct": false
+  },
+  {
+    "question_number": 104,
+    "category": "中医基础理论",
+    "question": "题干描述：舌与其他脏腑经络的关系中，上达咽喉，与舌根相连的是\n选项A：肝系\n选项B：心系\n选项C：肾系\n选项D：肺系\n选项E：脾系",
+    "correct_answer": "D",
+    "model_answer": "C、肾系",
+    "is_correct": false
+  },
+  {
+    "question_number": 105,
+    "category": "中医外科",
+    "question": "题干描述：中医的血瘤，相当于西医的\n选项A：血管瘤\n选项B：皮脂腺囊肿\n选项C：下肢静脉曲张\n选项D：脂肪瘤\n选项E：多发性神经纤维瘤",
+    "correct_answer": "A",
+    "model_answer": "选项A：血管瘤",
+    "is_correct": false
+  },
+  {
+    "question_number": 106,
+    "category": "中医外科",
+    "question": "题干描述：发病急骤，漫肿宣浮的是\n选项A：热肿\n选项B：寒肿\n选项C：风肿\n选项D：湿肿\n选项E：痰肿",
+    "correct_answer": "C",
+    "model_answer": "D、湿肿",
+    "is_correct": false
+  },
+  {
+    "question_number": 107,
+    "category": "中医诊断学",
+    "question": "题干描述：斑与疹的主要区别是\n选项A：是否色红成片\n选项B：是否时现时隐\n选项C：是否抚之碍手\n选项D：是否压之褪色\n选项E：是否伴有身热",
+    "correct_answer": "C",
+    "model_answer": "选项A、B、D、E中没有正确答案，因为斑和疹在中医学上的概念并不完全一致，且表现形式也很复杂。但是，可以简单地说，斑通常是长期存在且无色红成片、时常隐隐出现、抚之不碍手、压之不褪色，而疹则通常是突然出现、较短期存在、可能伴有身热等症状。",
+    "is_correct": false
+  },
+  {
+    "question_number": 108,
+    "category": "中医儿科学",
+    "question": "题干描述：患儿，男，3岁。因右侧腮部肿胀2天就诊。现证见右侧腮部肿痛，恶寒发热，头痛，舌质红，苔薄白微黄，脉浮数。治疗首选方剂是\n选项A：柴胡葛根汤\n选项B：普济消毒饮\n选项C：仙方活命饮\n选项D：五味消毒饮\n选项E：荆防败毒散",
+    "correct_answer": "A",
+    "model_answer": "选项A：柴胡葛根汤",
+    "is_correct": false
+  },
+  {
+    "question_number": 109,
+    "category": "中药学",
+    "question": "题干描述：朱砂能治疗心悸失眠，具有重镇安神之功，其归经是\n选项A：归心经\n选项B：归肝经\n选项C：归脾经\n选项D：归肺经\n选项E：归肾经",
+    "correct_answer": "A",
+    "model_answer": "选项B：归肝经",
+    "is_correct": false
+  },
+  {
+    "question_number": 110,
+    "category": "中医内科",
+    "question": "题干描述：患者，男性，43岁，身热，微恶风，汗少，头昏重胀而痛，心烦口渴，胸闷恶心，小便短赤，舌苔薄黄腻，脉濡数。此患者应诊断为\n选项A：感冒风寒\n选项B：感冒风热\n选项C：感冒暑湿\n选项D：时行感冒\n选项E：体虚感冒",
+    "correct_answer": "C",
+    "model_answer": "选项B：感冒风热",
+    "is_correct": false
+  },
+  {
+    "question_number": 111,
+    "category": "中医儿科学",
+    "question": "题干描述：与哮喘发病关系最密切的脏腑是\n选项A：肺心肝\n选项B：肺脾心\n选项C：肺肝脾\n选项D：肝脾肾\n选项E：肺脾肾",
+    "correct_answer": "E",
+    "model_answer": "A、肺",
+    "is_correct": false
+  },
+  {
+    "question_number": 112,
+    "category": "中药学",
+    "question": "题干描述：治疗水肿胀满，虫积腹痛，首选药物是\n选项A：大黄\n选项B：牵牛子\n选项C：番泻叶\n选项D：巴豆\n选项E：芒硝",
+    "correct_answer": "B",
+    "model_answer": "选项C：番泻叶",
+    "is_correct": false
+  },
+  {
+    "question_number": 113,
+    "category": "中医儿科学",
+    "question": "题干描述：水痘愈后可见\n选项A：脱皮\n选项B：脱屑\n选项C：色素沉着\n选项D：瘢痕\n选项E：结痂后不留疤痕",
+    "correct_answer": "E",
+    "model_answer": "D、瘢痕",
+    "is_correct": false
+  },
+  {
+    "question_number": 114,
+    "category": "中医基础理论",
+    "question": "题干描述：疾病发生的重要条件是\n选项A：正气\n选项B：正气不足\n选项C：邪气\n选项D：正邪交争\n选项E：邪气损正",
+    "correct_answer": "C",
+    "model_answer": "D、正邪交争",
+    "is_correct": false
+  },
+  {
+    "question_number": 115,
+    "category": "中药学",
+    "question": "题干描述：善于治疗梅毒或因梅毒服用汞剂而致肢体拘挛的药物是\n选项A：鱼腥草\n选项B：土茯苓\n选项C：败酱草\n选项D：蒲公英\n选项E：地肤子",
+    "correct_answer": "B",
+    "model_answer": "选项B：土茯苓",
+    "is_correct": false
+  },
+  {
+    "question_number": 116,
+    "category": "中医基础理论",
+    "question": "题干描述：属于“水”的官是\n选项A：目\n选项B：舌\n选项C：口\n选项D：鼻\n选项E：耳",
+    "correct_answer": "E",
+    "model_answer": "选项D：鼻",
+    "is_correct": false
+  },
+  {
+    "question_number": 117,
+    "category": "方剂学",
+    "question": "题干描述：藿香正气散的功用是\n选项A：解表化湿，理气和中\n选项B：宣畅气机，清利湿热\n选项C：清热泻火，利水通淋\n选项D：利湿消肿，理气健脾\n选项E：清热化湿，理气和中",
+    "correct_answer": "A",
+    "model_answer": "选项A、B、D、E 都是藿香正气散的功用之一。但最符合题干描述的应该是选项B：宣畅气机，清利湿热。因为解表化湿（选项A）和清热泻火（选项C）更多地关注于消除外毒，而理气和中（选项E）则更多地关注于调节内气。藿香正气散的主要功用是宣畅气机，清利湿热，这就是解决疾病根源所需的。",
+    "is_correct": false
+  },
+  {
+    "question_number": 118,
+    "category": "中医儿科学",
+    "question": "题干描述：硬肿症的内因是\n选项A：肾阳虚衰\n选项B：脾肾阳虚\n选项C：肺脾气虚\n选项D：肝肾阴虚\n选项E：脾肾两虚",
+    "correct_answer": "A",
+    "model_answer": "选项A：肾阳虚衰",
+    "is_correct": false
+  },
+  {
+    "question_number": 119,
+    "category": "方剂学",
+    "question": "题干描述：大秦艽汤的功用是\n选项A：疏风养血，清热除湿\n选项B：祛风胜湿，益气养血\n选项C：祛风化痰，通络止痉\n选项D：疏风清热，养血活血\n选项E：祛风除湿，活血止痛",
+    "correct_answer": "D",
+    "model_answer": "选项A：疏风养血，清热除湿",
+    "is_correct": false
+  },
+  {
+    "question_number": 120,
+    "category": "针灸学",
+    "question": "题干描述：手三里位于阳溪与曲池连线上，肘横纹下\n选项A：1寸\n选项B：2寸\n选项C：3寸\n选项D：4寸\n选项E：5寸",
+    "correct_answer": "B",
+    "model_answer": "A: 1寸",
+    "is_correct": false
+  },
+  {
+    "question_number": 121,
+    "category": "中医儿科学",
+    "question": "题干描述：病毒性心肌炎痰淤阻络证的治法\n选项A：清热解毒，宁心复脉\n选项B：豁痰化瘀，宁心通络\n选项C：清热化湿，宁心通络\n选项D：益气养阴，宁心复脉\n选项E：温振心阳，宁心安神",
+    "correct_answer": "B",
+    "model_answer": "选项B：豁痰化瘀，宁心通络",
+    "is_correct": false
+  },
+  {
+    "question_number": 122,
+    "category": "中医儿科学",
+    "question": "题干描述：患儿，9岁。罹患心肌炎2周，寒热起伏，胸闷憋气，心悸气短，肌肉酸痛，腹痛腹泻，倦怠乏力，恶心欲吐，舌质红，苔黄腻，脉濡数。其病机是\n选项A：风热犯心\n选项B：湿热侵心\n选项C：气阴亏虚\n选项D：心阳虚弱\n选项E：痰瘀阻络",
+    "correct_answer": "B",
+    "model_answer": "选项B：湿热侵心",
+    "is_correct": false
+  },
+  {
+    "question_number": 123,
+    "category": "针灸学",
+    "question": "题干描述：位于第1掌骨中点桡侧，赤白肉际处的腧穴是\n选项A：太渊\n选项B：孔最\n选项C：鱼际\n选项D：列缺\n选项E：偏历",
+    "correct_answer": "C",
+    "model_answer": "选项D：列缺",
+    "is_correct": false
+  },
+  {
+    "question_number": 124,
+    "category": "中医诊断学",
+    "question": "题干描述：症见身热夜甚，躁扰不宁，便血，舌质深绛，脉红数，属于\n选项A：血分证\n选项B：营分证\n选项C：厥阴病征\n选项D：少阴病证\n选项E：气分证",
+    "correct_answer": "A",
+    "model_answer": "A: 血分证",
+    "is_correct": false
+  },
+  {
+    "question_number": 125,
+    "category": "中医诊断学",
+    "question": "题干描述：以下哪项不是燥淫证候的表现\n选项A：皮肤干燥\n选项B：干咳少痰\n选项C：渴不欲饮\n选项D：大便干燥\n选项E：小便短黄",
+    "correct_answer": "C",
+    "model_answer": "选项E：小便短黄 不是燥淫证候的表现。其中，A、B、C、D都可能是燥淫证候的表现。",
+    "is_correct": false
+  },
+  {
+    "question_number": 126,
+    "category": "中药学",
+    "question": "题干描述：在“十八反”中，下列除哪味药物外均与甘草相反\n选项A：大戟\n选项B：海藻\n选项C：贝母\n选项D：芫花\n选项E：甘遂",
+    "correct_answer": "C",
+    "model_answer": "选项E：甘遂",
+    "is_correct": false
+  },
+  {
+    "question_number": 127,
+    "category": "中医儿科学",
+    "question": "题干描述：小儿“纯阳”之体的含义是\n选项A：纯阳无阴\n选项B：阳常有余\n选项C：阴亏阳亢\n选项D：发育迅速\n选项E：肝常有余",
+    "correct_answer": "D",
+    "model_answer": "选项A：纯阳无阴",
+    "is_correct": false
+  },
+  {
+    "question_number": 128,
+    "category": "中医儿科学",
+    "question": "题干描述：百日咳初咳期的治法是\n选项A：疏风祛邪，宣肺止咳\n选项B：泻肺清热，涤痰镇咳\n选项C：养阴润肺，健脾益气\n选项D：清热解毒，利湿化痰\n选项E：宣肺散邪，清热化痰",
+    "correct_answer": "A",
+    "model_answer": "选项A：疏风祛邪，宣肺止咳",
+    "is_correct": false
+  },
+  {
+    "question_number": 129,
+    "category": "针灸学",
+    "question": "题干描述：有关晕针的处理方法，叙述不正确的是\n选项A：立即停止针刺，将针全部起出\n选项B：使患者平卧，头部抬高\n选项C：宽衣解带，注意保暖\n选项D：予以饮温开水或糖水\n选项E：可刺人中、素髎、内关、足三里等穴",
+    "correct_answer": "B",
+    "model_answer": "选项A：立即停止针刺，将针全部起出 这句话不正确。在晕厥发作期间，如果发现有针刺时，应该保持原位，不要随意移动或取出针刺，以免引起新的症状或损伤器官。",
+    "is_correct": false
+  },
+  {
+    "question_number": 130,
+    "category": "中医诊断学",
+    "question": "题干描述：下列哪项不是里证的临床表现\n选项A：恶寒发热\n选项B：口渴饮冷\n选项C：胃痛喜按\n选项D：舌质红苔黄\n选项E：脉洪大",
+    "correct_answer": "A",
+    "model_answer": "选项E：脉洪大 不是里证的临床表现。里证主要包括恶寒发热、口渴饮冷、胃痛喜按和舌质红苔黄这四种表现，而脉洪大是脏虚的一种表现。",
+    "is_correct": false
+  },
+  {
+    "question_number": 131,
+    "category": "中医儿科学",
+    "question": "题干描述：患儿，9岁。反复呼吸道感染，诉恶风、恶寒，面色少华，四肢不温，多汗易汗，舌淡红，苔薄白，脉无力。其治法是\n选项A：调和营卫，益气固表\n选项B：温补肾阳，健脾益气\n选项C：养阴润肺，益气健脾\n选项D：补肺固表，健脾益气\n选项E：健脾益气，养阴益胃",
+    "correct_answer": "A",
+    "model_answer": "选项D：补肺固表，健脾益气",
+    "is_correct": false
+  },
+  {
+    "question_number": 132,
+    "category": "中医内科",
+    "question": "题干描述：噎膈之证的发病机理主要是\n选项A：脾胃俱伤\n选项B：肺胃两伤\n选项C：气血郁结\n选项D：本虚标实\n选项E：气痰瘀交结，阻于食道、胃脘",
+    "correct_answer": "E",
+    "model_answer": "选项A：脾胃俱伤",
+    "is_correct": false
+  },
+  {
+    "question_number": 133,
+    "category": "中医儿科学",
+    "question": "题干描述：口疮虚火上浮证的治法是\n选项A：疏风散火，清热解毒\n选项B：消食导滞，清热解毒\n选项C：清心凉血，泻火解毒\n选项D：疏风解表，泻火解毒\n选项E：滋阴降火，引火归原",
+    "correct_answer": "E",
+    "model_answer": "选项D：疏风解表，泻火解毒",
+    "is_correct": false
+  },
+  {
+    "question_number": 134,
+    "category": "中医基础理论",
+    "question": "题干描述：寒邪的性质和致病特点是\n选项A：凝滞\n选项B：黏滞\n选项C：数变\n选项D：重着\n选项E：升散",
+    "correct_answer": "A",
+    "model_answer": "A、凝滞",
+    "is_correct": false
+  },
+  {
+    "question_number": 135,
+    "category": "中医基础理论",
+    "question": "题干描述：有君相安位关系的两脏是\n选项A：心与肺\n选项B：心与肾\n选项C：肺与脾\n选项D：脾与肝\n选项E：肺与肝",
+    "correct_answer": "B",
+    "model_answer": "错误的选项，正确答案是A：心与肺。这两脏在中医理论中有关系，称之为君相安位。",
+    "is_correct": false
+  },
+  {
+    "question_number": 136,
+    "category": "中医内科",
+    "question": "题干描述：与水肿关系最为密切的脏腑是\n选项A：肺、脾、肾\n选项B：肺、胃、肾\n选项C：心、脾、肾\n选项D：肝、脾、肾\n选项E：心、肝、肾",
+    "correct_answer": "A",
+    "model_answer": "选项D：肝、脾、肾",
+    "is_correct": false
+  },
+  {
+    "question_number": 137,
+    "category": "中医外科",
+    "question": "题干描述：适用于一切确已成脓者的是\n选项A：砭镰法\n选项B：切开法\n选项C：挑治法\n选项D：挂线法\n选项E：结扎法",
+    "correct_answer": "B",
+    "model_answer": "选项A：砭镰法",
+    "is_correct": false
+  },
+  {
+    "question_number": 138,
+    "category": "中医诊断学",
+    "question": "题干描述：久病小便频数，色清量多，夜间明显者多见于\n选项A：膀胱湿热\n选项B：热盛伤津\n选项C：中气下陷\n选项D：久病肾虚\n选项E：以上都不是",
+    "correct_answer": "D",
+    "model_answer": "D：久病肾虚",
+    "is_correct": false
+  },
+  {
+    "question_number": 139,
+    "category": "中医外科",
+    "question": "题干描述：患者左前臂部有一肿块，呈扁平隆起，质地柔软，状如海绵，皮色略紫，按之肿块可缩小，据此可诊断为\n选项A：气瘤\n选项B：脂瘤\n选项C：筋瘤\n选项D：血瘤\n选项E：肉瘤",
+    "correct_answer": "D",
+    "model_answer": "D: 血瘤",
+    "is_correct": false
+  },
+  {
+    "question_number": 140,
+    "category": "方剂学",
+    "question": "题干描述：方中芍药与桂枝配伍以调和营卫的方剂是\n选项A：阳和汤\n选项B：逍遥散\n选项C：桂枝汤\n选项D：小建中汤\n选项E：痛泻要方",
+    "correct_answer": "C",
+    "model_answer": "B: 逍遥散",
+    "is_correct": false
+  },
+  {
+    "question_number": 141,
+    "category": "中医内科",
+    "question": "题干描述：大肠癌瘀毒内阻证的治疗方剂\n选项A：少腹逐瘀汤\n选项B：复元活血汤\n选项C：膈下逐瘀汤\n选项D：血府逐瘀汤\n选项E：桃核承气汤",
+    "correct_answer": "C",
+    "model_answer": "选项C：膈下逐瘀汤",
+    "is_correct": false
+  },
+  {
+    "question_number": 142,
+    "category": "中药学",
+    "question": "题干描述：穿山甲兼能治疗的病证是\n选项A：肠燥便秘\n选项B：食积胀痛\n选项C：血虚经闭\n选项D：痛经下乳\n选项E：热病神昏",
+    "correct_answer": "D",
+    "model_answer": "选项C、血虚经闭",
+    "is_correct": false
+  },
+  {
+    "question_number": 143,
+    "category": "方剂学",
+    "question": "题干描述：生脉散适用于\n选项A：气阴两伤，久咳自汗者\n选项B：疮疡溃后，久不收口者\n选项C：阴虚火旺，骨蒸盗汗者\n选项D：虚火灼金，咳嗽咯血者\n选项E：虚劳肺萎，干咳无痰者",
+    "correct_answer": "A",
+    "model_answer": "选项A、D：生脉散适用于气阴两伤，久咳自汗者以及虚火灼金，咳嗽咯血者。",
+    "is_correct": false
+  },
+  {
+    "question_number": 144,
+    "category": "中药学",
+    "question": "题干描述：具有镇惊安神，平肝潜阳功效的药物是\n选项A：石菖蒲\n选项B：远志\n选项C：龙骨\n选项D：酸枣仁\n选项E：合欢皮",
+    "correct_answer": "C",
+    "model_answer": "选项A：石菖蒲",
+    "is_correct": false
+  },
+  {
+    "question_number": 145,
+    "category": "中医内科",
+    "question": "题干描述：患者精神抑郁，表情淡漠，神志痴呆，语无伦次，不思饮食，舌苔腻，脉弦滑。其证候是\n选项A：肝气郁结\n选项B：痰气郁结\n选项C：痰火上扰\n选项D：风痰闭阻\n选项E：痰浊壅塞",
+    "correct_answer": "B",
+    "model_answer": "选项A：肝气郁结",
+    "is_correct": false
+  },
+  {
+    "question_number": 146,
+    "category": "中药学",
+    "question": "题干描述：下列药物中可用于治疗巅顶头痛的是\n选项A：藁本\n选项B：防风\n选项C：细辛\n选项D：辛夷\n选项E：荆芥",
+    "correct_answer": "A",
+    "model_answer": "A、藁本",
+    "is_correct": false
+  },
+  {
+    "question_number": 147,
+    "category": "中医诊断学",
+    "question": "题干描述：真寒假热的面色是\n选项A：满面通红\n选项B：浮红如妆\n选项C：面色紫暗\n选项D：面呈青色\n选项E：面呈黑色",
+    "correct_answer": "B",
+    "model_answer": "A: 满面通红",
+    "is_correct": false
+  },
+  {
+    "question_number": 148,
+    "category": "中药学",
+    "question": "题干描述：下列哪项主要是概括药物的药性和作用\n选项A：归经\n选项B：四气五味\n选项C：升降浮沉\n选项D：毒性\n选项E：配伍七情",
+    "correct_answer": "B",
+    "model_answer": "选项B：四气五味",
+    "is_correct": false
+  },
+  {
+    "question_number": 149,
+    "category": "中药学",
+    "question": "题干描述：薄荷入汤剂宜\n选项A：先煎\n选项B：冲服\n选项C：后下\n选项D：另煎\n选项E：布包煎",
+    "correct_answer": "C",
+    "model_answer": "选项B：冲服",
+    "is_correct": false
+  },
+  {
+    "question_number": 150,
+    "category": "中医儿科学",
+    "question": "题干描述：儿童多动症，其病在肝者，临床证候是\n选项A：易于冲动，好动难静，容易发怒，常不能自控\n选项B：兴趣多变，做事有头元尾，记忆力差\n选项C：脑失精明，学习成绩低下，记忆力欠佳，或有遗尿、腰酸乏力\n选项D：注意力不集中，情绪不稳定，多梦烦躁\n选项E：神思涣散，活动过多，动作笨拙",
+    "correct_answer": "A",
+    "model_answer": "A、易于冲动，好动难静，容易发怒，常不能自控\nD、注意力不集中，情绪不稳定，多梦烦躁",
+    "is_correct": false
+  },
+  {
+    "question_number": 151,
+    "category": "方剂学",
+    "question": "题干描述：连朴饮的功用是\n选项A：解表化湿，理气和中\n选项B：宣畅气机，清利湿热\n选项C：清热泻火，利水通淋\n选项D：利湿消肿，理气健脾\n选项E：清热化湿，理气和中",
+    "correct_answer": "E",
+    "model_answer": "选项A、D、E中，最符合连朴饮的功用是：\n\n选项A：解表化湿，理气和中\n选项D：利湿消肿，理气健脾\n选项E：清热化湿，理气和中\n\n这三个选项都包含了连朴饮的主要功能之一，即解表化湿，但是它们还有细微的区别。选项A和选项E都提到了理气和中，而选项D则提到了利湿消肿和健脾，这些都是连朴饮在治疗水湿、胃脏等方面的作用。因此，可以认为选项A、D和E都有一定程度上描述了连朴饮的功能，但是选项D更加具体地描述了它在治疗水肿和健脾方面的作用。",
+    "is_correct": false
+  },
+  {
+    "question_number": 152,
+    "category": "中医儿科学",
+    "question": "题干描述：小儿反复呼吸道感染病位主要在肺，常涉及的脏腑是\n选项A：脾肾\n选项B：心肝\n选项C：脾胃\n选项D：肝肾\n选项E：心肾",
+    "correct_answer": "A",
+    "model_answer": "选项D：肝肾",
+    "is_correct": false
+  },
+  {
+    "question_number": 153,
+    "category": "方剂学",
+    "question": "题干描述：治疗气阴两亏之肺痿，宜用\n选项A：玉液汤\n选项B：炙甘草汤\n选项C：麦门冬汤\n选项D：养阴清肺汤\n选项E：清燥救肺汤",
+    "correct_answer": "B",
+    "model_answer": "D：养阴清肺汤",
+    "is_correct": false
+  },
+  {
+    "question_number": 154,
+    "category": "中医基础理论",
+    "question": "题干描述：手厥阴经分布在\n选项A：上肢内侧前缘\n选项B：上肢外侧前缘\n选项C：上肢内侧后缘\n选项D：上肢内侧中线\n选项E：上肢外侧后缘",
+    "correct_answer": "D",
+    "model_answer": "A、上肢内侧前缘",
+    "is_correct": false
+  },
+  {
+    "question_number": 155,
+    "category": "中药学",
+    "question": "题干描述：善于治疗风热音哑，肝热目赤，小儿夜啼的药物是\n选项A：薄荷\n选项B：柴胡\n选项C：葛根\n选项D：桑叶\n选项E：蝉蜕",
+    "correct_answer": "E",
+    "model_answer": "选项A：薄荷",
+    "is_correct": false
+  },
+  {
+    "question_number": 156,
+    "category": "中医儿科学",
+    "question": "题干描述：抽动障碍阴虚风动证的治法为\n选项A：滋阴潜阳，柔肝熄风\n选项B：补益肝肾，平肝熄风\n选项C：滋阴潜阳，镇肝熄风\n选项D：育阴潜阳，滋肾养肝\n选项E：滋阴养血，柔肝熄风",
+    "correct_answer": "A",
+    "model_answer": "选项C：滋阴潜阳，镇肝熄风",
+    "is_correct": false
+  },
+  {
+    "question_number": 157,
+    "category": "中医内科",
+    "question": "题干描述：头晕目眩，视物旋转不定，甚则不能站立，耳鸣，但无神志异常的表现。此为\n选项A：痫证\n选项B：眩晕\n选项C：厥证\n选项D：昏迷\n选项E：中风",
+    "correct_answer": "B",
+    "model_answer": "选项B：眩晕",
+    "is_correct": false
+  },
+  {
+    "question_number": 158,
+    "category": "方剂学",
+    "question": "题干描述：参苏饮与败毒散二方组成中均含有的药物是\n选项A：半夏\n苏叶\n选项B：羌活\n独活\n选项C：柴胡\n川芎\n选项D：木香\n枳壳\n选项E：前胡\n茯苓",
+    "correct_answer": "E",
+    "model_answer": "选项A：半夏、苏叶",
+    "is_correct": false
+  },
+  {
+    "question_number": 159,
+    "category": "中医内科",
+    "question": "题干描述：郁病痰气郁结证的治疗宜选用\n选项A：柴胡疏肝散\n选项B：丹栀逍遥散\n选项C：半夏厚朴汤\n选项D：甘麦大枣汤\n选项E：龙胆泻肝汤",
+    "correct_answer": "C",
+    "model_answer": "选项B：丹栀逍遥散",
+    "is_correct": false
+  },
+  {
+    "question_number": 160,
+    "category": "中医儿科学",
+    "question": "题干描述：腹部膨大，肢体瘦弱，发稀，额上青筋显现，多为\n选项A：积滞\n选项B：厌食\n选项C：疳积\n选项D：泄泻\n选项E：五迟",
+    "correct_answer": "C",
+    "model_answer": "A、积滞",
+    "is_correct": false
+  },
+  {
+    "question_number": 161,
+    "category": "中医内科",
+    "question": "题干描述：下列不是外感腰痛的致病病邪的是\n选项A：风\n选项B：寒\n选项C：湿\n选项D：热\n选项E：燥",
+    "correct_answer": "E",
+    "model_answer": "D: 热",
+    "is_correct": false
+  },
+  {
+    "question_number": 162,
+    "category": "中药学",
+    "question": "题干描述：下列除哪味药物外，均是妊娠禁用药物\n选项A：牵牛\n选项B：桃仁\n选项C：巴豆\n选项D：莪术\n选项E：水蛭",
+    "correct_answer": "B",
+    "model_answer": "E: 水蛭",
+    "is_correct": false
+  },
+  {
+    "question_number": 163,
+    "category": "中药学",
+    "question": "题干描述：可以治疗虚寒气滞，久泻不止的药物是\n选项A：芡实\n选项B：赤石脂\n选项C：莲子\n选项D：浮小麦\n选项E：肉豆蔻",
+    "correct_answer": "E",
+    "model_answer": "选项A：芡实",
+    "is_correct": false
+  },
+  {
+    "question_number": 164,
+    "category": "针灸学",
+    "question": "题干描述：被称为“阳脉之海”的是\n选项A：带脉\n选项B：督脉\n选项C：冲脉\n选项D：阳维脉\n选项E：阳脉",
+    "correct_answer": "B",
+    "model_answer": "选项D：阳维脉",
+    "is_correct": false
+  },
+  {
+    "question_number": 165,
+    "category": "中医儿科学",
+    "question": "题干描述：患儿，2岁4个月。平素形体消瘦，面色萎黄，乏力食少，近日过食甜点后，进食更少，且稍食则饱胀，腹满喜按，大便溏、酸臭，夹有不消化食物，舌淡红，苔白腻，指纹淡滞。治疗应首选\n选项A：保和丸\n选项B：消乳丸\n选项C：健脾丸\n选项D：八珍汤\n选项E：肥儿丸",
+    "correct_answer": "C",
+    "model_answer": "根据患儿的症状描述，包括面色萎黄、乏力食少、腹满喜按、大便溏、酸臭、夹有不消化食物等，这种情况可能是脾胃虚弱、肝脾瘀阻或胃肠通道发作等原因。因此，治疗应首选的方案是：\n\n选项C：健脾丸",
+    "is_correct": false
+  },
+  {
+    "question_number": 166,
+    "category": "中医外科",
+    "question": "题干描述：下列哪项不是外科局部辨证的主要内容\n选项A：辨肿\n选项B：辨痛\n选项C：辨痒\n选项D：辨脓\n选项E：辨气血",
+    "correct_answer": "E",
+    "model_answer": "E: 辨气血",
+    "is_correct": false
+  },
+  {
+    "question_number": 167,
+    "category": "中药学",
+    "question": "题干描述：具有疏散风热，清利头目之功效的药物是\n选项A：葛根\n选项B：浮萍\n选项C：升麻\n选项D：蔓荆子\n选项E：淡豆豉",
+    "correct_answer": "D",
+    "model_answer": "选项A：葛根",
+    "is_correct": false
+  },
+  {
+    "question_number": 168,
+    "category": "中医诊断学",
+    "question": "题干描述：肾在舌上分属部位是\n选项A：舌尖\n选项B：舌中\n选项C：舌根\n选项D：舌边\n选项E：舌底",
+    "correct_answer": "C",
+    "model_answer": "选项D：舌边",
+    "is_correct": false
+  },
+  {
+    "question_number": 169,
+    "category": "中医外科",
+    "question": "题干描述：脱肛相当于西医学的\n选项A：肛裂\n选项B：直肠脱垂\n选项C：刚漏\n选项D：锁肛痔\n选项E：以上都不是",
+    "correct_answer": "B",
+    "model_answer": "E: 以上都不是",
+    "is_correct": false
+  },
+  {
+    "question_number": 170,
+    "category": "中医儿科学",
+    "question": "题干描述：抽动障碍脾虚痰聚证首选方剂为\n选项A：暖肝理脾汤\n选项B：十味温胆汤\n选项C：大定风珠\n选项D：固真汤\n选项E：六君子汤",
+    "correct_answer": "B",
+    "model_answer": "A、暖肝理脾汤",
+    "is_correct": false
+  },
+  {
+    "question_number": 171,
+    "category": "中药学",
+    "question": "题干描述：既能行气宽中安胎，又能解表散寒、解鱼蟹毒的药物是\n选项A：砂仁\n选项B：黄芩\n选项C：紫苏\n选项D：白术\n选项E：豆蔻",
+    "correct_answer": "C",
+    "model_answer": "选项B：黄芩",
+    "is_correct": false
+  },
+  {
+    "question_number": 172,
+    "category": "中医儿科学",
+    "question": "题干描述：胎怯的关键病机是\n选项A：脾肾两虚\n选项B：肺肾两虚\n选项C：肝肾不足\n选项D：肺脾两虚\n选项E：五脏不足",
+    "correct_answer": "A",
+    "model_answer": "选项A：脾肾两虚",
+    "is_correct": false
+  },
+  {
+    "question_number": 173,
+    "category": "中医内科",
+    "question": "题干描述：下列选项中，不属于痴呆诊断依据的是\n选项A：无理由地欣快，易于激动或暴怒\n选项B：精神错乱，语无伦次，静而多喜\n选项C：记忆力减退，理解力下降\n选项D：性情孤僻，表情淡漠，语言重复\n选项E：抽象思维能力下降",
+    "correct_answer": "B",
+    "model_answer": "选项D：性情孤僻，表情淡漠，语言重复",
+    "is_correct": false
+  },
+  {
+    "question_number": 174,
+    "category": "针灸学",
+    "question": "题干描述：下列各组中，属于原络配穴的是\n选项A：大陵、内关\n选项B：内关、外关\n选项C：太渊、合谷\n选项D：神门、支正\n选项E：太白、冲阳",
+    "correct_answer": "D",
+    "model_answer": "A: 大陵、内关",
+    "is_correct": false
+  },
+  {
+    "question_number": 175,
+    "category": "中医内科",
+    "question": "题干描述：肾癌脾肾两虚证的治法是\n选项A：行气散结\n选项B：益气养阴\n选项C：温阳益精\n选项D：滋肾养肝\n选项E：健脾益肾，软坚散结",
+    "correct_answer": "E",
+    "model_answer": "E: 健脾益肾，软坚散结",
+    "is_correct": false
+  },
+  {
+    "question_number": 176,
+    "category": "针灸学",
+    "question": "题干描述：与上牙痛关系最密切的经脉是\n选项A：足阳明胃经\n选项B：手少阳三焦经\n选项C：手阳明大肠经\n选项D：手太阳小肠经\n选项E：足少阳胆经",
+    "correct_answer": "A",
+    "model_answer": "选项B、手少阳三焦经",
+    "is_correct": false
+  },
+  {
+    "question_number": 177,
+    "category": "中医基础理论",
+    "question": "题干描述：属于“金”的体是\n选项A：筋\n选项B：脉\n选项C：肉\n选项D：皮\n选项E：骨",
+    "correct_answer": "D",
+    "model_answer": "B、脉",
+    "is_correct": false
+  },
+  {
+    "question_number": 178,
+    "category": "中医内科",
+    "question": "题干描述：左某，男，42岁。患慢性肝炎十余年。近一周来出现腹胀大，按之不坚，胁下胀满疼痛，纳食减少，食后作胀，嗳气不爽，小便短少，苔白腻，脉弦。治宜选用\n选项A：柴胡疏肝散\n选项B：五苓散\n选项C：茵陈蒿汤\n选项D：调营饮\n选项E：中满分消丸",
+    "correct_answer": "A",
+    "model_answer": "选项A：柴胡疏肝散",
+    "is_correct": false
+  },
+  {
+    "question_number": 179,
+    "category": "中医基础理论",
+    "question": "题干描述：肾在志为\n选项A：怒\n选项B：喜\n选项C：思\n选项D：悲\n选项E：恐",
+    "correct_answer": "E",
+    "model_answer": "A: 怒",
+    "is_correct": false
+  },
+  {
+    "question_number": 180,
+    "category": "中医基础理论",
+    "question": "题干描述：属于“火”的志是\n选项A：怒\n选项B：喜\n选项C：思\n选项D：悲\n选项E：恐",
+    "correct_answer": "B",
+    "model_answer": "A: 怒",
+    "is_correct": false
+  },
+  {
+    "question_number": 181,
+    "category": "方剂学",
+    "question": "题干描述：四逆汤与当归四逆汤二方组成中均含有的药物是\n选项A：当归\n选项B：附子\n选项C：桂枝\n选项D：干姜\n选项E：甘草",
+    "correct_answer": "E",
+    "model_answer": "选项B、C、D：附子、桂枝、干姜。四逆汤与当归四逆汤都是中医的常用方剂，它们均含有附子、桂枝和干姜，而甘草并不是这两种方剂的共同成分。",
+    "is_correct": false
+  },
+  {
+    "question_number": 182,
+    "category": "中医基础理论",
+    "question": "题干描述：下列说法错误的是\n选项A：胃称为“太仓”\n选项B：胃有“水谷之海”之称\n选项C：脾有“五脏六腑之海”之称\n选项D：小肠者，受盛之官\n选项E：大肠者，传导之官",
+    "correct_answer": "C",
+    "model_answer": "选项A：胃称为“太仓”是错误的。正确答案是胃被称为“太阳宫”。",
+    "is_correct": false
+  },
+  {
+    "question_number": 183,
+    "category": "针灸学",
+    "question": "题干描述：常用于治疗皮肤瘙痒等皮肤病证的腧穴是\n选项A：肾俞\n选项B：膈俞\n选项C：心俞\n选项D：肝俞\n选项E：脾俞",
+    "correct_answer": "B",
+    "model_answer": "选项B：膈俞",
+    "is_correct": false
+  },
+  {
+    "question_number": 184,
+    "category": "中药学",
+    "question": "题干描述：善于养血敛阴，柔肝止痛，平抑肝阳的药物是\n选项A：当归\n选项B：熟地黄\n选项C：阿胶\n选项D：白芍\n选项E：何首乌",
+    "correct_answer": "D",
+    "model_answer": "选项A：当归",
+    "is_correct": false
+  },
+  {
+    "question_number": 185,
+    "category": "中医基础理论",
+    "question": "题干描述：属于正治的是\n选项A：热因热用\n选项B：以通治通\n选项C：热者寒之\n选项D：用热远热\n选项E：以补开塞",
+    "correct_answer": "C",
+    "model_answer": "选项A：热因热用",
+    "is_correct": false
+  },
+  {
+    "question_number": 186,
+    "category": "中医儿科学",
+    "question": "题干描述：皮肤黏膜淋巴结综合征的治疗，自初期至后期，始终应注意的是\n选项A：化痰散结\n选项B：收敛止血\n选项C：清气分热\n选项D：活血化瘀\n选项E：温阳通脉",
+    "correct_answer": "D",
+    "model_answer": "选项C、D：清气分热和活血化瘀",
+    "is_correct": false
+  },
+  {
+    "question_number": 187,
+    "category": "中医内科",
+    "question": "题干描述：肝郁泄泻的主方是\n选项A：葛根芩连汤\n选项B：藿香正气散\n选项C：痛泻要方\n选项D：芍药汤\n选项E：柴胡疏肝散",
+    "correct_answer": "C",
+    "model_answer": "选项A：葛根芩连汤",
+    "is_correct": false
+  },
+  {
+    "question_number": 188,
+    "category": "中医基础理论",
+    "question": "题干描述：五脏阳气的根本是\n选项A：肝阳\n选项B：心阳\n选项C：脾阳\n选项D：肺阳\n选项E：肾阳",
+    "correct_answer": "E",
+    "model_answer": "D、肺阳",
+    "is_correct": false
+  },
+  {
+    "question_number": 189,
+    "category": "中医诊断学",
+    "question": "题干描述：当瘟疫类疾病发生时病室中气味为\n选项A：腐臭气\n选项B：臭气触人\n选项C：尿臊气\n选项D：蒜臭气\n选项E：烂苹果气",
+    "correct_answer": "B",
+    "model_answer": "A、腐臭气",
+    "is_correct": false
+  },
+  {
+    "question_number": 190,
+    "category": "中医诊断学",
+    "question": "题干描述：肝火炽盛证的表现应除外下列哪项\n选项A：头晕胀痛\n选项B：面红目赤\n选项C：口干口苦\n选项D：胁肋灼痛\n选项E：耳鸣如蝉",
+    "correct_answer": "E",
+    "model_answer": "选项E：耳鸣如蝉 不是肝火炽盛证的表现应除外。",
+    "is_correct": false
+  },
+  {
+    "question_number": 191,
+    "category": "方剂学",
+    "question": "题干描述：大建中汤的功用是\n选项A：温中祛寒，补气健脾\n选项B：温中散寒，缓急止痛\n选项C：温中补虚，降逆止痛\n选项D：温中补虚，降逆止呕\n选项E：温中补虚，和里缓急",
+    "correct_answer": "C",
+    "model_answer": "A、温中祛寒，补气健脾",
+    "is_correct": false
+  },
+  {
+    "question_number": 192,
+    "category": "中医内科",
+    "question": "题干描述：下列哪一项不是黄疸湿重于热证的特点\n选项A：黄疸不甚鲜明\n选项B：头重身困\n选项C：舌苔黄腻\n选项D：胸脘痞闷\n选项E：脉濡",
+    "correct_answer": "C",
+    "model_answer": "选项A：黄疸不甚鲜明，不是黄疸湿重于热证的特点。其他选项都是相应特点。",
+    "is_correct": false
+  },
+  {
+    "question_number": 193,
+    "category": "中医内科",
+    "question": "题干描述：痹证与痿证的鉴别要点首先在于\n选项A：肢体活动情况\n选项B：有无肌肉萎缩\n选项C：痛与不痛\n选项D：有无外感\n选项E：关节肿与不肿",
+    "correct_answer": "C",
+    "model_answer": "选项A：肢体活动情况\n选项B：有无肌肉萎缩\n选项C：痛与不痛\n选项D：无外感（因为痹证和痿证都是内部病因导致的，没有外部因素）\n选项E：无关系（关节肿与不肿对于鉴别痹证和痿证没有重要意义）",
+    "is_correct": false
+  },
+  {
+    "question_number": 194,
+    "category": "方剂学",
+    "question": "题干描述：十灰散组成药物中含有\n选项A：白术\n选项B：青黛\n选项C：山栀\n选项D：枳壳\n选项E：蒲黄",
+    "correct_answer": "C",
+    "model_answer": "选项A：白术",
+    "is_correct": false
+  },
+  {
+    "question_number": 195,
+    "category": "中医内科",
+    "question": "题干描述：张某，男，20岁。腹痛拒按，烦渴引饮，大便秘结，潮热汗出，小便短黄，舌质红，苔黄燥或黄腻，脉滑数。治宜选用\n选项A：通脉四逆汤\n选项B：乌头桂枝汤\n选项C：当归四逆汤\n选项D：大承气汤\n选项E：吴茱萸汤",
+    "correct_answer": "D",
+    "model_answer": "选项C：当归四逆汤",
+    "is_correct": false
+  },
+  {
+    "question_number": 196,
+    "category": "中药学",
+    "question": "题干描述：善于治疗血淋、尿血的药物是\n选项A：车前子\n选项B：泽泻\n选项C：石韦\n选项D：萆薢\n选项E：木通",
+    "correct_answer": "C",
+    "model_answer": "选项A：车前子",
+    "is_correct": false
+  },
+  {
+    "question_number": 197,
+    "category": "中医儿科学",
+    "question": "题干描述：儿科发病率居于第二位的是\n选项A：肺系病证\n选项B：心系病证\n选项C：肝系病证\n选项D：脾系病证\n选项E：肾系病证",
+    "correct_answer": "D",
+    "model_answer": "D、脾系病证",
+    "is_correct": false
+  },
+  {
+    "question_number": 198,
+    "category": "中医内科",
+    "question": "题干描述：张某，男，65岁，有冠心病史6年。今日突然心胸绞痛，胸中有窒息感，心慌，面色苍白，大汗淋漓，四肢厥冷，舌淡少苔，脉疾数无力。此证的治法是\n选项A：温补心阳，散寒通脉\n选项B：益气活血，通脉止痛\n选项C：回阳救逆，益气固脱\n选项D：滋阴清火，养心和络\n选项E：益气养阴，活血通脉",
+    "correct_answer": "C",
+    "model_answer": "选项A：温补心阳，散寒通脉",
+    "is_correct": false
+  },
+  {
+    "question_number": 199,
+    "category": "中医基础理论",
+    "question": "题干描述：具有“升举内脏”功能，维持内脏位置相对恒定的脏是\n选项A：肝\n选项B：心\n选项C：脾\n选项D：肺\n选项E：肾",
+    "correct_answer": "C",
+    "model_answer": "选项D：肺",
+    "is_correct": false
+  },
+  {
+    "question_number": 200,
+    "category": "方剂学",
+    "question": "题干描述：防己黄芪汤与当归拈痛汤的组成药物中均含有\n选项A：甘草\n选项B：白术\n选项C：防风\n选项D：当归\n选项E：桂枝",
+    "correct_answer": "A",
+    "model_answer": "D: 当归",
+    "is_correct": false
+  },
+  {
+    "question_number": 201,
+    "category": "中医诊断学",
+    "question": "题干描述：脉短如豆，滑数有力的脉象是\n选项A：促脉\n选项B：疾脉\n选项C：微脉\n选项D：动脉\n选项E：短脉",
+    "correct_answer": "D",
+    "model_answer": "选项B、疾脉",
+    "is_correct": false
+  },
+  {
+    "question_number": 202,
+    "category": "中药学",
+    "question": "题干描述：以下除哪项外，均是攻下药的适应证\n选项A：饮食积滞\n选项B：虚寒泻痢\n选项C：血热妄行\n选项D：冷积便秘\n选项E：大肠燥热",
+    "correct_answer": "B",
+    "model_answer": "E: 大肠燥热 不是攻下药的适应证。其他选项（A、B、C、D）都可以作为攻下药的适应证之一。",
+    "is_correct": false
+  },
+  {
+    "question_number": 203,
+    "category": "中医儿科学",
+    "question": "题干描述：手足口病的好发年龄哪种说法正确\n选项A：2岁以下\n选项B：3岁以下\n选项C：4岁以下\n选项D：5岁以下\n选项E：6岁以下",
+    "correct_answer": "D",
+    "model_answer": "选项A：2岁以下",
+    "is_correct": false
+  },
+  {
+    "question_number": 204,
+    "category": "中医内科",
+    "question": "题干描述：胸痹的辨证，应首辨的要点是\n选项A：脉象变化\n选项B：外感内伤\n选项C：标本虚实\n选项D：病情轻重\n选项E：寒热虚实",
+    "correct_answer": "D",
+    "model_answer": "选项C、标本虚实",
+    "is_correct": false
+  },
+  {
+    "question_number": 205,
+    "category": "中医儿科学",
+    "question": "题干描述：患儿，6个月。近期夜间啼哭，时哭时止，睡喜蜷曲，四肢欠温，吮乳无力，胃纳欠佳，大便溏，舌苔薄白，指纹淡红。其证候是\n选项A：心经积热\n选项B：脾寒气滞\n选项C：肝胃不和\n选项D：惊恐伤神\n选项E：气血不足",
+    "correct_answer": "B",
+    "model_answer": "选项B：脾寒气滞",
+    "is_correct": false
+  },
+  {
+    "question_number": 206,
+    "category": "中医外科",
+    "question": "题干描述：疖的治疗方法，以下列哪项为主\n选项A：散风清热\n选项B：泻火饵毒\n选项C：凉血活血\n选项D：清热解毒\n选项E：和营解毒",
+    "correct_answer": "D",
+    "model_answer": "选项C：凉血活血",
+    "is_correct": false
+  },
+  {
+    "question_number": 207,
+    "category": "针灸学",
+    "question": "题干描述：以下哪穴不是足太阴脾经的五输穴\n选项A：大都\n选项B：地机\n选项C：商丘\n选项D：太白\n选项E：隐白",
+    "correct_answer": "B",
+    "model_answer": "C、商丘 不是足太阴脾经的五输穴。其他选项都是该经络的五输穴，分别是A、大都、B、地机、D、太白和E、隐白。",
+    "is_correct": false
+  },
+  {
+    "question_number": 208,
+    "category": "中医内科",
+    "question": "题干描述：肺痈溃脓期的治法是\n选项A：养阴清肺\n选项B：清肺化痰\n选项C：养阴补肺\n选项D：排脓解毒\n选项E：益气养阴",
+    "correct_answer": "D",
+    "model_answer": "D、排脓解毒",
+    "is_correct": false
+  },
+  {
+    "question_number": 209,
+    "category": "中医内科",
+    "question": "题干描述：喘脱危象，宜急服\n选项A：回阳救急汤\n选项B：苏子降气汤\n选项C：参附汤送服黑锡丹\n选项D：控涎丹\n选项E：紫金丹",
+    "correct_answer": "C",
+    "model_answer": "选项A: 回阳救急汤",
+    "is_correct": false
+  },
+  {
+    "question_number": 210,
+    "category": "方剂学",
+    "question": "题干描述：麻子仁丸和济川煎都具有的功用是\n选项A：泻热\n选项B：行气\n选项C：润肠\n选项D：滋阴\n选项E：养血",
+    "correct_answer": "C",
+    "model_answer": "A、泻热",
+    "is_correct": false
+  },
+  {
+    "question_number": 211,
+    "category": "中医内科",
+    "question": "题干描述：湿热腰痛的特点是\n选项A：腰部疼痛，重着而热\n选项B：腰痛如刺，痛有定处\n选项C：腰部冷痛重着\n选项D：腰部隐痛\n选项E：腰部酸软无力",
+    "correct_answer": "A",
+    "model_answer": "A、腰部疼痛，重着而热",
+    "is_correct": false
+  },
+  {
+    "question_number": 212,
+    "category": "中药学",
+    "question": "题干描述：治疗温病气分证和疮溃不敛的药物是\n选项A：石膏\n选项B：夏枯草\n选项C：知母\n选项D：芦根\n选项E：淡竹叶",
+    "correct_answer": "A",
+    "model_answer": "选项A：石膏",
+    "is_correct": false
+  },
+  {
+    "question_number": 213,
+    "category": "针灸学",
+    "question": "题干描述：治疗局部皮肤麻木或功能减退，常选的拔罐法是\n选项A：留罐法\n选项B：走罐法\n选项C：闪罐法\n选项D：刺血拔罐法\n选项E：留针拔罐法",
+    "correct_answer": "C",
+    "model_answer": "选项D：刺血拔罐法",
+    "is_correct": false
+  },
+  {
+    "question_number": 214,
+    "category": "中医儿科学",
+    "question": "题干描述：治疗麻疹逆证邪毒闭肺证的首选方剂是\n选项A：定喘汤\n选项B：苏葶丸\n选项C：清宁散\n选项D：葶苈大枣泻肺汤\n选项E：麻杏石甘汤",
+    "correct_answer": "E",
+    "model_answer": "D、葶苈大枣泻肺汤",
+    "is_correct": false
+  },
+  {
+    "question_number": 215,
+    "category": "中医诊断学",
+    "question": "题干描述：神志不清，语言重复，声音低微，时断时续称为\n选项A：独语\n选项B：错语\n选项C：狂言\n选项D：谵语\n选项E：郑声",
+    "correct_answer": "E",
+    "model_answer": "选项A：独语",
+    "is_correct": false
+  },
+  {
+    "question_number": 216,
+    "category": "中医外科",
+    "question": "题干描述：下列哪一项为尖锐湿疣的中医病因病机\n选项A：湿热秽浊由下焦前阴入侵，阻于膀胱及肝经\n选项B：湿热秽浊之邪侵及肝经、下注阴部\n选项C：风热毒邪搏于肌肤而生\n选项D：秽浊之毒酿生湿热，下注皮肤黏膜\n选项E：淫秽疫毒与湿热、风邪杂合所致",
+    "correct_answer": "D",
+    "model_answer": "选项D：秽浊之毒酿生湿热，下注皮肤黏膜",
+    "is_correct": false
+  },
+  {
+    "question_number": 217,
+    "category": "中医内科",
+    "question": "题干描述：患者男性，65岁，排尿不畅3年，加重1个月，小便点滴而出，小腹胀痛，腰膝酸痛，神疲乏力，畏寒肢冷，舌质淡，苔白，脉沉细无力，应诊为\n选项A：淋证\n选项B：关格\n选项C：少尿\n选项D：腰痛\n选项E：癃闭",
+    "correct_answer": "E",
+    "model_answer": "选项C：少尿",
+    "is_correct": false
+  },
+  {
+    "question_number": 218,
+    "category": "中医基础理论",
+    "question": "题干描述：具有“喜燥恶湿”生理特性的脏是\n选项A：肝\n选项B：心\n选项C：脾\n选项D：肺\n选项E：肾",
+    "correct_answer": "C",
+    "model_answer": "选项C：脾",
+    "is_correct": false
+  },
+  {
+    "question_number": 219,
+    "category": "方剂学",
+    "question": "题干描述：麻子仁丸的组成药物中不含\n选项A：大黄\n选项B：枳实\n选项C：当归\n选项D：杏仁\n选项E：芍药",
+    "correct_answer": "C",
+    "model_answer": "选项E、芍药，麻子仁丸的组成药物中不含芍药。",
+    "is_correct": false
+  },
+  {
+    "question_number": 220,
+    "category": "中药学",
+    "question": "题干描述：白头翁多用于治疗\n选项A：热毒血痢\n选项B：肠痈腹痛\n选项C：肺痈胸痛，咳吐脓血\n选项D：乳痈肿痛\n选项E：热毒壅盛之斑疹不畅或色紫暗",
+    "correct_answer": "A",
+    "model_answer": "C、肺痈胸痛，咳吐脓血",
+    "is_correct": false
+  },
+  {
+    "question_number": 221,
+    "category": "针灸学",
+    "question": "题干描述：针灸治疗遗尿，常选的耳穴是\n选项A：肾、膀胱、尿道、皮质下\n选项B：膀胱、三焦、脾、肺\n选项C：尿道、肾、三焦、肺\n选项D：内分泌、膀胱、脾、肺\n选项E：肾、脾、肺、尿道",
+    "correct_answer": "A",
+    "model_answer": "A: 肾、膀胱、尿道、皮质下",
+    "is_correct": false
+  },
+  {
+    "question_number": 222,
+    "category": "中医内科",
+    "question": "题干描述：患者男性，40岁，急性发病，发病半日，尿道窘迫疼痛，少腹拘急，腰部绞痛，大便秘结，曾发作二次排尿突然中断。舌质红，苔黄腻，脉弦紧数。应选用的主方为\n选项A：石韦散\n选项B：八正散\n选项C：沉香散\n选项D：四妙丸\n选项E：大柴胡汤",
+    "correct_answer": "A",
+    "model_answer": "选项A：石韦散",
+    "is_correct": false
+  },
+  {
+    "question_number": 223,
+    "category": "中医外科",
+    "question": "题干描述：下列哪项不是外科辨病的方法\n选项A：详询病史\n选项B：全面体检\n选项C：注重局部\n选项D：选用新技术和必要的辅助检查\n选项E：综合诊断，治疗得当",
+    "correct_answer": "E",
+    "model_answer": "A、详询病史不是外科辨病的方法。它属于内科医生或家庭医生的工作范围，用来了解患者的健康状况和疾病情况。外科医生则更关注局部问题，通过全面体检、选用新技术和必要的辅助检查以及综合诊断治疗得当来确定并处理外科性疾病。",
+    "is_correct": false
+  },
+  {
+    "question_number": 224,
+    "category": "中医内科",
+    "question": "题干描述：胸痹气阴两虚证，其临床特点是\n选项A：胸部刺痛，入夜尤甚\n选项B：胸闷隐痛，时作时止\n选项C：胸闷如窒，气短喘促\n选项D：胸闷气短，畏寒肢冷\n选项E：胸痛彻背，感寒痛甚",
+    "correct_answer": "B",
+    "model_answer": "选项A、C、D。这些选项中描述了胸部疼痛和气阴两虚的临床特点，包括胸部刺痛（入夜尤甚）、胸闷如窒、气短喘促、胸闷气短、畏寒肢冷等。选项E 描述的是感冒症状，不属于胸痹气阴两虚证。",
+    "is_correct": false
+  },
+  {
+    "question_number": 225,
+    "category": "方剂学",
+    "question": "题干描述：当归补血汤重用黄芪为君，意在\n选项A：补气生血\n选项B：补气固表\n选项C：补气托毒\n选项D：补气行血\n选项E：补气行水",
+    "correct_answer": "A",
+    "model_answer": "选项A、补气生血。当归（Angelica sinensis）主要用于补血，黄芪（Radix Astragali)则是补气和滋阳。两药结合可以更好地补充血和气。",
+    "is_correct": false
+  },
+  {
+    "question_number": 226,
+    "category": "中医基础理论",
+    "question": "题干描述：具有司呼吸作用的气是\n选项A：元气\n选项B：宗气\n选项C：营气\n选项D：卫气\n选项E：脏腑之气",
+    "correct_answer": "B",
+    "model_answer": "选项A：元气",
+    "is_correct": false
+  },
+  {
+    "question_number": 227,
+    "category": "方剂学",
+    "question": "题干描述：越鞠丸的君药是\n选项A：栀子\n选项B：苍术\n选项C：川芎\n选项D：神曲\n选项E：香附",
+    "correct_answer": "E",
+    "model_answer": "选项A：栀子",
+    "is_correct": false
+  },
+  {
+    "question_number": 228,
+    "category": "中药学",
+    "question": "题干描述：矿石贝壳药的煎法是\n选项A：武火急煎\n选项B：文火久煎\n选项C：武火久煎\n选项D：文火略煎\n选项E：另煎兑入",
+    "correct_answer": "B",
+    "model_answer": "选项B：文火久煎",
+    "is_correct": false
+  },
+  {
+    "question_number": 229,
+    "category": "中药学",
+    "question": "题干描述：具有祛风解表止血功效的药物是\n选项A：藁本\n选项B：白芷\n选项C：羌活\n选项D：防风\n选项E：荆芥",
+    "correct_answer": "E",
+    "model_answer": "选项B：白芷",
+    "is_correct": false
+  },
+  {
+    "question_number": 230,
+    "category": "中医诊断学",
+    "question": "题干描述：在按诊中，用指掌稍用力寻抚胸腹、腧穴等部位称为\n选项A：触法\n选项B：摸法\n选项C：按法\n选项D：直接叩击法\n选项E：间接叩击法",
+    "correct_answer": "B",
+    "model_answer": "选项C：按法",
+    "is_correct": false
+  },
+  {
+    "question_number": 231,
+    "category": "中医基础理论",
+    "question": "题干描述：何曰“润下”\n选项A：木\n选项B：火\n选项C：土\n选项D：金\n选项E：水",
+    "correct_answer": "E",
+    "model_answer": "选项A：木",
+    "is_correct": false
+  },
+  {
+    "question_number": 232,
+    "category": "中医诊断学",
+    "question": "题干描述：下列哪项不是表证必备的特点\n选项A：感受外邪所致\n选项B：起病急\n选项C：病位浅\n选项D：病程短\n选项E：必发展为里证",
+    "correct_answer": "E",
+    "model_answer": "E: 必发展为里证\n\n在中医的表证阶段，主要特点是感受外邪所致、起病急、病位浅、病程短。这些特征用于诊断和区分表证的存在。而必发展为里证则不是表证必备的特点，因为表证可能会自然缓解或转化为其他类型的疾病，并不一定要必发展为里证。",
+    "is_correct": false
+  },
+  {
+    "question_number": 233,
+    "category": "中医儿科学",
+    "question": "题干描述：患儿，男，2岁。初起发热、流涕、咳嗽，咳嗽以入夜为甚，咳声不扬，尚未发生痉咳，舌苔薄白。治疗首选方剂为\n选项A：桑白皮汤\n选项B：三拗汤\n选项C：沙参麦冬汤\n选项D：人参五味子汤\n选项E：清燥救肺汤",
+    "correct_answer": "B",
+    "model_answer": "D、人参五味子汤",
+    "is_correct": false
+  },
+  {
+    "question_number": 234,
+    "category": "中医内科",
+    "question": "题干描述：胃痛暴作，恶寒喜暖，得温痛减，遇寒加重，口淡不渴，或喜热饮，舌淡苔薄白，脉弦紧。证属\n选项A：寒邪客胃证\n选项B：饮食伤胃证\n选项C：肝气犯胃证\n选项D：湿热中阻证\n选项E：瘀血停胃证",
+    "correct_answer": "A",
+    "model_answer": "A: 寒邪客胃证",
+    "is_correct": false
+  },
+  {
+    "question_number": 235,
+    "category": "中医儿科学",
+    "question": "题干描述：反复呼吸道感染，肺脾气虚证的表现不包括\n选项A：面黄少华\n选项B：腰膝酸软\n选项C：少气懒言\n选项D：自汗多汗\n选项E：脉无力，指纹淡",
+    "correct_answer": "B",
+    "model_answer": "选项A：面黄少华（面色发黄、脸颊肿起）不是肺脾气虚证的表现。",
+    "is_correct": false
+  },
+  {
+    "question_number": 236,
+    "category": "中医诊断学",
+    "question": "题干描述：下列哪项是形盛气衰的表现\n选项A：体胖能食，肌肉坚实\n选项B：体胖食少，神疲乏力\n选项C：形瘦能食，舌红苔黄\n选项D：形瘦颧红，皮肤干焦\n选项E：卧床不起，骨瘦如柴",
+    "correct_answer": "B",
+    "model_answer": "D: 形瘦颧红，皮肤干焦",
+    "is_correct": false
+  },
+  {
+    "question_number": 237,
+    "category": "方剂学",
+    "question": "题干描述：甘露消毒丹的组成药物中含有\n选项A：茵陈\n选项B：青蒿\n选项C：茵陈\n选项D：青蒿\n选项E：茵陈",
+    "correct_answer": "A",
+    "model_answer": "A、C、茵陈",
+    "is_correct": false
+  },
+  {
+    "question_number": 238,
+    "category": "方剂学",
+    "question": "题干描述：猪苓汤中配伍阿胶的用意是\n选项A：滋阴补血\n选项B：补血止血\n选项C：润肺止咳\n选项D：养血益气\n选项E：滋阴润燥",
+    "correct_answer": "E",
+    "model_answer": "选项A、D：滋阴补血和养血益气都是中医药的基本效果之一，但在这个问题中，更具体地说，猪苓汤配伍阿胶的用意主要是滋阴补血。因为阿胶是一种常见的中药材，它具有滋阴、补血、湿滑等效果，在猪苓汤中配伍可以更好地实现滋阴补血的目的。选项C、D也是中药的基本效果之一，但在这个问题中并不是主要用途。",
+    "is_correct": false
+  },
+  {
+    "question_number": 239,
+    "category": "中医儿科学",
+    "question": "题干描述：猩红热的典型舌象为\n选项A：地图舌\n选项B：红绛舌\n选项C：霉酱苔\n选项D：镜面舌\n选项E：草莓舌",
+    "correct_answer": "E",
+    "model_answer": "选项B：红绛舌",
+    "is_correct": false
+  },
+  {
+    "question_number": 240,
+    "category": "中药学",
+    "question": "题干描述：桔梗与贝母都能够治疗的病证是\n选项A：肠痈\n选项B：乳痈\n选项C：疮痈\n选项D：肺痈\n选项E：瘰疬",
+    "correct_answer": "D",
+    "model_answer": "A、C、B 桔梗与贝母都能治疗肠痈和疮痈，乳痈也是其中之一。 Beyung (Fructus Forsythiae) and Zhi Ke (Fructus Aurantii Immaturus) are both used in Traditional Chinese Medicine to treat skin conditions such as abscesses, boils, and furuncles. However, they do not typically treat pulmonary conditions like lung abscesses or pneumonia, so option D (肺痈) and E (瘰疬) are incorrect in this context.",
+    "is_correct": false
+  },
+  {
+    "question_number": 241,
+    "category": "中医内科",
+    "question": "题干描述：肾虚头痛的特征为\n选项A：头昏胀痛\n选项B：头痛昏蒙\n选项C：头痛如裹\n选项D：头痛且空\n选项E：头痛而晕",
+    "correct_answer": "D",
+    "model_answer": "选项D：头痛且空",
+    "is_correct": false
+  },
+  {
+    "question_number": 242,
+    "category": "中医内科",
+    "question": "题干描述：患者沉默痴呆，语无伦次，静而多喜。其诊断是\n选项A：癫证\n选项B：狂证\n选项C：痛证\n选项D：痉证\n选项E：中风",
+    "correct_answer": "A",
+    "model_answer": "选项A：癫证",
+    "is_correct": false
+  },
+  {
+    "question_number": 243,
+    "category": "中医儿科学",
+    "question": "题干描述：治疗风疹邪入气营证的首选方剂是\n选项A：银翘散\n选项B：白虎汤\n选项C：透疹凉解汤\n选项D：清气凉营汤\n选项E：解肌透痧汤",
+    "correct_answer": "C",
+    "model_answer": "选项A：银翘散",
+    "is_correct": false
+  },
+  {
+    "question_number": 244,
+    "category": "中医内科",
+    "question": "题干描述：下列哪项是血鼓的特征\n选项A：腹部部胀满膨大\n选项B：嗳气或矢气则舒\n选项C：腹臌大如蛙腹\n选项D：按之如囊裹水\n选项E：常伴下肢浮肿",
+    "correct_answer": "A",
+    "model_answer": "A、腹部部胀满膨大",
+    "is_correct": false
+  },
+  {
+    "question_number": 245,
+    "category": "中医诊断学",
+    "question": "题干描述：真寒假热证产生的机理是\n选项A：阴盛格阳\n选项B：阳盛格阴\n选项C：阴不敛阳\n选项D：阳不敛阴\n选项E：表热里寒",
+    "correct_answer": "A",
+    "model_answer": "选项A：阴盛格阳",
+    "is_correct": false
+  },
+  {
+    "question_number": 246,
+    "category": "中医内科",
+    "question": "题干描述：下列哪一项不是瘀血阻络胁痛的特点\n选项A：胁肋刺痛\n选项B：胸闷腹胀\n选项C：痛有定处\n选项D：入夜痛甚\n选项E：舌质紫暗",
+    "correct_answer": "B",
+    "model_answer": "选项D：入夜痛甚，这不是瘀血阻络胁痛的特点。入夜痛甚通常是表示内脏炎症或疾病，而瘀血阻络胁痛则主要表现为胁肋刺痛、胸闷腹胀、痛有定处和舌质紫暗。",
+    "is_correct": false
+  },
+  {
+    "question_number": 247,
+    "category": "中医内科",
+    "question": "题干描述：痫病瘀阻脑络证的治法为\n选项A：理气化痰，活血化瘀\n选项B：行气解郁，化瘀通络\n选项C：活血化瘀，熄风通络\n选项D：活血化瘀，开窍醒神\n选项E：理气化痰，醒脑通窍",
+    "correct_answer": "C",
+    "model_answer": "选项D、活血化瘀，开窍醒神",
+    "is_correct": false
+  },
+  {
+    "question_number": 248,
+    "category": "中医诊断学",
+    "question": "题干描述：眩晕欲仆，肢体震颤，步履不稳，舌红脉弦有力属于\n选项A：血虚生风\n选项B：热极生风\n选项C：阴虚动风\n选项D：肝阳上亢\n选项E：肝阳化风",
+    "correct_answer": "E",
+    "model_answer": "选项C：阴虚动wind",
+    "is_correct": false
+  },
+  {
+    "question_number": 249,
+    "category": "中医儿科学",
+    "question": "题干描述：脾肾阳虚泻的治法为\n选项A：健脾温阳，助运止泻\n选项B：健脾益气，酸甘敛阴\n选项C：补肾滋阴，平肝降火\n选项D：温补脾肾，固涩止泻\n选项E：挽阴回阳，救逆固脱",
+    "correct_answer": "D",
+    "model_answer": "选项A：健脾温阳，助运止泻",
+    "is_correct": false
+  },
+  {
+    "question_number": 250,
+    "category": "中医儿科学",
+    "question": "题干描述：以下哪一项不属于麻疹初起的临床症状\n选项A：发热\n选项B：咳嗽\n选项C：两目畏光\n选项D：咽部有出血性红点\n选项E：口腔两颊黏膜近臼齿处可见麻疹黏膜斑",
+    "correct_answer": "D",
+    "model_answer": "选项E：口腔两颊黏膜近臼齿处可见麻疹黏膜斑 不属于麻疹初起的临床症状。麻疹初始阶段主要表现为发热、咳嗽和两目畏光，出血性红点是后期发展的症状。",
+    "is_correct": false
+  },
+  {
+    "question_number": 251,
+    "category": "中药学",
+    "question": "题干描述：黄芪与茯苓配伍，茯苓能增强黄芪的补气利水作用，这种配伍关系是\n选项A：相须\n选项B：相使\n选项C：相反\n选项D：相恶\n选项E：相畏",
+    "correct_answer": "B",
+    "model_answer": "选项B：相使",
+    "is_correct": false
+  },
+  {
+    "question_number": 252,
+    "category": "中医儿科学",
+    "question": "题干描述：下列不属于内伤咳嗽证的是\n选项A：痰热咳嗽证\n选项B：痰湿咳嗽证\n选项C：气虚咳嗽证\n选项D：阴虚咳嗽证\n选项E：风寒咳嗽证",
+    "correct_answer": "E",
+    "model_answer": "D、阴虚咳嗽证",
+    "is_correct": false
+  },
+  {
+    "question_number": 253,
+    "category": "方剂学",
+    "question": "题干描述：黄土汤的功用是\n选项A：温脾散寒，涩肠止泻\n选项B：温中散寒，益气健脾\n选项C：温阳健脾，益气摄血\n选项D：温阳健脾，养血止血\n选项E：温肾暖脾，渗湿止泻",
+    "correct_answer": "D",
+    "model_answer": "A、温脾散寒，涩肠止泻",
+    "is_correct": false
+  },
+  {
+    "question_number": 254,
+    "category": "方剂学",
+    "question": "题干描述：小蓟饮子的组成药物中不包括\n选项A：藕节\n木通\n选项B：当归\n蒲黄\n选项C：生地\n滑石\n选项D：栀子\n淡竹叶\n选项E：大黄\n车前子",
+    "correct_answer": "E",
+    "model_answer": "选项A：木通",
+    "is_correct": false
+  },
+  {
+    "question_number": 255,
+    "category": "方剂学",
+    "question": "题干描述：四逆汤和理中丸中均含有的药物是\n选项A：人参\n选项B：大黄\n选项C：甘草\n选项D：白术\n选项E：干姜",
+    "correct_answer": "E",
+    "model_answer": "C、Gan Cao (Gan Cao, Glycyrrhiza uralensis Fisch.)\nD、Huang Qin (Huang Qin, Scutellaria baicalensis Georgi)\nA、Sheng Jiang (Sheng Jiang, Zingiber officinale Roscoe) 不在四逆汤和理中丸中\nB、Da Huang (Da Huang, Rheum palmatum L.) 不在四逆汤和理中丸中\nD、Bai Zhu (Bai Zhu, Atractylodes macrocephala Koidz.) 在四逆汤中，但不在理中丸中\nE、Gan Jiang (Gan Jiang, Zingiber officinale Roscoe) 不在四逆汤和理中丸中",
+    "is_correct": false
+  },
+  {
+    "question_number": 256,
+    "category": "中医诊断学",
+    "question": "题干描述：小儿口角流涎多属于\n选项A：脾气虚弱\n选项B：湿热内蕴\n选项C：心脾积热\n选项D：肝风内动\n选项E：胃气虚弱",
+    "correct_answer": "A",
+    "model_answer": "选项B：湿热内蕴",
+    "is_correct": false
+  },
+  {
+    "question_number": 257,
+    "category": "针灸学",
+    "question": "题干描述：痛经实证的针灸治疗宜选取\n选项A：中脘、次髎、地机、三阴交\n选项B：中极、次髎、地机、三阴交\n选项C：关元、足三里、阴陵泉\n选项D：关元、足三里、三阴交\n选项E：关元、气海、三阴交",
+    "correct_answer": "B",
+    "model_answer": "选项A：中脉、次髎、地机、三阴交",
+    "is_correct": false
+  },
+  {
+    "question_number": 258,
+    "category": "中药学",
+    "question": "题干描述：均善于治疗肺痈的药物是\n选项A：金银花、连翘\n选项B：生地黄、玄参\n选项C：鱼腥草、芦根\n选项D：牡丹皮、赤芍\n选项E：地骨皮、白薇",
+    "correct_answer": "C",
+    "model_answer": "选项A：金银花、连翘",
+    "is_correct": false
+  },
+  {
+    "question_number": 259,
+    "category": "方剂学",
+    "question": "题干描述：天王补心丹中配伍茯苓意在\n选项A：宁心\n选项B：健脾\n选项C：消痰\n选项D：渗湿\n选项E：利水",
+    "correct_answer": "A",
+    "model_answer": "A、宁心",
+    "is_correct": false
+  },
+  {
+    "question_number": 260,
+    "category": "方剂学",
+    "question": "题干描述：由黄连、半夏、瓜蒌组成的方剂是\n选项A：半夏泻心汤\n选项B：大陷胸汤\n选项C：滚痰丸\n选项D：小陷胸汤\n选项E：清气化痰丸",
+    "correct_answer": "D",
+    "model_answer": "选项C、滚痰丸",
+    "is_correct": false
+  },
+  {
+    "question_number": 261,
+    "category": "中医基础理论",
+    "question": "题干描述：具有“主治节”功能的脏是\n选项A：肝\n选项B：心\n选项C：脾\n选项D：肺\n选项E：肾",
+    "correct_answer": "D",
+    "model_answer": "选项B：心",
+    "is_correct": false
+  },
+  {
+    "question_number": 262,
+    "category": "中药学",
+    "question": "题干描述：下列哪组药物是辛凉解表药\n选项A：薄荷、桑叶、荆芥\n选项B：蝉衣、柴胡、菊花\n选项C：柴胡、淡豆豉、防风\n选项D：牛蒡子、苍耳子、升麻\n选项E：蔓荆子、辛夷、葛根",
+    "correct_answer": "B",
+    "model_answer": "选项B：蝉衣、柴胡、菊花",
+    "is_correct": false
+  },
+  {
+    "question_number": 263,
+    "category": "方剂学",
+    "question": "题干描述：方中芍药与甘草配伍以和里缓急的方剂是\n选项A：阳和汤\n选项B：逍遥散\n选项C：桂枝汤\n选项D：小建中汤\n选项E：痛泻要方",
+    "correct_answer": "D",
+    "model_answer": "选项B：逍遥散",
+    "is_correct": false
+  },
+  {
+    "question_number": 264,
+    "category": "中医基础理论",
+    "question": "题干描述：“决渎之官”指的是\n选项A：胆\n选项B：胃\n选项C：小肠\n选项D：三焦\n选项E：膀胱",
+    "correct_answer": "D",
+    "model_answer": "选项D：三焦",
+    "is_correct": false
+  },
+  {
+    "question_number": 265,
+    "category": "中药学",
+    "question": "题干描述：在“十八反”中，下列除哪味药物外均与乌头相反\n选项A：玄参\n选项B：白及\n选项C：贝母\n选项D：瓜蒌\n选项E：半夏",
+    "correct_answer": "A",
+    "model_answer": "选项E：半夏 与乌头相反，因为在“十八反”中，乌头属于暖药，而半夏则是属于凉药。",
+    "is_correct": false
+  },
+  {
+    "question_number": 266,
+    "category": "针灸学",
+    "question": "题干描述：治疗暴病耳聋，鸣声隆隆，伴畏寒，发热，脉浮，宜在翳风、听会、侠溪、中渚基础上，加取\n选项A：太冲、丘墟\n选项B：外关、合谷\n选项C：风门、肺俞\n选项D：丰隆、脾俞\n选项E：足三里、三阴交",
+    "correct_answer": "B",
+    "model_answer": "选项A：太冲、丘墟",
+    "is_correct": false
+  },
+  {
+    "question_number": 267,
+    "category": "针灸学",
+    "question": "题干描述：耳后两乳突之间的骨度分寸是\n选项A：4寸\n选项B：6寸\n选项C：8寸\n选项D：9寸\n选项E：12寸",
+    "correct_answer": "D",
+    "model_answer": "选项B：6寸",
+    "is_correct": false
+  },
+  {
+    "question_number": 268,
+    "category": "中药学",
+    "question": "题干描述：青皮与陈皮的功效区别是\n选项A：陈皮理脾胃之气，消积化滞；青皮理肝气，散寒止痛\n选项B：陈皮理脾胃之气，燥湿化痰；青皮理肝气，活血止痛\n选项C：陈皮理脾胃之气，降气化痰；青皮理肝气，消积化滞\n选项D：陈皮理脾胃之气，降气化痰；青皮理肝气，活血调经\n选项E：陈皮理脾胃之气，燥湿化痰；青皮理肝气，消积化滞",
+    "correct_answer": "E",
+    "model_answer": "A、 Chen Pi (Tangerine Peel) rationalizes the Spleen and Stomach's Qi, eliminates stagnation and promotes digestion.\nQing Pi (Lime Peel) rationalizes Liver Qi, disperses cold and stops pain.",
+    "is_correct": false
+  },
+  {
+    "question_number": 269,
+    "category": "中医内科",
+    "question": "题干描述：治疗痰热郁肺型肺胀的首选方剂是\n选项A：清金化痰汤\n选项B：越婢加半夏汤\n选项C：小青龙加石膏汤\n选项D：麻杏石甘汤\n选项E：定喘汤",
+    "correct_answer": "B",
+    "model_answer": "选项A：清金化痰汤",
+    "is_correct": false
+  },
+  {
+    "question_number": 270,
+    "category": "中医诊断学",
+    "question": "题干描述：外感热病，气分热盛的脉象是\n选项A：浮数\n选项B：滑数\n选项C：洪数\n选项D：濡数\n选项E：弦数",
+    "correct_answer": "C",
+    "model_answer": "选项A：浮数",
+    "is_correct": false
+  },
+  {
+    "question_number": 271,
+    "category": "中医基础理论",
+    "question": "题干描述：感邪后缓慢发病是\n选项A：徐发\n选项B：合病\n选项C：复发\n选项D：感而即发\n选项E：伏而后发",
+    "correct_answer": "A",
+    "model_answer": "选项A：徐发",
+    "is_correct": false
+  },
+  {
+    "question_number": 272,
+    "category": "中药学",
+    "question": "题干描述：具有健脾补中，升阳举陷，益卫固表，托毒生肌，利水消肿功效的药物是\n选项A：人参\n选项B：西洋参\n选项C：党参\n选项D：太子参\n选项E：黄芪",
+    "correct_answer": "E",
+    "model_answer": "D、太子参",
+    "is_correct": false
+  },
+  {
+    "question_number": 273,
+    "category": "针灸学",
+    "question": "题干描述：关于十二经别的作用，描述不正确的是\n选项A：加强了十二经脉的内外联系\n选项B：对十二经气血有蓄积和渗灌调节作用\n选项C：加强了经脉所属络的脏腑在体腔深部的联系\n选项D：补充了十二经脉在体内外循行的不足\n选项E：扩大了经穴的主治范围",
+    "correct_answer": "B",
+    "model_answer": "选项E：扩大了经穴的主治范法，这是错误的。中医理论中，每个经穴都有自己的主治范围，并不会因为对某一经脉作用而扩大其主治范围。",
+    "is_correct": false
+  },
+  {
+    "question_number": 274,
+    "category": "针灸学",
+    "question": "题干描述：某女，20岁，食海鲜后皮肤出现大小不等，形状不一的风团，高起皮肤，边界清楚，色红，瘙痒，伴恶心,，肠鸣泄泻，舌红，苔黄腻，脉滑数。除曲池、合谷、血海、膈俞、三阴交外，应加取\n选项A：外关、风池\n选项B：足三里、天枢\n选项C：三阴交、天枢\n选项D：足三里、大横\n选项E：三阴交、风池",
+    "correct_answer": "B",
+    "model_answer": "选项A：外关、风池",
+    "is_correct": false
+  },
+  {
+    "question_number": 275,
+    "category": "中医儿科学",
+    "question": "题干描述：抽动障碍的病因为\n选项A：脏腑阴阳失调\n选项B：五志过极，风痰内蕴\n选项C：元气未充，心神怯弱\n选项D：肝常有余，肝风内动\n选项E：脾虚肝旺，肝风扰动",
+    "correct_answer": "B",
+    "model_answer": "E: 脾虚肝旺，肝风扰动",
+    "is_correct": false
+  },
+  {
+    "question_number": 276,
+    "category": "中药学",
+    "question": "题干描述：人参入汤剂的用法是\n选项A：先煎\n选项B：后下\n选项C：包煎\n选项D：另煎\n选项E：泡服",
+    "correct_answer": "D",
+    "model_answer": "选项C：包煎",
+    "is_correct": false
+  },
+  {
+    "question_number": 277,
+    "category": "中医儿科学",
+    "question": "题干描述：小儿咳嗽的主要内因是\n选项A：肺脾虚弱\n选项B：肝肾阴虚\n选项C：肺肾两虚\n选项D：肝脾不和\n选项E：心脾两虚",
+    "correct_answer": "A",
+    "model_answer": "选项A：肺脾虚弱",
+    "is_correct": false
+  },
+  {
+    "question_number": 278,
+    "category": "中医内科",
+    "question": "题干描述：治疗悬饮饮停胸胁证宜选用\n选项A：柴枳半夏汤\n选项B：香附旋覆花汤\n选项C：椒目瓜蒌汤合十枣汤\n选项D：沙参麦冬汤合泻白散\n选项E：苓桂术甘汤合小半夏加茯苓汤",
+    "correct_answer": "C",
+    "model_answer": "根据中医治疗悬饮饮停胸胁证的原则，主要是清热解毒、调经平脉、消肿止痛等方面。因此，可以选择：\n\n选项A：柴枳半夏汤，是一种常用的清热解毒、消肿止痛的方案，适合于悬饮饮停证中的热寒不定、胸胁疼痛、腹胀等症状。\n选项D：沙参麦冬汤合泻白散，是一种调经平脉的方案，适合于悬饮饮停证中的腰痛、胸胁疼痛等症状。\n选项E：苓桂术甘汤合小半夏加茯苓汤，是一种消肿止痛的方案，适合于悬饮饮停证中的胸胁疼痛、腹胀等症状。\n\n因此，可以选择A、D或E之一作为治疗方案，具体选择需要根据患者个体情况进行调整。",
+    "is_correct": false
+  },
+  {
+    "question_number": 279,
+    "category": "中医外科",
+    "question": "题干描述：患者女性，24岁，左乳房内单个肿块，无疼痛，边界清楚，表面光滑，活动度好，应诊断为\n选项A：乳癖\n选项B：乳核\n选项C：乳痈\n选项D：乳岩\n选项E：乳疬",
+    "correct_answer": "B",
+    "model_answer": "D、乳岩",
+    "is_correct": false
+  },
+  {
+    "question_number": 280,
+    "category": "中医儿科学",
+    "question": "题干描述：痫证患儿，发作时突然仆倒，神志不清，颈项及全身强直，继而四肢抽搐，两目上视，牙关紧闭，口吐白沫，口唇及面部色青，舌苔白，脉弦滑。治疗应首选方剂是\n选项A：定痫丸\n选项B：远志丸\n选项C：定魄丸\n选项D：镇惊丸\n选项E：涤痰汤",
+    "correct_answer": "A",
+    "model_answer": "选项A、定痫丸",
+    "is_correct": false
+  },
+  {
+    "question_number": 281,
+    "category": "中医内科",
+    "question": "题干描述：治疗行痹，应首选\n选项A：乌头汤\n选项B：薏苡仁汤\n选项C：防风汤\n选项D：宣痹汤\n选项E：白虎加桂枝汤",
+    "correct_answer": "C",
+    "model_answer": "D：宣痹汤",
+    "is_correct": false
+  },
+  {
+    "question_number": 282,
+    "category": "针灸学",
+    "question": "题干描述：下列五输穴中，属于本经子穴的是\n选项A：大都\n选项B：中渚\n选项C：行间\n选项D：解溪\n选项E：少府",
+    "correct_answer": "C",
+    "model_answer": "选项A: 大都",
+    "is_correct": false
+  },
+  {
+    "question_number": 283,
+    "category": "中医诊断学",
+    "question": "题干描述：鼻流浊涕者，多属\n选项A：外感风热\n选项B：胆经湿热\n选项C：阳气虚弱\n选项D：外感风寒\n选项E：阴虚肺燥",
+    "correct_answer": "A",
+    "model_answer": "选项A、B、D：外感风热、胆经湿热、外感风寒",
+    "is_correct": false
+  },
+  {
+    "question_number": 284,
+    "category": "中医诊断学",
+    "question": "题干描述：迟脉的主病是\n选项A：虚热证\n选项B：痰饮\n选项C：寒证\n选项D：血瘀\n选项E：气滞",
+    "correct_answer": "C",
+    "model_answer": "选项A：虚热证",
+    "is_correct": false
+  },
+  {
+    "question_number": 285,
+    "category": "中医内科",
+    "question": "题干描述：胸痹的主要病机为\n选项A：气滞血瘀\n选项B：寒凝气滞\n选项C：痰瘀交阻\n选项D：阳气虚衰\n选项E：心脉痹阻",
+    "correct_answer": "E",
+    "model_answer": "A、气滞血瘀",
+    "is_correct": false
+  },
+  {
+    "question_number": 286,
+    "category": "中医儿科学",
+    "question": "题干描述：患儿18个月。乳牙未萌出。以下诊断中可能性最大的是\n选项A：佝偻病\n选项B：龋齿\n选项C：解颅\n选项D：肥胖症\n选项E：脑发育不良",
+    "correct_answer": "A",
+    "model_answer": "选项A、B可能是相关的诊断，因为佝偻病和龋齿都可能导致乳牙未萌出。但是，18个月时乳牙应该已经萌出了，所以在这种情况下，更可能是龋齿（选项B）。选项C、D和E则不太可能与乳牙未萌出有关。",
+    "is_correct": false
+  },
+  {
+    "question_number": 287,
+    "category": "中医内科",
+    "question": "题干描述：不寐之心肾不交证的主治方剂是\n选项A：归脾汤\n选项B：龙胆泻肝汤\n选项C：黄连温胆汤\n选项D：六味地黄丸合交泰丸\n选项E：安神定志丸合酸枣仁汤",
+    "correct_answer": "D",
+    "model_answer": "D：六味地黄丸合交泰丸",
+    "is_correct": false
+  },
+  {
+    "question_number": 288,
+    "category": "方剂学",
+    "question": "题干描述：吴茱萸汤和理中丸二方组成中均含有的药物是\n选项A：大枣\n选项B：干姜\n选项C：白术\n选项D：人参\n选项E：吴茱萸",
+    "correct_answer": "D",
+    "model_answer": "选项D、选项C、选项B、选项A。所有四种药物都是 Wu Zhu Yu Tang 和 Li Zhong Wan 的组成部分。",
+    "is_correct": false
+  },
+  {
+    "question_number": 289,
+    "category": "中药学",
+    "question": "题干描述：鱼腥草善于治疗的病证是\n选项A：乳痈\n选项B：肠痈\n选项C：肺痈\n选项D：疔毒\n选项E：大头瘟毒",
+    "correct_answer": "C",
+    "model_answer": "选项A、B、C、D中，鱼腥草（Rhizoma Alismatis）主要用于治疗肠痈（选项B）。",
+    "is_correct": false
+  },
+  {
+    "question_number": 290,
+    "category": "中药学",
+    "question": "题干描述：何首乌的功效是\n选项A：既能化痰止咳，又能润肠通便\n选项B：既能补血活血，又能润肠通便\n选项C：既能补益精血，又能润肠通便\n选项D：既能补肾助阳，又能润肠通便\n选项E：既能利水消肿，又能润肠通便",
+    "correct_answer": "C",
+    "model_answer": "A、既能化痰止咳，又能润肠通便",
+    "is_correct": false
+  },
+  {
+    "question_number": 291,
+    "category": "中医儿科学",
+    "question": "题干描述：水痘的隔离期为\n选项A：疱疹消退后1周\n选项B：发热消退后1周\n选项C：疱疹与结痂并见时\n选项D：痘疹出齐后\n选项E：痘疹全部结痂后",
+    "correct_answer": "E",
+    "model_answer": "A、疱痤消退后1周",
+    "is_correct": false
+  },
+  {
+    "question_number": 292,
+    "category": "中医内科",
+    "question": "题干描述：呃逆的病位与下列哪项无关\n选项A：心\n选项B：胃\n选项C：肺\n选项D：肝\n选项E：肾",
+    "correct_answer": "A",
+    "model_answer": "E、 肾",
+    "is_correct": false
+  },
+  {
+    "question_number": 293,
+    "category": "针灸学",
+    "question": "题干描述：下列经脉中，在大腿部没有经穴分布的是\n选项A：足阳明胃经\n选项B：足少阳胆经\n选项C：足太阴脾经\n选项D：足厥阴肝经\n选项E：足少阴肾经",
+    "correct_answer": "E",
+    "model_answer": "选项A、足阳明胃经在大腿部有经穴分布。\n选项B、足少阳胆经、选项C、足太阴脾经和选项D、足厥阴肝经在大腿部都有经穴分布。\n选项E、足少阴肾经在大腿部没有经穴分布，因此是正确答案。",
+    "is_correct": false
+  },
+  {
+    "question_number": 294,
+    "category": "中药学",
+    "question": "题干描述：下列各项中属于消除脘腹胀满之要药的是\n选项A：藿香\n选项B：佩兰\n选项C：苍术\n选项D：厚朴\n选项E：砂仁",
+    "correct_answer": "D",
+    "model_answer": "A: 藿香",
+    "is_correct": false
+  },
+  {
+    "question_number": 295,
+    "category": "中医内科",
+    "question": "题干描述：关于真心痛气虚血瘀证临床表现，错误的是\n选项A：心胸刺痛\n选项B：动则加重\n选项C：短气乏力\n选项D：舌质暗淡\n选项E：脉微欲绝",
+    "correct_answer": "E",
+    "model_answer": "选项D：舌质暗淡",
+    "is_correct": false
+  },
+  {
+    "question_number": 296,
+    "category": "针灸学",
+    "question": "题干描述：位于脐中上4寸，前正中线旁开2寸的穴位是\n选项A：不容\n选项B：承满\n选项C：关门\n选项D：梁门\n选项E：天枢",
+    "correct_answer": "D",
+    "model_answer": "选项D：梁门",
+    "is_correct": false
+  },
+  {
+    "question_number": 297,
+    "category": "针灸学",
+    "question": "题干描述：以上哪组经脉皆与肺相联系\n选项A：手太阳、足少阳、手少阳经\n选项B：手阳明、足太阳、足少阳经\n选项C：手太阴、手阳明、足少阳经\n选项D：手少阴、足厥阴、足少阴经\n选项E：手太阴、足厥阴、手太阳经",
+    "correct_answer": "D",
+    "model_answer": "B: 手阳明、足太阳、足少阳经",
+    "is_correct": false
+  },
+  {
+    "question_number": 298,
+    "category": "中医儿科学",
+    "question": "题干描述：邪炽气营的水痘疱疹特点是\n选项A：晶亮如露珠\n选项B：疱疹个大且含脓液\n选项C：疱浆清亮\n选项D：疱浆混浊，疹色紫暗\n选项E：分布稀疏",
+    "correct_answer": "D",
+    "model_answer": "选项B：疱疹个大且含脓液",
+    "is_correct": false
+  },
+  {
+    "question_number": 299,
+    "category": "中药学",
+    "question": "题干描述：下列药物中能用于治疗失音的是\n选项A：半夏\n选项B：竹茹\n选项C：桔梗\n选项D：前胡\n选项E：白芥子",
+    "correct_answer": "C",
+    "model_answer": "A、半夏（Ban Xia）可能会用于治疗失音，因为它有助于消除咽喉和肺部的郁热，缓解咳嗽和喘息。但是，这种药物不是专门用于治疗失音的，而是作为一种支持性治疗方法。\n\nB、竹茹（Zhu Ru）通常用于消化系统的治疗，如呕吐、腹泻和便秘等问题。它不是专门用于治疗失音的药物。\n\nC、桔梗（Zhi Ke）通常用于消除风热，缓解痹挛和疼痛，但并不是专门用于治疗失音的药物。\n\nD、前胡（Qian Cao）通常用于消除胸闷和咳嗽，但并不是专门用于治疗失音的药物。\n\nE、白芥子（Bai Zhi）通常用于消除风热，缓解痹挛和疼痛，但并不是专门用于治疗失音的药物。\n\n因此，在这些选项中，没有一个明确的答案能够被认为是治疗失音的药物。",
+    "is_correct": false
+  },
+  {
+    "question_number": 300,
+    "category": "方剂学",
+    "question": "题干描述：痛泻要方中配伍防风的主要用意是\n选项A：升发清阳\n选项B：祛风解痉\n选项C：疏风散寒\n选项D：疏风宽肠\n选项E：散肝舒脾",
+    "correct_answer": "E",
+    "model_answer": "选项B：祛风解痉",
+    "is_correct": false
+  },
+  {
+    "question_number": 301,
+    "category": "中医内科",
+    "question": "题干描述：眩晕的治疗原则是\n选项A：补虚泻实，调整阴阳\n选项B：滋养肝肾，补气行血\n选项C：清肝泻火，降逆化痰\n选项D：平肝潜阳，养心安神\n选项E：以上均不是",
+    "correct_answer": "A",
+    "model_answer": "D: 平肝潜阳，养心安神",
+    "is_correct": false
+  },
+  {
+    "question_number": 302,
+    "category": "针灸学",
+    "question": "题干描述：耳穴“耳尖”的主治病证是\n选项A：发热、高血压、急性结膜炎\n选项B：呃逆、荨麻疹、皮肤瘙痒症\n选项C：胃肠痉挛、心绞痛、胆绞痛\n选项D：腹泻、痛经、失眠\n选项E：盆腔炎、附件炎、痛经",
+    "correct_answer": "A",
+    "model_answer": "选项B：呃逆、荨麻疹、皮肤瘙痒症",
+    "is_correct": false
+  },
+  {
+    "question_number": 303,
+    "category": "针灸学",
+    "question": "题干描述：某男，70岁，大便艰涩，排出困难，腹中冷痛，面色(白光)白，四肢不温，畏寒喜暖，小便清长，舌淡苔白，脉沉迟。治疗本病，除主穴外，还应加用\n选项A：合谷、内庭\n选项B：太冲、中脘\n选项C：脾俞、气海\n选项D：神阙、关元\n选项E：足三里、三阴交",
+    "correct_answer": "D",
+    "model_answer": "选项A、合谷、内庭",
+    "is_correct": false
+  },
+  {
+    "question_number": 304,
+    "category": "针灸学",
+    "question": "题干描述：属于手太阳小肠经的腧穴是\n选项A：听会\n选项B：听宫\n选项C：耳门\n选项D：神门\n选项E：下关",
+    "correct_answer": "B",
+    "model_answer": "选项D：神门",
+    "is_correct": false
+  },
+  {
+    "question_number": 305,
+    "category": "中医儿科学",
+    "question": "题干描述：患儿，5岁。3个月前曾患肺炎，病愈后一直不思进食，食而不化，大便稀薄，夹有不消化食物，形体较瘦，乏力肢倦，舌质淡，苔薄白。治疗应首选\n选项A：肥儿丸\n选项B：枳术丸\n选项C：异功散\n选项D：保和丸\n选项E：四君子汤",
+    "correct_answer": "C",
+    "model_answer": "选项B：枳术丸",
+    "is_correct": false
+  },
+  {
+    "question_number": 306,
+    "category": "中医诊断学",
+    "question": "题干描述：以下哪项不是实喘的特征\n选项A：发作急骤\n选项B：呼吸深长\n选项C：息粗声高\n选项D：呼多吸少\n选项E：张口抬肩",
+    "correct_answer": "D",
+    "model_answer": "选项B：呼吸深长。实喘的特点是呼吸快速、浅短，而不是深长。",
+    "is_correct": false
+  },
+  {
+    "question_number": 307,
+    "category": "中医儿科学",
+    "question": "题干描述：皮肤黏膜淋巴结综合征卫气同病的首选方剂为\n选项A：银翘散\n选项B：桑菊饮\n选项C：清瘟败毒饮\n选项D：沙参麦冬汤\n选项E：小建中汤",
+    "correct_answer": "A",
+    "model_answer": "选项A：银翘散",
+    "is_correct": false
+  },
+  {
+    "question_number": 308,
+    "category": "中医儿科学",
+    "question": "题干描述：患儿，6岁。咳嗽喘促1天。证见喘促气急，咳嗽痰鸣，恶寒发热，鼻流清涕，咯痰黄稠，口渴，大便干，舌红，苔白，脉滑数。其治法是\n选项A：温肺散寒，化痰定喘\n选项B：清肺涤痰，止咳平喘\n选项C：解表清里，止咳定喘\n选项D：泻肺补肾，标本兼顾\n选项E：健脾温肾，固摄纳气",
+    "correct_answer": "C",
+    "model_answer": "选项A：温肺散寒，化痰定喘",
+    "is_correct": false
+  },
+  {
+    "question_number": 309,
+    "category": "中医基础理论",
+    "question": "题干描述：具有加强十二经脉中相为表里的两条经脉之间在体内联系作用的是\n选项A：经筋\n选项B：经别\n选项C：别络\n选项D：皮部\n选项E：奇经",
+    "correct_answer": "B",
+    "model_answer": "选项C：别络",
+    "is_correct": false
+  },
+  {
+    "question_number": 310,
+    "category": "中医内科",
+    "question": "题干描述：精神抑郁，情绪不宁，胸胁胀满疼痛，脘腹胀满，咽中如物梗塞，苔腻。多属\n选项A：气郁\n选项B：血郁\n选项C：痰郁\n选项D：火郁\n选项E：湿郁",
+    "correct_answer": "C",
+    "model_answer": "A: 气郁",
+    "is_correct": false
+  },
+  {
+    "question_number": 311,
+    "category": "中药学",
+    "question": "题干描述：治寒疝疼痛，睾丸偏坠疼痛，宜选用的药物是\n选项A：肉桂\n选项B：沉香\n选项C：小茴香\n选项D：丁香\n选项E：木香",
+    "correct_answer": "C",
+    "model_answer": "选项C、小茴香（Juniperus Communis Fructus）。小茴香是治疗寒症、疼痛的常用药材，可以通过温热化血、消除冷湿来缓解睾丸偏坠疼痛。",
+    "is_correct": false
+  },
+  {
+    "question_number": 312,
+    "category": "中医基础理论",
+    "question": "题干描述：气机升降之枢指的是\n选项A：脾胃\n选项B：肝胆\n选项C：心肾\n选项D：肝肾\n选项E：肝肺",
+    "correct_answer": "A",
+    "model_answer": "选项D：肝肾",
+    "is_correct": false
+  },
+  {
+    "question_number": 313,
+    "category": "中医外科",
+    "question": "题干描述：肉瘤的西医病名是\n选项A：脂肪肉瘤\n选项B：骨骼肌肉瘤\n选项C：脂肪瘤\n选项D：钎维肉瘤\n选项E：平滑肌肉瘤",
+    "correct_answer": "C",
+    "model_answer": "选项C：脂肪瘤",
+    "is_correct": false
+  },
+  {
+    "question_number": 314,
+    "category": "中药学",
+    "question": "题干描述：确定归经学说的理论基础是\n选项A：阴阳学说\n选项B：脏腑经络理论\n选项C：药性理论\n选项D：药味理论\n选项E：五行学说",
+    "correct_answer": "B",
+    "model_answer": "选项B：脏腑经络理论",
+    "is_correct": false
+  },
+  {
+    "question_number": 315,
+    "category": "中医基础理论",
+    "question": "题干描述：五行中具有“曲直“特性的是\n选项A：金\n选项B：水\n选项C：木\n选项D：火\n选项E：土",
+    "correct_answer": "C",
+    "model_answer": "C: 木",
+    "is_correct": false
+  },
+  {
+    "question_number": 316,
+    "category": "中医内科",
+    "question": "题干描述：患者呕吐吞酸，嗳气频作，胸胁满痛，脉弦。此属何型呕吐\n选项A：胃阴不足\n选项B：热邪犯胃\n选项C：肝郁化火\n选项D：肝气犯胃\n选项E：以上均不是",
+    "correct_answer": "D",
+    "model_answer": "选项A：胃阴不足",
+    "is_correct": false
+  },
+  {
+    "question_number": 317,
+    "category": "中医内科",
+    "question": "题干描述：治疗肺气虚耗所致喘证，应首选\n选项A：生脉散合补肺汤\n选项B：金水六君煎\n选项C：六君子汤\n选项D：保真汤\n选项E：麦门冬汤",
+    "correct_answer": "A",
+    "model_answer": "A: 生脉散合补肺汤",
+    "is_correct": false
+  },
+  {
+    "question_number": 318,
+    "category": "中医内科",
+    "question": "题干描述：虚劳证，咳嗽无力，痰液清稀，短气自汗，声音低怯，时寒时热，平素易于感冒，苔薄白，脉弱。辨证应属\n选项A：肺阴虚证\n选项B：肺气虚证\n选项C：心气虚证\n选项D：脾气虚证\n选项E：肾气虚证",
+    "correct_answer": "B",
+    "model_answer": "B: 肺气虚证",
+    "is_correct": false
+  },
+  {
+    "question_number": 319,
+    "category": "中医内科",
+    "question": "题干描述：患者泄泻多在黎明之前，腹部作痛，肠鸣即泻，泻后则安，形寒肢冷，腰膝酸软，舌淡苔白，脉沉细。其治法是\n选项A：温肾健脾，固涩止泻\n选项B：温中健脾，固涩止泻\n选项C：温补脾肾，涩汤止泻\n选项D：健脾补肾，化湿固涩\n选项E：补肾助阳，温中固涩",
+    "correct_answer": "A",
+    "model_answer": "选项D：健脾补肾，化湿固涩",
+    "is_correct": false
+  },
+  {
+    "question_number": 320,
+    "category": "中医儿科学",
+    "question": "题干描述：皮肤黏膜淋巴结综合征气阴两伤证的首选方剂为\n选项A：银翘散\n选项B：桑菊饮\n选项C：清瘟败毒饮\n选项D：沙参麦冬汤\n选项E：小建中汤",
+    "correct_answer": "D",
+    "model_answer": "选项A：银翘散",
+    "is_correct": false
+  },
+  {
+    "question_number": 321,
+    "category": "针灸学",
+    "question": "题干描述：经脉循行中，不与目内眦或目外眦发生联系的是\n选项A：手少阳三焦经\n选项B：手太阳小肠经\n选项C：手阳明大肠经\n选项D：足太阳膀胱经\n选项E：足少阳胆经",
+    "correct_answer": "C",
+    "model_answer": "A、手少阳三焦经",
+    "is_correct": false
+  },
+  {
+    "question_number": 322,
+    "category": "中药学",
+    "question": "题干描述：治疗积滞便秘常与大黄配伍的药物是\n选项A：番泻叶\n选项B：甘遂\n选项C：芒硝\n选项D：火麻仁\n选项E：生地黄",
+    "correct_answer": "C",
+    "model_answer": "选项D：火麻仁",
+    "is_correct": false
+  },
+  {
+    "question_number": 323,
+    "category": "中医儿科学",
+    "question": "题干描述：正常小儿开始会独坐的月龄一般是\n选项A：2\n选项B：4\n选项C：6\n选项D：8\n选项E：10",
+    "correct_answer": "C",
+    "model_answer": "选项C、6",
+    "is_correct": false
+  },
+  {
+    "question_number": 324,
+    "category": "针灸学",
+    "question": "题干描述：下列特定穴中，除哪项外均位于肘膝关节以下\n选项A：原穴\n选项B：络穴\n选项C：下合穴\n选项D：五输穴\n选项E：八会穴",
+    "correct_answer": "E",
+    "model_answer": "选项D：五输穴位于肘膝关节以上，因此除了五输穴外，其他选项均位于肘膝关节以下。",
+    "is_correct": false
+  },
+  {
+    "question_number": 325,
+    "category": "中药学",
+    "question": "题干描述：具有散寒止痛，理气和胃作用的药物是\n选项A：细辛\n选项B：花椒\n选项C：丁香\n选项D：小茴香\n选项E：高良姜",
+    "correct_answer": "D",
+    "model_answer": "选项A：细辛",
+    "is_correct": false
+  },
+  {
+    "question_number": 326,
+    "category": "中医儿科学",
+    "question": "题干描述：治疗小儿痫证脾肾两虚证的首选方是\n选项A：左归丸\n选项B：右归丸\n选项C：大补元煎\n选项D：河车八味丸\n选项E：固真汤合逐寒荡惊汤",
+    "correct_answer": "D",
+    "model_answer": "选项A：左归丸",
+    "is_correct": false
+  },
+  {
+    "question_number": 327,
+    "category": "中医儿科学",
+    "question": "题干描述：幼儿期是指\n选项A：从出生断脐到生后满28天\n选项B：出生28天后到满1周岁\n选项C：1～3岁\n选项D：3～7岁\n选项E：7～12岁",
+    "correct_answer": "C",
+    "model_answer": "选项B：出生28天后到满1周岁",
+    "is_correct": false
+  },
+  {
+    "question_number": 328,
+    "category": "中医内科",
+    "question": "题干描述：下列哪一项不是脾虚湿滞证黄疸的特点\n选项A：肌肤淡黄\n选项B：疸色晦暗不泽\n选项C：肢软乏力\n选项D：大便溏薄\n选项E：小便色清",
+    "correct_answer": "E",
+    "model_answer": "选项E：小便色清 这项不是脾虚湿滞证黄疸的特点。正常情况下，小便应该是透明或微白色的，而不是颜色清晰的。黄疸则是因为脾虚湿滞导致身体内部湿润过多，会影响大便和小便的正常情况，导致大便溏薄、小便色黄或浊。",
+    "is_correct": false
+  },
+  {
+    "question_number": 329,
+    "category": "中医基础理论",
+    "question": "题干描述：属于“水”的气是\n选项A：风\n选项B：暑\n选项C：湿\n选项D：燥\n选项E：寒",
+    "correct_answer": "E",
+    "model_answer": "选项C：湿",
+    "is_correct": false
+  },
+  {
+    "question_number": 330,
+    "category": "中药学",
+    "question": "题干描述：治疗怀胎蕴热、胎动不安者，当选用的药物是\n选项A：桑寄生\n选项B：黄芩\n选项C：苏梗\n选项D：续断\n选项E：砂仁",
+    "correct_answer": "B",
+    "model_answer": "A: 桑寄生 (Sang Ye)",
+    "is_correct": false
+  },
+  {
+    "question_number": 331,
+    "category": "中药学",
+    "question": "题干描述：下列除哪项外均为桔梗的主治证\n选项A：肺痈\n选项B：咳嗽\n选项C：咽痛\n选项D：失音\n选项E：眩晕",
+    "correct_answer": "E",
+    "model_answer": "E: 眩晕 不是桔梗的主治证。桔梗主要关注肺部和胸部疾病，而眩晕则属于中医的血脉经络系统的疾病。",
+    "is_correct": false
+  },
+  {
+    "question_number": 332,
+    "category": "中医内科",
+    "question": "题干描述：患者小便不畅，咽干咳嗽，烦渴欲饮，呼吸急促，舌红，苔薄黄，脉数。治疗方剂宜首选\n选项A：八正散\n选项B：代抵当汤\n选项C：沉香散\n选项D：清肺饮\n选项E：补中益气汤",
+    "correct_answer": "D",
+    "model_answer": "选项A：八正散",
+    "is_correct": false
+  },
+  {
+    "question_number": 333,
+    "category": "中医内科",
+    "question": "题干描述：真心痛发作期治疗原则为\n选项A：疏理气机，活血化瘀\n选项B：辛温通阳，泄浊豁痰\n选项C：镇心安神，益气养阴\n选项D：急则治标，速效止痛\n选项E：补气活血，温阳通脉",
+    "correct_answer": "D",
+    "model_answer": "选项A、B、D可能是适当的选择，具体取决于患者的症状和病情。\n\n* 选项A：疏理气机，活血化瘀，这些方法可以用来治疗真心痛的根本原因，包括气机不利、血滞和瘀血等。\n* 选项B：辛温通阳，泄浊豁痰，这些方法可以用来治疗真心痛的表象，包括阳气不足、痰阻和咳嗽等。\n* 选项D：急则治标，速效止痛，这个原则是在痛苦或严重状况下采取快速有效的措施来减轻症状，但需要注意不要忽略真正的病因。\n* 选项C：镇心安神，益气养阴，这些方法可以用来治疗心神不宁或阳气不足等相关症状，但在治疗真心痛时可能不是首要考虑的选项。\n* 选项E：补气活血，温阳通脉，这些方法可以用来治疗真心痛的根本原因，包括气机不利、血滞和瘀血等。",
+    "is_correct": false
+  },
+  {
+    "question_number": 334,
+    "category": "中药学",
+    "question": "题干描述：治疗风湿痹痛，兼有肝肾不足的最佳选药是\n选项A：羌活\n选项B：独活\n选项C：桑寄生\n选项D：威灵仙\n选项E：秦艽",
+    "correct_answer": "C",
+    "model_answer": "选项D：威灵仙",
+    "is_correct": false
+  },
+  {
+    "question_number": 335,
+    "category": "中医内科",
+    "question": "题干描述：下列除哪项外，均属湿热痢的主症\n选项A：腹痛，里急后重\n选项B：下痢赤白相兼\n选项C：肛门灼热\n选项D：小便短赤\n选项E：苔白腻，脉濡缓",
+    "correct_answer": "E",
+    "model_answer": "选项D、小便短赤不是湿热痢的主症。其他选项A、B、C都可能属于湿热痢的主症。",
+    "is_correct": false
+  },
+  {
+    "question_number": 336,
+    "category": "中医内科",
+    "question": "题干描述：治疗疟疾时，服药一般在\n选项A：疟疾发作时\n选项B：疟发前1小时\n选项C：疟发前2小时\n选项D：疟发后1小时\n选项E：疟发后2小时",
+    "correct_answer": "C",
+    "model_answer": "C、疟发前2小时",
+    "is_correct": false
+  },
+  {
+    "question_number": 337,
+    "category": "中医儿科学",
+    "question": "题干描述：治疗贫血心脾两虚证，应首选方剂是\n选项A：归脾汤\n选项B：六君子汤\n选项C：左归丸\n选项D：右归丸\n选项E：四物汤",
+    "correct_answer": "A",
+    "model_answer": "A: 归脾汤",
+    "is_correct": false
+  },
+  {
+    "question_number": 338,
+    "category": "针灸学",
+    "question": "题干描述：肘横纹（平肘尖）至腕掌（背）侧横纹的骨度分寸是\n选项A：6寸\n选项B：8寸\n选项C：9寸\n选项D：12寸\n选项E：13寸",
+    "correct_answer": "D",
+    "model_answer": "选项C：9寸",
+    "is_correct": false
+  },
+  {
+    "question_number": 339,
+    "category": "针灸学",
+    "question": "题干描述：任脉循行未至以下何处\n选项A：口唇\n选项B：面部\n选项C：咽喉\n选项D：鼻\n选项E：目",
+    "correct_answer": "D",
+    "model_answer": "C、咽喉",
+    "is_correct": false
+  },
+  {
+    "question_number": 340,
+    "category": "中医内科",
+    "question": "题干描述：痿证之脉络瘀阻证症见\n选项A：病起发热，皮肤于燥，咳呛少痰\n选项B：肢体困重，手足麻木，喜凉恶热\n选项C：神疲肢倦，肌肉萎缩，少气懒言\n选项D：腰膝酸软，眩晕耳鸣，舌咽干燥\n选项E：手足麻木不仁，四肢青筋显露，舌痿不能伸缩",
+    "correct_answer": "E",
+    "model_answer": "选项B: 肢体困重，手足麻木，喜凉恶热",
+    "is_correct": false
+  },
+  {
+    "question_number": 341,
+    "category": "中医诊断学",
+    "question": "题干描述：肝火犯肺与肝火炽盛证的主要不同点在于\n选项A：胸胁灼痛\n选项B：头胀头晕\n选项C：面红目赤\n选项D：痰中带血\n选项E：急躁易怒",
+    "correct_answer": "D",
+    "model_answer": "选项A：胸胁灼痛不是肝火犯肺与肝火炽盛证的主要不同点。\n选项B：头胀头晕属于肝火犯肺证，而面红目赤和痰中带血则是肝火炽盛证的主要症状。\n选项C、D：急躁易怒不是肝火犯肺与肝火炽盛证的主要不同点，因为这两种证都可能出现这些症状。",
+    "is_correct": false
+  },
+  {
+    "question_number": 342,
+    "category": "中医诊断学",
+    "question": "题干描述：以下哪项不是寒痰阻肺证的特征\n选项A：痰多\n选项B：色白\n选项C：咳喘\n选项D：质稀\n选项E：难咯",
+    "correct_answer": "E",
+    "model_answer": "答案：E、难咯 不是寒痰阻肺证的特征。",
+    "is_correct": false
+  },
+  {
+    "question_number": 343,
+    "category": "中医儿科学",
+    "question": "题干描述：抽动障碍气郁化火证的治法为\n选项A：温中健脾，暖肝理脾\n选项B：健脾化痰，平肝熄风\n选项C：清肝泻火，熄风镇惊\n选项D：滋阴潜阳，柔肝熄风\n选项E：清热泻火，平肝熄风",
+    "correct_answer": "C",
+    "model_answer": "选项C：清肝泻火，熄风镇惊",
+    "is_correct": false
+  },
+  {
+    "question_number": 344,
+    "category": "针灸学",
+    "question": "题干描述：前额发角（头维）之间的骨度分寸是\n选项A：6寸\n选项B：8寸\n选项C：9寸\n选项D：12寸\n选项E：13寸",
+    "correct_answer": "C",
+    "model_answer": "选项A：6寸",
+    "is_correct": false
+  },
+  {
+    "question_number": 345,
+    "category": "中药学",
+    "question": "题干描述：既能祛风解表，又能胜湿，止痛，止痉的药物是\n选项A：荆芥\n选项B：防风\n选项C：香薷\n选项D：紫苏\n选项E：桂枝",
+    "correct_answer": "B",
+    "model_answer": "选项D：紫苏",
+    "is_correct": false
+  },
+  {
+    "question_number": 346,
+    "category": "中医内科",
+    "question": "题干描述：治疗内伤发热气郁发热证的代表方是\n选项A：丹栀逍遥散\n选项B：清骨散\n选项C：补中益气汤\n选项D：血府逐瘀汤\n选项E：归脾汤",
+    "correct_answer": "A",
+    "model_answer": "A: 丹栀逍遥散",
+    "is_correct": false
+  },
+  {
+    "question_number": 347,
+    "category": "针灸学",
+    "question": "题干描述：绝经前后诸证肾阳虚者，宜配伍\n选项A：照海、阴谷\n选项B：中脘、丰隆\n选项C：关元、命门\n选项D：心俞、神门\n选项E：中脘、阴陵泉",
+    "correct_answer": "C",
+    "model_answer": "选项A：照海、阴谷",
+    "is_correct": false
+  },
+  {
+    "question_number": 348,
+    "category": "中药学",
+    "question": "题干描述：芫花减轻其毒性宜如何炮制\n选项A：蜜制\n选项B：土炒\n选项C：酒制\n选项D：醋制\n选项E：姜制",
+    "correct_answer": "D",
+    "model_answer": "A、蜜制",
+    "is_correct": false
+  },
+  {
+    "question_number": 349,
+    "category": "针灸学",
+    "question": "题干描述：位于腕背横纹桡侧，当拇短伸肌腱与拇长伸肌腱之间的凹陷中的穴位是\n选项A：大陵\n选项B：太渊\n选项C：阳溪\n选项D：神门\n选项E：阳池",
+    "correct_answer": "C",
+    "model_answer": "选项A、大陵，是位于腕背横纹桡侧的穴位。",
+    "is_correct": false
+  },
+  {
+    "question_number": 350,
+    "category": "中医诊断学",
+    "question": "题干描述：以腰膝酸软，身肿尿少为特征的是\n选项A：肾虚水泛证\n选项B：肾阳虚证\n选项C：肾阴虚讦\n选项D：肾精不足证\n选项E：肾气不固证",
+    "correct_answer": "A",
+    "model_answer": "A: 肾虚水泛证",
+    "is_correct": false
+  },
+  {
+    "question_number": 351,
+    "category": "中药学",
+    "question": "题干描述：治疗多种原因所致的痉挛抽搐，多与全蝎配伍相须使用的药物是\n选项A：蜈蚣\n选项B：白僵蚕\n选项C：钩藤\n选项D：天麻\n选项E：地龙",
+    "correct_answer": "A",
+    "model_answer": "选项D：天麻",
+    "is_correct": false
+  },
+  {
+    "question_number": 352,
+    "category": "中药学",
+    "question": "题干描述：善清三焦之火的药物是\n选项A：夏枯草\n选项B：石膏\n选项C：淡竹叶\n选项D：栀子\n选项E：黄芩",
+    "correct_answer": "D",
+    "model_answer": "A: 夏枯草",
+    "is_correct": false
+  },
+  {
+    "question_number": 353,
+    "category": "中医内科",
+    "question": "题干描述：虚证泄泻的特点是\n选项A：大便清稀，完谷不化，腹部喜温\n选项B：大便色黄褐而臭，泻下急迫，肛门灼热\n选项C：泻下腹痛，痛势急迫拒按，泻后痛减\n选项D：大便时溏时泻，腹痛不甚，喜温喜按\n选项E：每因抑郁恼怒或情绪紧张之时，即发生腹痛泄泻",
+    "correct_answer": "D",
+    "model_answer": "选项D：大便时溏时泻，腹痛不甚，喜温喜按",
+    "is_correct": false
+  },
+  {
+    "question_number": 354,
+    "category": "中医内科",
+    "question": "题干描述：肝气乘脾泄泻的特点是\n选项A：大便清稀，完谷不化，腹部喜温\n选项B：大便色黄褐而臭，泻下急迫，肛门灼热\n选项C：泻下腹痛，痛势急迫拒按，泻后痛减\n选项D：大便时溏时泻，腹痛不甚，喜温喜按\n选项E：每因抑郁恼怒或情绪紧张之时，即发生腹痛泄泻",
+    "correct_answer": "E",
+    "model_answer": "选项B：大便色黄褐而臭，泻下急迫，肛门灼热",
+    "is_correct": false
+  },
+  {
+    "question_number": 355,
+    "category": "中医内科",
+    "question": "题干描述：患者突然跌倒，神志不清，口吐涎沫，两目上视，四肢抽搐，口中如作猪羊叫声，移时苏醒，舌苔白腻，脉弦滑。治疗应首选\n选项A：定痫丸\n选项B：导痰汤\n选项C：二阴煎\n选项D：涤痰汤\n选项E：控涎丹",
+    "correct_answer": "A",
+    "model_answer": "选项A：定痫丸",
+    "is_correct": false
+  },
+  {
+    "question_number": 356,
+    "category": "中医诊断学",
+    "question": "题干描述：真热假寒的面色是\n选项A：满面通红\n选项B：浮红如妆\n选项C：面色紫暗\n选项D：面呈青色\n选项E：面呈黑色",
+    "correct_answer": "C",
+    "model_answer": "A: 满面通红",
+    "is_correct": false
+  },
+  {
+    "question_number": 357,
+    "category": "中医儿科学",
+    "question": "题干描述：儿童多动症，其病在肾者，临床证候是\n选项A：易于冲动，好动难静，容易发怒，常不能自控\n选项B：兴趣多变，做事有头元尾，记忆力差\n选项C：脑失精明，学习成绩低下，记忆力欠佳，或有遗尿、腰酸乏力\n选项D：注意力不集中，情绪不稳定，多梦烦躁\n选项E：神思涣散，活动过多，动作笨拙",
+    "correct_answer": "C",
+    "model_answer": "选项A：易于冲动，好动难静，容易发怒，常不能自控",
+    "is_correct": false
+  },
+  {
+    "question_number": 358,
+    "category": "中药学",
+    "question": "题干描述：既能化湿，又能解暑的药物是\n选项A：藿香、佩兰\n选项B：苍术、厚朴\n选项C：砂仁、豆蔻\n选项D：橘皮、青皮\n选项E：茯苓、玉竹",
+    "correct_answer": "A",
+    "model_answer": "A、藿香、佩兰",
+    "is_correct": false
+  },
+  {
+    "question_number": 359,
+    "category": "中药学",
+    "question": "题干描述：艾叶的功效长于\n选项A：凉血止血\n选项B：收敛止血\n选项C：化瘀止血\n选项D：温经止血\n选项E：补虚止血",
+    "correct_answer": "D",
+    "model_answer": "选项D：温经止血",
+    "is_correct": false
+  },
+  {
+    "question_number": 360,
+    "category": "中药学",
+    "question": "题干描述：蒲黄入汤剂，其用法是\n选项A：先煎\n选项B：后下\n选项C：冲服\n选项D：布包煎\n选项E：久煎",
+    "correct_answer": "D",
+    "model_answer": "选项D：布包煎",
+    "is_correct": false
+  },
+  {
+    "question_number": 361,
+    "category": "针灸学",
+    "question": "题干描述：治疗耳聋实证，应选用以下哪组经脉为主\n选项A：足少阴、手太阳经穴\n选项B：足少阳、手少阳经穴\n选项C：足少阴、手少阴经穴\n选项D：足少阳、手少阴经穴\n选项E：足少阴、手少阳经穴",
+    "correct_answer": "B",
+    "model_answer": "C、足少阴、手少阴经穴",
+    "is_correct": false
+  },
+  {
+    "question_number": 362,
+    "category": "中医内科",
+    "question": "题干描述：热哮病的代表方宜选用\n选项A：射干麻黄汤\n选项B：定喘汤\n选项C：小青龙汤加石膏汤\n选项D：三子养亲汤\n选项E：平喘固本汤",
+    "correct_answer": "B",
+    "model_answer": "A: 射干麻黄汤",
+    "is_correct": false
+  },
+  {
+    "question_number": 363,
+    "category": "针灸学",
+    "question": "题干描述：善于治疗遗精阳痿小便频数等肾阳不足病证的腧穴是\n选项A：风府\n选项B：上星\n选项C：志室\n选项D：命门\n选项E：哑门",
+    "correct_answer": "D",
+    "model_answer": "选项D：命门",
+    "is_correct": false
+  },
+  {
+    "question_number": 364,
+    "category": "中药学",
+    "question": "题干描述：治疗温病伤阴，夜热早凉，青蒿最宜配伍的药物是\n选项A：地骨皮\n选项B：鳖甲\n选项C：银柴胡\n选项D：龟甲\n选项E：羚羊角",
+    "correct_answer": "B",
+    "model_answer": "选项A：地骨皮",
+    "is_correct": false
+  },
+  {
+    "question_number": 365,
+    "category": "针灸学",
+    "question": "题干描述：手少阳三焦经的输穴是\n选项A：中渚\n选项B：天井\n选项C：支沟\n选项D：液门\n选项E：三间",
+    "correct_answer": "A",
+    "model_answer": "选项A：中渚",
+    "is_correct": false
+  },
+  {
+    "question_number": 366,
+    "category": "针灸学",
+    "question": "题干描述：治疗寒湿型泄泻，除主穴外，应加用\n选项A：内庭\n选项B：中脘\n选项C：神阙\n选项D：太冲\n选项E：脾俞",
+    "correct_answer": "C",
+    "model_answer": "C、神阙",
+    "is_correct": false
+  },
+  {
+    "question_number": 367,
+    "category": "中医诊断学",
+    "question": "题干描述：以下哪项不是脉有胃气的表现\n选项A：来去从容\n选项B：节律一致\n选项C：不疾不徐\n选项D：不浮不沉\n选项E：尺脉有力",
+    "correct_answer": "E",
+    "model_answer": "选项E：尺脉有力 是脉有胃气的表现之一。因此，这个选项是错误的。其他选项A、B、C、D都是脉有胃气的正常表现。",
+    "is_correct": false
+  },
+  {
+    "question_number": 368,
+    "category": "中医诊断学",
+    "question": "题干描述：邪热壅肺证的治法是",
+    "correct_answer": "C",
+    "model_answer": "A. 清热解毒\nB. 消瘀散风\nC. 利气平胃\nD. 润肺止咳",
+    "is_correct": false
+  },
+  {
+    "question_number": 369,
+    "category": "中医内科",
+    "question": "题干描述：阳虚型便秘，治疗首选\n选项A：黄芪汤\n选项B：济川煎\n选项C：化肝煎\n选项D：木香顺气散\n选项E：六磨汤",
+    "correct_answer": "B",
+    "model_answer": "A: 黄芪汤",
+    "is_correct": false
+  },
+  {
+    "question_number": 370,
+    "category": "中医基础理论",
+    "question": "题干描述：“血之余”是指\n选项A：发\n选项B：爪\n选项C：毛\n选项D：唇\n选项E：面",
+    "correct_answer": "A",
+    "model_answer": "选项D：唇",
+    "is_correct": false
+  },
+  {
+    "question_number": 371,
+    "category": "中医外科",
+    "question": "题干描述：适宜采用硬化注射疗法的是\n选项A：内痔\n选项B：外痔\n选项C：肛乳头肥大\n选项D：肛漏\n选项E：锁肛痔",
+    "correct_answer": "A",
+    "model_answer": "A、内痔\nD、肛漏\nE、锁肛痔 (这些病症需要其他治疗方法)",
+    "is_correct": false
+  },
+  {
+    "question_number": 372,
+    "category": "中医外科",
+    "question": "题干描述：下列哪种疾病无脱垂症状\n选项A：Ⅱ期内痔\n选项B：肛裂\n选项C：混合痔\n选项D：息肉痔\n选项E：脱肛",
+    "correct_answer": "B",
+    "model_answer": "选项E：脱肛 无脱垂症状。",
+    "is_correct": false
+  },
+  {
+    "question_number": 373,
+    "category": "中医内科",
+    "question": "题干描述：治疗痰热郁肺咳嗽的主方是\n选项A：桑菊饮\n选项B：麻杏石甘汤\n选项C：泻白散\n选项D：清金化痰汤\n选项E：清肺汤",
+    "correct_answer": "D",
+    "model_answer": "选项D：清金化痰汤",
+    "is_correct": false
+  },
+  {
+    "question_number": 374,
+    "category": "中医诊断学",
+    "question": "题干描述：咽喉淡红不肿，微痛多为\n选项A：肺胃热盛\n选项B：虚火上炎\n选项C：肺胃热毒\n选项D：风热痰火",
+    "correct_answer": "B",
+    "model_answer": "根据题干描述，咽喉淡红不肿，微痛多为，可能是风热痰火（选项D）。这种症状通常表示咽喉中有热气和痰液混合，导致咽喉酸痛、发热等症状。但是，需要进一步诊断确定具体病因，例如是否有肺部感染或其他原因引起的。",
+    "is_correct": false
+  },
+  {
+    "question_number": 375,
+    "category": "中药学",
+    "question": "题干描述：西洋参入汤剂宜\n选项A：先煎\n选项B：后下\n选项C：包煎\n选项D：另煎\n选项E：烊化",
+    "correct_answer": "D",
+    "model_answer": "A、先煎或C、包煎这两种方法都可以，但是一般来说，西洋参入汤剂更多地使用的是先煎的方法。",
+    "is_correct": false
+  },
+  {
+    "question_number": 376,
+    "category": "中医内科",
+    "question": "题干描述：胁痛的基本病机为\n选项A：气滞血瘀\n选项B：肝郁气滞\n选项C：湿热内蕴\n选项D：肝络失和\n选项E：以上都不是",
+    "correct_answer": "D",
+    "model_answer": "选项A：气滞血瘀",
+    "is_correct": false
+  },
+  {
+    "question_number": 377,
+    "category": "中药学",
+    "question": "题干描述：既能够治疗血虚诸证，又能用于女子月经不调、经闭、痛经的药物是\n选项A：桃仁\n选项B：红花\n选项C：当归\n选项D：白芍\n选项E：何首乌",
+    "correct_answer": "C",
+    "model_answer": "选项C：当归",
+    "is_correct": false
+  },
+  {
+    "question_number": 378,
+    "category": "中药学",
+    "question": "题干描述：山药的功效是\n选项A：补气升阳，益卫固表\n选项B：大补元气，补脾益肺\n选项C：补气健脾，燥湿利水\n选项D：益气养阴，补脾肺肾\n选项E：补气养阴，清火生津",
+    "correct_answer": "D",
+    "model_answer": "A、补气升阳，益卫固表",
+    "is_correct": false
+  },
+  {
+    "question_number": 379,
+    "category": "中医诊断学",
+    "question": "题干描述：下列各项中，属于郑声的是\n选项A：神识不清，语无伦次，声高有力的症状\n选项B：神识清楚，语言错乱，语后自知的症状\n选项C：自言自语，喃喃不休，见人语止，首尾不续的症状\n选项D：精神错乱，语无伦次，狂叫骂詈，登高而歌的症状\n选项E：神识不清，语言重复，时断时续，语声低弱模糊的症状",
+    "correct_answer": "E",
+    "model_answer": "A、神识不清，语无伦次，声高有力的症状",
+    "is_correct": false
+  },
+  {
+    "question_number": 380,
+    "category": "中药学",
+    "question": "题干描述：具有发散风热升阳功效的药物是\n选项A：柴胡、葛根、升麻\n选项B：薄荷、蝉蜕、牛蒡子\n选项C：羌活、防风、藁本\n选项D：白芷、苍耳子、辛夷\n选项E：桑叶、菊花、蔓荆子",
+    "correct_answer": "A",
+    "model_answer": "A、柴胡、葛根、升麻",
+    "is_correct": false
+  },
+  {
+    "question_number": 381,
+    "category": "针灸学",
+    "question": "题干描述：以下哪项不是中风发生的主要病因\n选项A：风\n选项B：火\n选项C：痰\n选项D：湿\n选项E：瘀",
+    "correct_answer": "D",
+    "model_answer": "E: 瘀",
+    "is_correct": false
+  },
+  {
+    "question_number": 382,
+    "category": "中药学",
+    "question": "题干描述：下列病症除哪项外，均可用防风治疗\n选项A：外感风寒，头身疼痛\n选项B：风寒湿痹，肢体疼痛\n选项C：风疹瘙痒\n选项D：湿热痹证，痉厥抽搐\n选项E：破伤风症，角弓反张",
+    "correct_answer": "D",
+    "model_answer": "D: 湿热痹证，痉厥抽搐 不可用防风治疗。因为湿热痹证和防风属于互为逆病的两种病候，所以不能使用同一类药物进行治疗。",
+    "is_correct": false
+  },
+  {
+    "question_number": 383,
+    "category": "中药学",
+    "question": "题干描述：阴虚火旺、肺肾阴虚所致盗汗、骨蒸潮热、心烦等证，宜选用的药物是\n选项A：天花粉、沙参\n选项B：生石膏、黄柏\n选项C：黄柏、知母\n选项D：黄芩、地骨皮\n选项E：牡丹皮、桑白皮",
+    "correct_answer": "C",
+    "model_answer": "选项A：天花粉、沙参",
+    "is_correct": false
+  },
+  {
+    "question_number": 384,
+    "category": "中医内科",
+    "question": "题干描述：痴呆的基本病机为\n选项A：心气虚衰，心血不足\n选项B：以虚为本，虚实夹杂\n选项C：气机不畅，血行瘀滞\n选项D：肾精亏损，痰蒙清窍\n选项E：髓减脑消，神机失用",
+    "correct_answer": "E",
+    "model_answer": "选项B：以虚为本，虚实夹杂",
+    "is_correct": false
+  },
+  {
+    "question_number": 385,
+    "category": "中医儿科学",
+    "question": "题干描述：患儿，5岁。诊断为传染性单核细胞增多症。症见发热，咳嗽，少汗，咽红肿痛，口微干，舌边尖红，苔薄白，脉浮数。治疗应首选的方剂是\n选项A：桑菊饮\n选项B：银翘散\n选项C：新加香薷饮\n选项D：藿朴夏苓汤\n选项E：清瘟败毒饮",
+    "correct_answer": "B",
+    "model_answer": "选项B：银翘散",
+    "is_correct": false
+  },
+  {
+    "question_number": 386,
+    "category": "中医儿科学",
+    "question": "题干描述：下列病机中，不属于胎黄病机的是\n选项A：脾胃湿热\n选项B：寒湿内蕴\n选项C：肺失通调\n选项D：肝失疏泄\n选项E：气滞血瘀",
+    "correct_answer": "C",
+    "model_answer": "D：肝失疏泄",
+    "is_correct": false
+  },
+  {
+    "question_number": 387,
+    "category": "中药学",
+    "question": "题干描述：川芎不宜治疗的头痛是\n选项A：风寒头痛\n选项B：瘀血头痛\n选项C：风湿头痛\n选项D：血虚头痛\n选项E：肝阳头痛",
+    "correct_answer": "E",
+    "model_answer": "选项A：风寒头痛不是川芎不宜治疗的头痛。川芎可以治疗风寒头痛。\n选项B、C、D、E 则是川芎不宜治疗的头痛之一，具体取决于病人的综合情况和辨证法判断。",
+    "is_correct": false
+  },
+  {
+    "question_number": 388,
+    "category": "中医外科",
+    "question": "题干描述：患者头面部皮肤突然发红成片色如涂丹的急性感染性疾病称\n选项A：内发丹毒\n选项B：赤游风\n选项C：流火\n选项D：抱头火丹\n选项E：类丹毒",
+    "correct_answer": "D",
+    "model_answer": "选项D：抱头火丹",
+    "is_correct": false
+  },
+  {
+    "question_number": 389,
+    "category": "中药学",
+    "question": "题干描述：吴茱萸尤善于治疗的病证是\n选项A：寒疝腹痛\n选项B：寒凝冷痛\n选项C：风湿痹痛\n选项D：脘腹冷痛\n选项E：虫积腹痛",
+    "correct_answer": "B",
+    "model_answer": "D、脘腹冷痛",
+    "is_correct": false
+  },
+  {
+    "question_number": 390,
+    "category": "针灸学",
+    "question": "题干描述：合穴多位于\n选项A：指、趾末端\n选项B：肘膝关节附近\n选项C：掌指、跖趾关节附近\n选项D：掌指、跖趾关节之前\n选项E：掌指、跖趾关节之后",
+    "correct_answer": "B",
+    "model_answer": "选项C：掌指、跖趾关节附近",
+    "is_correct": false
+  },
+  {
+    "question_number": 391,
+    "category": "中医儿科学",
+    "question": "题干描述：培元补肾法常用于治疗\n选项A：五迟五软\n选项B：肺炎喘嗽\n选项C：幼儿急疹\n选项D：手足口病\n选项E：脐血脐突",
+    "correct_answer": "A",
+    "model_answer": "A、五迟五软",
+    "is_correct": false
+  },
+  {
+    "question_number": 392,
+    "category": "中医外科",
+    "question": "题干描述：热疮阴虚内热证方选\n选项A：辛夷清肺饮\n选项B：龙胆泻肝汤\n选项C：增液汤\n选项D：八珍汤\n选项E：四妙勇安汤",
+    "correct_answer": "C",
+    "model_answer": "根据热疮阴虚内热证方的描述，不适合使用四妙勇安汤（选项E），因为该药方主要是清热解毒、降血压等功能，与此证不相符。\n\n根据热疮阴虚内热证的特点，需要调和肝脾两阳，消除内热，润肺阴，因此适合选择：\n\n选项C：增液汤（增液汤主要是调和肝脾两阳、消除内热、润肺阴等功能）。\n\n选项B：龙胆泻肝汤（虽然可以消除内热，但主要是清肝、降血压等功能，与此证不相符）。\n\n选项A：辛夷清肺饮（虽然可以润肺阴，但主要是清热解毒等功能，与此证不相符）。\n\n选项D：八珍汤（主要是补血、养阳等功能，与此证不相符）。",
+    "is_correct": false
+  },
+  {
+    "question_number": 393,
+    "category": "中医内科",
+    "question": "题干描述：治疗痰饮的主要原则是\n选项A：清热\n选项B：化痰\n选项C：利水\n选项D：温化\n选项E：逐饮",
+    "correct_answer": "D",
+    "model_answer": "选项B、化痰。治疗痰饮的主要原则是化痰，以解除阻塞并清除痰液。",
+    "is_correct": false
+  },
+  {
+    "question_number": 394,
+    "category": "中医内科",
+    "question": "题干描述：治疗肺痿之肾虚血瘀证，应首选的方剂是\n选项A：麻黄升麻汤\n选项B：甘草干姜汤\n选项C：清燥救肺汤\n选项D：七味都气丸合柴胡疏肝散\n选项E：麦门冬汤",
+    "correct_answer": "D",
+    "model_answer": "选项A：麻黄升麻汤",
+    "is_correct": false
+  },
+  {
+    "question_number": 395,
+    "category": "中医内科",
+    "question": "题干描述：肺痿上热下寒证的治疗方剂是\n选项A：清金化痰汤\n选项B：麻黄升麻汤\n选项C：小青龙汤\n选项D：泻白散\n选项E：麦门冬汤",
+    "correct_answer": "B",
+    "model_answer": "选项B：麻黄升麻汤",
+    "is_correct": false
+  },
+  {
+    "question_number": 396,
+    "category": "中医内科",
+    "question": "题干描述：脘腹痞满不舒，胸膈满闷，头晕目眩，身重困倦，呕恶纳呆，口淡不渴，小便不利，舌苔白厚腻，脉沉滑。证属\n选项A：痞满饮食内停证\n选项B：痞满痰湿中阻证\n选项C：痞满湿热阻胃证\n选项D：痞满肝胃不和证\n选项E：痞满胃阴不足证",
+    "correct_answer": "B",
+    "model_answer": "选项A：痞满饮食内停证",
+    "is_correct": false
+  },
+  {
+    "question_number": 397,
+    "category": "中医儿科学",
+    "question": "题干描述：患儿，7岁。咳嗽喘促3小时。证见恶寒发热，咳嗽，喘促气急，喉间痰鸣，鼻塞，流清涕，咯痰黄稠，烦躁，口渴，大便干，舌红，苔白，脉浮紧。治疗首选方\n选项A：麻黄汤\n选项B：华盖散\n选项C：麻杏石甘汤\n选项D：大青龙汤\n选项E：小青龙汤",
+    "correct_answer": "D",
+    "model_answer": "根据患儿7岁的年龄、证诊为恶寒发热、咳嗽、喘促气急、喉间痰鸣、鼻塞、流清涕、咯痰黄稠、烦躁、口渴、大便干、舌红、苔白、脉浮紧，首选治疗方案为：\n\n选项C：麻杏石甘汤",
+    "is_correct": false
+  },
+  {
+    "question_number": 398,
+    "category": "中医儿科学",
+    "question": "题干描述：小儿水肿水凌心肺证的治法是\n选项A：辛开苦降，辟秽解毒\n选项B：益气健脾，利水消肿\n选项C：平肝潜阳，泻肺逐水\n选项D：温阳逐水，泻肺宁心\n选项E：健脾益气，化气行水",
+    "correct_answer": "D",
+    "model_answer": "选项B：益气健脾，利水消肿",
+    "is_correct": false
+  },
+  {
+    "question_number": 399,
+    "category": "中医儿科学",
+    "question": "题干描述：治疗风疹邪入气营证的首选方剂是\n选项A：透疹凉解汤\n选项B：凉营清气汤\n选项C：宣毒发表汤\n选项D：甘露消毒丹\n选项E：银翘散",
+    "correct_answer": "A",
+    "model_answer": "选项B：凉营清气汤",
+    "is_correct": false
+  },
+  {
+    "question_number": 400,
+    "category": "中医基础理论",
+    "question": "题干描述：“在液为泪”的脏是\n选项A：肝\n选项B：心\n选项C：脾\n选项D：肺\n选项E：肾",
+    "correct_answer": "A",
+    "model_answer": "选项D：肺",
+    "is_correct": false
+  },
+  {
+    "question_number": 401,
+    "category": "中医儿科学",
+    "question": "题干描述：抽动障碍的病位主要在\n选项A：心\n选项B：肝\n选项C：脾\n选项D：肺\n选项E：肾",
+    "correct_answer": "B",
+    "model_answer": "选项B：肝",
+    "is_correct": false
+  },
+  {
+    "question_number": 402,
+    "category": "中医儿科学",
+    "question": "题干描述：患儿，1岁。泄泻时轻时重，已经3月，大便清稀无臭，夹不消化食物，有时便后脱肛，形寒肢冷，精神萎靡，指纹色淡。治疗应首选\n选项A：异功散合平胃散\n选项B：保和丸合二陈汤\n选项C：参苓白术散合理中丸\n选项D：附子理中汤合四神丸\n选项E：金匮肾气丸合人参乌梅汤",
+    "correct_answer": "D",
+    "model_answer": "选项C：参苓白术散合理中丸",
+    "is_correct": false
+  },
+  {
+    "question_number": 403,
+    "category": "针灸学",
+    "question": "题干描述：督脉的主治特点是\n选项A：肝、脾、肾病\n选项B：回阳、固脱、强壮作用\n选项C：后头、肩胛病，神志病\n选项D：中风、昏迷、热病、头面病\n选项E：前头、口齿、咽喉病，胃肠病",
+    "correct_answer": "D",
+    "model_answer": "B: 回阳、固脱、强壮作用",
+    "is_correct": false
+  },
+  {
+    "question_number": 404,
+    "category": "中医外科",
+    "question": "题干描述：男子乳头与乳房分属于哪条经脉\n选项A：肝、肾\n选项B：肝、脾\n选项C：肝、胃\n选项D：脾、肾\n选项E：脾、胃",
+    "correct_answer": "A",
+    "model_answer": "A、肝",
+    "is_correct": false
+  },
+  {
+    "question_number": 405,
+    "category": "中药学",
+    "question": "题干描述：下列哪项不是山豆根的功效\n选项A：清肺热\n选项B：利咽喉\n选项C：活血化瘀\n选项D：消肿止痛\n选项E：清热解毒",
+    "correct_answer": "C",
+    "model_answer": "E: 清热解毒 这不是山豆根的功效，山豆根主要用于活血化瘀、消肿止痛等方面。",
+    "is_correct": false
+  },
+  {
+    "question_number": 406,
+    "category": "中药学",
+    "question": "题干描述：砒石内服可用于治疗\n选项A：祛痰平喘\n选项B：攻毒杀虫\n选项C：蚀疮去腐\n选项D：收湿止痒\n选项E：清热解毒",
+    "correct_answer": "A",
+    "model_answer": "A、祛痰平喘",
+    "is_correct": false
+  },
+  {
+    "question_number": 407,
+    "category": "中药学",
+    "question": "题干描述：菟丝子除能补肾益精外，还具有的功效是\n选项A：行血脉\n选项B：托疮毒\n选项C：润肠燥\n选项D：敛汗",
+    "correct_answer": "D",
+    "model_answer": "选项C、润肠燥。菟丝子在中医学中被认为能够润肠燥湿，有利于治疗咳嗽、呕吐等因湿热导致的症状。",
+    "is_correct": false
+  },
+  {
+    "question_number": 408,
+    "category": "中医诊断学",
+    "question": "题干描述：虚里搏动数急而时有一止者是\n选项A：宗气内虚\n选项B：饮停心包\n选项C：心阳不足\n选项D：宗气不守\n选项E：心肺气绝",
+    "correct_answer": "D",
+    "model_answer": "根据题干描述，\"虚里搏动数急而时有一止者\"是一种表现为虚弱和搏动的症状，且有时间上的停顿。这种情况最接近选项A：宗气内虚。因此，选项A是正确答案。\n\n选项B、C、D和E描述的症状与题干描述不符合，因此它们都不是正确答案。\n\n选项B：饮停心包，描述了心脏搏动变慢或跳动不规律的情况。\n选项C：心阳不足，描述了心脏不足以供应血液的情况。\n选项D：宗气不守，描述了宗气失去控制心、肺和胃等内部器官的情况。\n选项E：心肺气绝，描述了心脏和肺部无法供应血液的情况。",
+    "is_correct": false
+  },
+  {
+    "question_number": 409,
+    "category": "方剂学",
+    "question": "题干描述：左归丸和右归丸两方的组成药物中均含有\n选项A：山茱萸\n选项B：炮附子\n选项C：炮附子\n选项D：枸杞子\n选项E：鹿角胶",
+    "correct_answer": "D",
+    "model_answer": "选项A、C：山茱萸和炮附子都是左归丸和右归丸两方的组成药物。选项D：枸杞子不是左归丸和右归丸的组成药物，选项E：鹿角胶则不是这两方的组成药物。",
+    "is_correct": false
+  },
+  {
+    "question_number": 410,
+    "category": "中医内科",
+    "question": "题干描述：汗证，阴虚火旺证的最佳选方是\n选项A：百合固金汤\n选项B：知柏地黄丸\n选项C：天王补心丹\n选项D：当归六黄汤\n选项E：滋水清肝饮",
+    "correct_answer": "D",
+    "model_answer": "选项A：百合固金汤",
+    "is_correct": false
+  },
+  {
+    "question_number": 411,
+    "category": "针灸学",
+    "question": "题干描述：崩漏的发生主要与哪些经脉有关\n选项A：肝经、肾经\n选项B：肝经、脾经\n选项C：任脉、带脉\n选项D：任脉、冲脉\n选项E：任脉、督脉",
+    "correct_answer": "D",
+    "model_answer": "A: 肝经、肾经",
+    "is_correct": false
+  },
+  {
+    "question_number": 412,
+    "category": "中药学",
+    "question": "题干描述：蒲黄的功效是\n选项A：炒炭用收敛止血，生用止血化瘀\n选项B：炒炭用收敛止血，生用祛风解表\n选项C：炒炭用凉血止血，生用清热杀虫\n选项D：炒炭用凉血止血，生用养阴生津\n选项E：炒炭用凉血止血，生用化瘀止血",
+    "correct_answer": "A",
+    "model_answer": "A、 炒炭用收敛止血，生用止血化瘀",
+    "is_correct": false
+  },
+  {
+    "question_number": 413,
+    "category": "中医外科",
+    "question": "题干描述：主要含神经毒的毒蛇是\n选项A：银环蛇\n选项B：眼镜王蛇\n选项C：烙铁头蛇\n选项D：尖吻蝮蛇\n选项E：竹叶青蛇",
+    "correct_answer": "A",
+    "model_answer": "A、银环蛇",
+    "is_correct": false
+  },
+  {
+    "question_number": 414,
+    "category": "中医基础理论",
+    "question": "题干描述：属于“子病犯母”的脏病传变是\n选项A：心病及肝\n选项B：心病及脾\n选项C：心病及肺\n选项D：心病及肾\n选项E：肝病及肺",
+    "correct_answer": "A",
+    "model_answer": "选项A：心病及肝",
+    "is_correct": false
+  },
+  {
+    "question_number": 415,
+    "category": "中医儿科学",
+    "question": "题干描述：下列表现中，属于生理性胎黄的是\n选项A：生后24小时出现黄疸\n选项B：足月儿在出生后2周消退\n选项C：黄疸消退后复现\n选项D：黄疸持续3周以上\n选项E：血清总胆红素300μmol／L",
+    "correct_answer": "B",
+    "model_answer": "D、 yellow jaundice persisting for more than three weeks. In traditional Chinese medicine, this condition is often associated with liver qi stagnation or damp-heat accumulation. Treatment may involve acupuncture, herbal remedies, and dietary adjustments to help promote the smooth flow of qi and clear heat and dampness from the body.",
+    "is_correct": false
+  },
+  {
+    "question_number": 416,
+    "category": "中医儿科学",
+    "question": "题干描述：佝偻病的基本治疗原则是\n选项A：健脾养血\n选项B：益气温阳\n选项C：固表止汗\n选项D：平肝潜阳\n选项E：调补脾肾",
+    "correct_answer": "E",
+    "model_answer": "选项A：健脾养血",
+    "is_correct": false
+  },
+  {
+    "question_number": 417,
+    "category": "中医儿科学",
+    "question": "题干描述：患儿，女，6岁，时有尿频，小便清长，每晚尿床1次以上，面白少华，神疲乏力，肢冷畏寒，舌淡，苔白滑，脉沉无力。应诊断为\n选项A：尿频，脾肾气虚\n选项B：遗尿，肾气不足\n选项C：遗尿，脾肾气虚\n选项D：尿频，脾肾阳虚\n选项E：遗尿，肺脾气虚",
+    "correct_answer": "B",
+    "model_answer": "选项C：遗尿，脾肾气虚",
+    "is_correct": false
+  },
+  {
+    "question_number": 418,
+    "category": "中药学",
+    "question": "题干描述：常用于治疗五更泄泻的药物是\n选项A：丁香\n选项B：附子\n选项C：干姜\n选项D：吴茱萸\n选项E：小茴香",
+    "correct_answer": "D",
+    "model_answer": "选项B：附子",
+    "is_correct": false
+  },
+  {
+    "question_number": 419,
+    "category": "针灸学",
+    "question": "题干描述：以上哪项属于补虚泻实的治疗原则\n选项A：陷下则灸之\n选项B：热则疾之\n选项C：寒则留之\n选项D：标本同治\n选项E：三因制宜",
+    "correct_answer": "A",
+    "model_answer": "A: 陷下则灸之\n\n这个选项属于补虚泻实的治疗原则，因为 \"陷下\" 表示脾胃虚弱，导致身体内部不利，需要通过灸疗来补充气血。",
+    "is_correct": false
+  },
+  {
+    "question_number": 420,
+    "category": "中医基础理论",
+    "question": "题干描述：营气的分布特点是\n选项A：上出息道，下走气街\n选项B：熏于肓膜，散于胸腹\n选项C：与血同行，环周不休\n选项D：行于脉外，布散全身\n选项E：通过三焦，流行全身",
+    "correct_answer": "C",
+    "model_answer": "选项A：上出息道，下走气街",
+    "is_correct": false
+  },
+  {
+    "question_number": 421,
+    "category": "中医内科",
+    "question": "题干描述：治疗肝火犯肺型咳嗽的代表方剂是\n选项A：二陈汤合三子养亲汤\n选项B：清金化痰汤\n选项C：桑杏汤\n选项D：黛蛤散合加减泻白散\n选项E：三拗汤合止嗽散",
+    "correct_answer": "D",
+    "model_answer": "选项D：黛蛤散合加减泻白散",
+    "is_correct": false
+  },
+  {
+    "question_number": 422,
+    "category": "中医儿科学",
+    "question": "题干描述：乳蛾肺胃阴虚证应首选的方剂是\n选项A：银翘马勃散\n选项B：牛蒡甘桔汤\n选项C：养阴清肺汤\n选项D：普济消毒饮\n选项E：荆防败毒散",
+    "correct_answer": "C",
+    "model_answer": "C、养阴清肺汤",
+    "is_correct": false
+  },
+  {
+    "question_number": 423,
+    "category": "中医诊断学",
+    "question": "题干描述：脾肾亏虚多见\n选项A：横目斜视\n选项B：昏睡露睛\n选项C：瞳孔散大\n选项D：瞳孔缩小\n选项E：双睑下垂",
+    "correct_answer": "E",
+    "model_answer": "D、瞳孔缩小",
+    "is_correct": false
+  },
+  {
+    "question_number": 424,
+    "category": "中药学",
+    "question": "题干描述：善于治疗肝阳上亢兼小便不利的药物是\n选项A：天麻\n选项B：羚羊角\n选项C：代赭石\n选项D：罗布麻\n选项E：牡蛎",
+    "correct_answer": "D",
+    "model_answer": "选项A：天麻",
+    "is_correct": false
+  },
+  {
+    "question_number": 425,
+    "category": "中医儿科学",
+    "question": "题干描述：患儿，2岁。发热咳嗽3天。证见发热，无汗，呛咳不爽，呼吸气急，痰声重浊，咽不红，舌淡红，苔薄白，指纹浮红。其证候是\n选项A：风寒郁肺\n选项B：风热闭肺\n选项C：痰热闭肺\n选项D：肺脾气虚\n选项E：阴虚肺热",
+    "correct_answer": "A",
+    "model_answer": "选项C：痰热闭肺",
+    "is_correct": false
+  },
+  {
+    "question_number": 426,
+    "category": "中医内科",
+    "question": "题干描述：治疗水肿水湿浸渍证的首选方是\n选项A：五皮饮合胃苓汤\n选项B：麻黄连翘赤小豆汤合五味消毒饮\n选项C：越婢加术汤\n选项D：疏凿饮子\n选项E：实脾饮",
+    "correct_answer": "A",
+    "model_answer": "选项A：五皮饮合胃苓汤",
+    "is_correct": false
+  },
+  {
+    "question_number": 427,
+    "category": "中医基础理论",
+    "question": "题干描述：导致湿浊内生的病因是\n选项A：脾失健运\n选项B：膀胱失司\n选项C：肺失宣降\n选项D：三焦气化失司\n选项E：肾的气化功能减退",
+    "correct_answer": "A",
+    "model_answer": "D、三焦气化失司",
+    "is_correct": false
+  },
+  {
+    "question_number": 428,
+    "category": "中医外科",
+    "question": "题干描述：毛细血管瘤最显著的特点是\n选项A：边界不清\n选项B：瘤体巨大\n选项C：质地坚硬\n选项D：压缩性大\n选项E：皮色鲜红",
+    "correct_answer": "E",
+    "model_answer": "A、边界不清",
+    "is_correct": false
+  },
+  {
+    "question_number": 429,
+    "category": "针灸学",
+    "question": "题干描述：以下哪项不是神门穴的主治病证\n选项A：心痛、惊悸\n选项B：健忘、失眠\n选项C：高血压\n选项D：胸胁痛\n选项E：呕血、衄血",
+    "correct_answer": "E",
+    "model_answer": "E: 呕血、衄血",
+    "is_correct": false
+  },
+  {
+    "question_number": 430,
+    "category": "中医基础理论",
+    "question": "题干描述：用寒远寒，用热远热属于\n选项A：扶正祛邪\n选项B：因地制宜\n选项C：因人制宜\n选项D：因时制宜\n选项E：未病先防",
+    "correct_answer": "D",
+    "model_answer": "选项D：因时制宜",
+    "is_correct": false
+  },
+  {
+    "question_number": 431,
+    "category": "中医内科",
+    "question": "题干描述：消渴病，口渴引饮，能食与便溏并见，精神不振，四肢乏力，舌质淡，苔白而干，脉弱。宜选上述何方加减治疗\n选项A：消渴方\n选项B：玉女煎\n选项C：七味白术散\n选项D：六味地黄丸\n选项E：金匮肾气丸",
+    "correct_answer": "C",
+    "model_answer": "选项C：七味白术散",
+    "is_correct": false
+  },
+  {
+    "question_number": 432,
+    "category": "中医儿科学",
+    "question": "题干描述：在风疹易感儿群集的地方，须适当隔离，可隔离至出疹后\n选项A：3天\n选项B：5天\n选项C：7天\n选项D：9天\n选项E：14天",
+    "correct_answer": "B",
+    "model_answer": "选项E：14天",
+    "is_correct": false
+  },
+  {
+    "question_number": 433,
+    "category": "中医儿科学",
+    "question": "题干描述：男孩，10岁。身体消瘦，上课注意力不能集中，多动而不暴躁，言语冒失，做事有头无尾，睡眠不实，记忆力差，伴自汗盗汗，偏食纳少，面色无华，舌质淡，苔薄白，脉虚弱。治疗应首选方剂是\n选项A：八珍汤\n选项B：二陈汤合黄连温胆汤\n选项C：杞菊地黄丸\n选项D：孔圣枕中丹\n选项E：归脾汤合甘麦大枣汤",
+    "correct_answer": "E",
+    "model_answer": "选项B：二陈汤合黄连温胆汤",
+    "is_correct": false
+  },
+  {
+    "question_number": 434,
+    "category": "中医基础理论",
+    "question": "题干描述：六腑共同的生理特点是\n选项A：运化和调节血量\n选项B：疏泄和防止出血\n选项C：化生和贮藏精气\n选项D：受盛和传化水谷\n选项E：藏神和血液运行",
+    "correct_answer": "D",
+    "model_answer": "选项A：运化和调节血量",
+    "is_correct": false
+  },
+  {
+    "question_number": 435,
+    "category": "中医基础理论",
+    "question": "题干描述：脾的华为\n选项A：爪\n选项B：面\n选项C：唇\n选项D：毛\n选项E：发",
+    "correct_answer": "C",
+    "model_answer": "A: 爪 (Claws)",
+    "is_correct": false
+  },
+  {
+    "question_number": 436,
+    "category": "中医基础理论",
+    "question": "题干描述：临床常见的心火引动肝火之心肝火旺证，属于\n选项A：相乘传变\n选项B：母病及子\n选项C：相侮传变\n选项D：子病犯母\n选项E：反克传变",
+    "correct_answer": "D",
+    "model_answer": "选项C：相侮传变",
+    "is_correct": false
+  },
+  {
+    "question_number": 437,
+    "category": "方剂学",
+    "question": "题干描述：酸枣仁汤主治证候的病因病机是\n选项A：心脾两虚，气血不足\n选项B：心阳偏亢，心肾不交\n选项C：心肾两亏，阴虚血少\n选项D：肝血不足，虚热内扰\n选项E：心阴不足，肝气失和",
+    "correct_answer": "D",
+    "model_answer": "A、心脾两虚，气血不足",
+    "is_correct": false
+  },
+  {
+    "question_number": 438,
+    "category": "方剂学",
+    "question": "题干描述：大秦艽汤所主证候病因病机是\n选项A：风中经络，气血痹阻\n选项B：湿痰瘀血，痹阻经络\n选项C：风痰阻络，筋肉失养\n选项D：肝阳偏亢，化风上扰\n选项E：热灼真阴，筋脉失濡",
+    "correct_answer": "A",
+    "model_answer": "选项B：湿痰瘀血，痹阻经络",
+    "is_correct": false
+  },
+  {
+    "question_number": 439,
+    "category": "针灸学",
+    "question": "题干描述：治疗腰部冷痛重着，拘挛不可俯仰，舌淡，苔白，脉紧，除阿是穴、大肠俞、委中外，应选取\n选项A：膈俞\n选项B：腰阳关\n选项C：足三里\n选项D：志室\n选项E：悬钟",
+    "correct_answer": "B",
+    "model_answer": "根据描述，腰部冷痛重着、拘挛不可俯仰、舌淡、苔白、脉紧，可能是因为脾胃虚劳导致的。因此，应选择膈俞（CV 12）作为补中益气的点。\n\n选项A、B、C、D、E 都不适用于这种症状的治疗。\n\n* 阿是穴（ST 19）主要用于消除肌肉疼痛和腰部疼痛，但由于描述中没有明确提到这种类型的疼痛，因此不是最佳选择。\n* 大肠俞（CV 17）主要用于治疗咳嗽、呕吐等胸部和腹部的疾病，也可以用于消除脾胃虚劳导致的腰部冷痛，但由于描述中舌淡、苔白、脉紧等表明脾胃虚劳更为突出，因此选择膈俞作为补中益气的点更为适合。\n* 委中外（CV 8）主要用于治疗心脏疾病、咳嗽等疾病，也可以用于消除腰部冷痛，但由于描述中没有明确提到心脏疾病或咳嗽等疾病，因此不是最佳选择。\n* 悬钟（CV 24）主要用于治疗胸部和腹部的疾病，也可以用于消除脾胃虚劳导致的腰部冷痛，但由于描述中没有明确提到胸部和腹部的疾病，因此不是最佳选择。\n* 足三里（ST 36）主要用于补中益气、消除寒邪、消除脾胃虚劳等作用，但由于描述中没有明确提到寒邪或其他类型的邪气，因此不是最佳选择。\n* 膈俞（CV 12）主要用于补中益气、消除脾胃虚劳等作用，并且由于描述中舌淡、苔白、脉紧等表明脾胃虚劳更为突出，因此选择膈俞作为补中益气的点更为适合。",
+    "is_correct": false
+  },
+  {
+    "question_number": 440,
+    "category": "中医诊断学",
+    "question": "题干描述：手足冷痛，肤色紫暗属于\n选项A：血虚证\n选项B：血脱证\n选项C：血热证\n选项D：血寒证\n选项E：血瘀证",
+    "correct_answer": "D",
+    "model_answer": "A: 血虚证",
+    "is_correct": false
+  },
+  {
+    "question_number": 441,
+    "category": "中医内科",
+    "question": "题干描述：疫毒痢的治法是\n选项A：清热和中化湿\n选项B：清热除湿调气\n选项C：清热解毒，凉血除积\n选项D：清热化湿和中\n选项E：温中燥湿调气",
+    "correct_answer": "C",
+    "model_answer": "选项A：清热和中化湿",
+    "is_correct": false
+  },
+  {
+    "question_number": 442,
+    "category": "中医内科",
+    "question": "题干描述：关于痢疾基本病机的叙述中，错误的是\n选项A：血络受伤\n选项B：腐败化为脓血\n选项C：邪滞于肠\n选项D：气血壅滞\n选项E：肠道传化失司",
+    "correct_answer": "A",
+    "model_answer": "选项A：血络受伤 是错误的。痢疾基本病机中，血络不是直接导致痢疾的原因。",
+    "is_correct": false
+  },
+  {
+    "question_number": 443,
+    "category": "中医儿科学",
+    "question": "题干描述：疳证的主要症状有不思乳食，伴见\n选项A：面色少华，精神尚好\n选项B：脘腹胀满，舌苔厚腻\n选项C：形体消瘦，精神萎靡\n选项D：腹痛拒按，嗳气泛酸\n选项E：神疲肢倦，大便不调",
+    "correct_answer": "C",
+    "model_answer": "在这个问题中，疳证的主要症状是不思乳食。根据提供的选项，最符合疳证的症状并没有出现在其中之一，因此无法从A、B、C、D中进行选择。选项E：神疲肢倦，大便不调 可能与疳证相关，但不是主要的症状。",
+    "is_correct": false
+  },
+  {
+    "question_number": 444,
+    "category": "中医内科",
+    "question": "题干描述：风痰闭阻之痫证的治法是\n选项A：涤痰息风，开窍定痫\n选项B：清肝泻火，化痰开窍\n选项C：涤痰开窍，化瘀通络\n选项D：息风开窍，化痰定志\n选项E：化痰通络，镇心安神",
+    "correct_answer": "A",
+    "model_answer": "A、涤痰息风，开窍定痫",
+    "is_correct": false
+  },
+  {
+    "question_number": 445,
+    "category": "中医内科",
+    "question": "题干描述：患者，女性，48岁，有消渴病10年。现症：小便短少，呕恶频作，头晕头痛，腰膝酸软，手足抽搐，舌红，苔黄腻，脉弦细。此病证的诊断是\n选项A：关格肾阳衰微、邪陷心包证\n选项B：关格肝肾阴虚、肝风内动证\n选项C：关格脾肾阳虚、湿浊内蕴证\n选项D：癃闭膀胱湿热证\n选项E：消渴肾阴亏虚证",
+    "correct_answer": "B",
+    "model_answer": "选项E：消渴肾阴亏虚证",
+    "is_correct": false
+  },
+  {
+    "question_number": 446,
+    "category": "中医内科",
+    "question": "题干描述：肺痿的特征性症状是\n选项A：咳大量脓血痰\n选项B：胸胁饱满，咳唾引痛\n选项C：咳吐浊唾涎沫、气短\n选项D：胸部膨满，憋闷如塞\n选项E：咳嗽、咳血、潮热、盗汗",
+    "correct_answer": "C",
+    "model_answer": "选项B：胸胁饱满，咳唾引痛",
+    "is_correct": false
+  },
+  {
+    "question_number": 447,
+    "category": "中医内科",
+    "question": "题干描述：肺痈成痈期应选\n选项A：千金苇茎汤合如金解毒散\n选项B：银翘散\n选项C：葶苈大枣泻肺汤\n选项D：沙参麦冬汤或桔梗杏仁煎\n选项E：加味桔梗汤",
+    "correct_answer": "A",
+    "model_answer": "选项B：银翘散",
+    "is_correct": false
+  },
+  {
+    "question_number": 448,
+    "category": "方剂学",
+    "question": "题干描述：下列各项中，不属于苏子降气汤组成药物的是\n选项A：前胡\n甘草\n选项B：生姜\n苏叶\n选项C：杏仁\n白前\n选项D：半夏\n厚朴\n选项E：当归\n肉桂",
+    "correct_answer": "C",
+    "model_answer": "选项E：肉桂 不属于苏子降气汤组成药物。",
+    "is_correct": false
+  },
+  {
+    "question_number": 449,
+    "category": "中医诊断学",
+    "question": "题干描述：轻取不应，重按始得，举之不足，按之有余为\n选项A：浮脉\n选项B：沉脉\n选项C：迟脉\n选项D：虚脉\n选项E：弱脉",
+    "correct_answer": "B",
+    "model_answer": "B: 沉脉",
+    "is_correct": false
+  },
+  {
+    "question_number": 450,
+    "category": "针灸学",
+    "question": "题干描述：有关阿是穴，叙述不正确的是\n选项A：无固定位置\n选项B：无固定名称\n选项C：又称为压痛点\n选项D：又称为天应穴\n选项E：多数对某些病证有特殊疗效",
+    "correct_answer": "E",
+    "model_answer": "选项A：无固定位置 错误，阿是穴具有固定位置。\n选项B：无固定名称 错误，阿是穴也有固定的名称。\n选项C、D、E：正确，又称为压痛点、天应穴，多数对某些病证有特殊疗效。",
+    "is_correct": false
+  },
+  {
+    "question_number": 451,
+    "category": "中药学",
+    "question": "题干描述：既能固精止带，又能收敛止血的药物是\n选项A：金樱子\n选项B：覆盆子\n选项C：桑螵蛸\n选项D：鸡内金\n选项E：海螵蛸",
+    "correct_answer": "E",
+    "model_answer": "选项B：覆盆子",
+    "is_correct": false
+  },
+  {
+    "question_number": 452,
+    "category": "针灸学",
+    "question": "题干描述：以下哪项不是三阴交穴的主治病证\n选项A：脾胃虚弱证\n选项B：妇产科病证\n选项C：生殖泌尿系统病证\n选项D：心悸、失眠\n选项E：阳虚诸证",
+    "correct_answer": "E",
+    "model_answer": "选项D、心悸、失眠不是三阴交穴的主治病证。三阴交穴（太阳穴、中阳穴和少阳穴）主要用于治疗脾胃虚弱证、妇产科病证以及生殖泌尿系统病证。",
+    "is_correct": false
+  },
+  {
+    "question_number": 453,
+    "category": "中医内科",
+    "question": "题干描述：茵陈术附汤适用于\n选项A：黄疸热重于湿证\n选项B：黄疸湿重于热证\n选项C：黄疸胆腑郁热证\n选项D：黄疸疫毒炽盛证\n选项E：黄疸寒湿阻遏证",
+    "correct_answer": "E",
+    "model_answer": "A、黄疸热重于湿证",
+    "is_correct": false
+  },
+  {
+    "question_number": 454,
+    "category": "针灸学",
+    "question": "题干描述：除近治作用、远治作用外，腧穴的主治特点还包括\n选项A：调和作用\n选项B：特殊作用\n选项C：平衡作用\n选项D：疏通作用\n选项E：扶正作用",
+    "correct_answer": "B",
+    "model_answer": "选项C：平衡作用",
+    "is_correct": false
+  },
+  {
+    "question_number": 455,
+    "category": "中医儿科学",
+    "question": "题干描述：哪些脏腑的功能不足导致立迟、行迟、齿迟、头项软、手软、足软\n选项A：心肝肾\n选项B：肝脾肾\n选项C：心脾肾\n选项D：肝脾\n选项E：心肝脾",
+    "correct_answer": "B",
+    "model_answer": "选项C：心脾肾",
+    "is_correct": false
+  },
+  {
+    "question_number": 456,
+    "category": "中医基础理论",
+    "question": "题干描述：心在液为\n选项A：泪\n选项B：汗\n选项C：涎\n选项D：涕\n选项E：唾",
+    "correct_answer": "B",
+    "model_answer": "D、涕",
+    "is_correct": false
+  },
+  {
+    "question_number": 457,
+    "category": "中药学",
+    "question": "题干描述：石斛的功效是\n选项A：既能养胃生津，又能滋阴清热\n选项B：既能补血益阴，又能滋阴润肺\n选项C：既能补气养阴，又能健脾润肺\n选项D：既能生津养胃，又能滋阴润肺\n选项E：既能柔肝止痛，又能滋阴润肺",
+    "correct_answer": "A",
+    "model_answer": "选项A：既能养胃生津，又能滋阴清热",
+    "is_correct": false
+  },
+  {
+    "question_number": 458,
+    "category": "针灸学",
+    "question": "题干描述：胃经循行未至的部位是\n选项A：膈\n选项B：下齿\n选项C：口\n选项D：目\n选项E：鼻",
+    "correct_answer": "B",
+    "model_answer": "A: 膈",
+    "is_correct": false
+  },
+  {
+    "question_number": 459,
+    "category": "中医基础理论",
+    "question": "题干描述：痰饮痹阻心脉，可见\n选项A：恶心呕吐\n选项B：胸闷气喘\n选项C：肢体麻木\n选项D：胸闷心痛\n选项E：胸胁胀满",
+    "correct_answer": "D",
+    "model_answer": "C、肢体麻木",
+    "is_correct": false
+  },
+  {
+    "question_number": 460,
+    "category": "中医内科",
+    "question": "题干描述：虚劳的预后，与哪些脏腑的关系最密切\n选项A：肺、脾\n选项B：脾、胃\n选项C：肝、肾\n选项D：脾、肾\n选项E：心、肾",
+    "correct_answer": "D",
+    "model_answer": "选项D：脾、肾",
+    "is_correct": false
+  },
+  {
+    "question_number": 461,
+    "category": "中医诊断学",
+    "question": "题干描述：麻疹麻毒外透属于\n选项A：证候相兼\n选项B：虚实真假\n选项C：寒热真假\n选项D：证候错杂\n选项E：证候转化",
+    "correct_answer": "E",
+    "model_answer": "选项D：证候错杂",
+    "is_correct": false
+  },
+  {
+    "question_number": 462,
+    "category": "针灸学",
+    "question": "题干描述：强壮保健要穴是\n选项A：足三里\n选项B：上巨虚\n选项C：下巨虚\n选项D：条口\n选项E：丰隆",
+    "correct_answer": "A",
+    "model_answer": "选项A：足三里",
+    "is_correct": false
+  },
+  {
+    "question_number": 463,
+    "category": "中药学",
+    "question": "题干描述：半夏与陈皮合用可以增强燥湿化痰的作用，属于哪种配伍关系\n选项A：相畏\n选项B：相杀\n选项C：相须\n选项D：相使\n选项E：相恶",
+    "correct_answer": "C",
+    "model_answer": "选项D、相使",
+    "is_correct": false
+  },
+  {
+    "question_number": 464,
+    "category": "中药学",
+    "question": "题干描述：具有清肺止咳功效的利水渗湿药物是\n选项A：海金沙\n选项B：石韦\n选项C：冬葵子\n选项D：灯心草\n选项E：赤小豆",
+    "correct_answer": "B",
+    "model_answer": "选项B：石韦",
+    "is_correct": false
+  },
+  {
+    "question_number": 465,
+    "category": "方剂学",
+    "question": "题干描述：大黄牡丹汤的组成中含有药物是\n选项A：大黄\n选项B：桃仁\n选项C：大黄\n选项D：赤芍\n选项E：大黄",
+    "correct_answer": "B",
+    "model_answer": "A、大黄",
+    "is_correct": false
+  },
+  {
+    "question_number": 466,
+    "category": "中医内科",
+    "question": "题干描述：肺胀宜用真武汤合五苓散治疗的证候是\n选项A：阳虚水泛证\n选项B：痰蒙神窍证\n选项C：痰浊壅肺证\n选项D：肺肾气虚证\n选项E：外寒内饮证",
+    "correct_answer": "A",
+    "model_answer": "选项B：痰蒙神窍证",
+    "is_correct": false
+  },
+  {
+    "question_number": 467,
+    "category": "中医诊断学",
+    "question": "题干描述：风热袭表所致表热证的脉象是\n选项A：浮紧\n选项B：浮数\n选项C：浮缓\n选项D：滑数\n选项E：洪数",
+    "correct_answer": "B",
+    "model_answer": "A: 浮紧",
+    "is_correct": false
+  },
+  {
+    "question_number": 468,
+    "category": "方剂学",
+    "question": "题干描述：补中益气汤功用是\n选项A：益气补血，健脾温阳\n选项B：健脾益气，养胃和中\n选项C：健脾养胃，渗湿和中\n选项D：补中健脾，升阳举陷\n选项E：补中健脾，渗湿止泻",
+    "correct_answer": "D",
+    "model_answer": "选项B：健脾益气，养胃和中",
+    "is_correct": false
+  },
+  {
+    "question_number": 469,
+    "category": "中医内科",
+    "question": "题干描述：患者心胸疼痛剧烈，如刺如绞，痛有定处，伴有胸闷，日久不愈，可因暴怒而加重，舌质紫暗，脉弦涩。证属\n选项A：痰浊痹阻\n选项B：寒凝心脉\n选项C：气滞心胸\n选项D：心血瘀阻\n选项E：心阳不振",
+    "correct_answer": "D",
+    "model_answer": "选项C：气滞心胸",
+    "is_correct": false
+  },
+  {
+    "question_number": 470,
+    "category": "中医儿科学",
+    "question": "题干描述：治疗风寒束肺哮喘的首选方是\n选项A：三拗汤\n选项B：都气丸\n选项C：大青龙汤\n选项D：麻杏石甘汤合苏葶丸\n选项E：小青龙汤合三子养亲汤",
+    "correct_answer": "E",
+    "model_answer": "选项D：麻杏石甘汤合苏葶丸",
+    "is_correct": false
+  },
+  {
+    "question_number": 471,
+    "category": "中医诊断学",
+    "question": "题干描述：视物昏暗不明，模糊不清者为\n选项A：目痒\n选项B：目昏\n选项C：目眩\n选项D：雀目\n选项E：以上都不是",
+    "correct_answer": "B",
+    "model_answer": "D、雀目",
+    "is_correct": false
+  },
+  {
+    "question_number": 472,
+    "category": "中医诊断学",
+    "question": "题干描述：以恶风汗出脉浮缓为主要表现的病证是\n选项A：太阳中风证\n选项B：太阳伤寒证\n选项C：阳明病实证\n选项D：少阴病寒化证\n选项E：厥阴病寒证",
+    "correct_answer": "A",
+    "model_answer": "选项A：太阳中风证",
+    "is_correct": false
+  },
+  {
+    "question_number": 473,
+    "category": "中医基础理论",
+    "question": "题干描述：偏食辛温燥热，则可导致\n选项A：肝经湿热\n选项B：心肝火旺\n选项C：肠胃积热\n选项D：肺胃热盛\n选项E：肺胃津伤",
+    "correct_answer": "C",
+    "model_answer": "选项C、肠胃积热",
+    "is_correct": false
+  },
+  {
+    "question_number": 474,
+    "category": "中医诊断学",
+    "question": "题干描述：以下哪一项不是热证的表现\n选项A：面赤\n选项B：小便短赤\n选项C：大便秘结\n选项D：口淡不渴\n选项E：咯痰黄稠",
+    "correct_answer": "D",
+    "model_answer": "D: 口淡不渴\n\n热证中的表现通常包括面赤、小便短赤、大便秘结和咯痰黄稠等。但是，口淡不渴并不是热证的表现之一。",
+    "is_correct": false
+  },
+  {
+    "question_number": 475,
+    "category": "中医儿科学",
+    "question": "题干描述：预防脐风最重要的措施是\n选项A：孕妇勿感风邪\n选项B：产妇勿感风邪\n选项C：小儿生后避风\n选项D：清洁断脐护脐\n选项E：脐疮防其走黄",
+    "correct_answer": "D",
+    "model_answer": "D、清洁断脐护脐",
+    "is_correct": false
+  },
+  {
+    "question_number": 476,
+    "category": "针灸学",
+    "question": "题干描述：被称为“阴脉之海”的是\n选项A：任脉\n选项B：冲脉\n选项C：带脉\n选项D：阴脉\n选项E：阴维脉",
+    "correct_answer": "A",
+    "model_answer": "选项D：阴脉",
+    "is_correct": false
+  },
+  {
+    "question_number": 477,
+    "category": "中医诊断学",
+    "question": "题干描述：下列哪项不是邪盛失神的临床表现\n选项A：神昏谵语\n选项B：喉中痰鸣\n选项C：两手握固\n选项D：呼吸气微\n选项E：牙关紧闭",
+    "correct_answer": "D",
+    "model_answer": "E: 牙关紧闭 这不是邪盛失神的临床表现。邪盛失神的常见症状包括神昏谵语、喉中痰鸣、两手握固和呼吸气微等。",
+    "is_correct": false
+  },
+  {
+    "question_number": 478,
+    "category": "中医外科",
+    "question": "题干描述：慢性前列腺炎的临床特征是\n选项A：尿道口常有白色分泌物溢出\n选项B：排尿困难、尿潴留\n选项C：射精时精液呈淡红色或棕色\n选项D：阴茎背侧触及硬结或索状斑块\n选项E：以上都不是",
+    "correct_answer": "A",
+    "model_answer": "D: 阴茎背侧触及硬结或索状斑块",
+    "is_correct": false
+  },
+  {
+    "question_number": 479,
+    "category": "中医儿科学",
+    "question": "题干描述：治疗胎怯肾精薄弱证首选方是\n选项A：保元汤\n选项B：归脾汤\n选项C：金匮肾气丸\n选项D：补肾地黄丸\n选项E：六味地黄丸",
+    "correct_answer": "D",
+    "model_answer": "C：金匮肾气丸",
+    "is_correct": false
+  },
+  {
+    "question_number": 480,
+    "category": "中医外科",
+    "question": "题干描述：某患者，一侧乳房广泛紧韧肿硬，皮色紫红，皮肤呈橘皮样变，全身炎症反应不明显，应首先考虑为\n选项A：乳岩\n选项B：乳痨\n选项C：乳痈\n选项D：乳发\n选项E：以上都不是",
+    "correct_answer": "A",
+    "model_answer": "A: 乳岩",
+    "is_correct": false
+  },
+  {
+    "question_number": 481,
+    "category": "中药学",
+    "question": "题干描述：阿胶的主治病证是\n选项A：既能治疗血虚证，又能治疗出血证\n选项B：既能治疗血虚证，又能治疗遗精盗汗证\n选项C：既能治疗血虚证，又能治疗胁肋脘腹疼痛\n选项D：既能治疗血虚证，又能治疗痈疽疮疡证\n选项E：既能治疗血虚证，又能治疗虚劳喘咳证",
+    "correct_answer": "A",
+    "model_answer": "A、 既能治疗血虚证，又能治疗出血证",
+    "is_correct": false
+  },
+  {
+    "question_number": 482,
+    "category": "中医内科",
+    "question": "题干描述：患者，男，27岁。有与肺痨病人接触史。干咳少痰，咳声短促，痰中带血，五心烦热，时有盗汗，形体消瘦，胸部闷痛隐隐，舌红少苔，脉细数。其诊断是\n选项A：内伤咳嗽，肺阴亏耗\n选项B：肺痨，肺阴亏损\n选项C：哮证，肺虚\n选项D：喘证，肺虚\n选项E：虚劳，肺阴虚",
+    "correct_answer": "B",
+    "model_answer": "选项B：肺痨，肺阴亏损",
+    "is_correct": false
+  },
+  {
+    "question_number": 483,
+    "category": "中药学",
+    "question": "题干描述：杜仲与续断的共同功效是\n选项A：补肝肾\n选项B：安心神\n选项C：补肾阴\n选项D：行血脉\n选项E：祛风湿",
+    "correct_answer": "A",
+    "model_answer": "选项A：补肝肾",
+    "is_correct": false
+  },
+  {
+    "question_number": 484,
+    "category": "中医内科",
+    "question": "题干描述：半夏白术天麻汤主要用于\n选项A：痰浊头痛\n选项B：血虚头痛\n选项C：肝阳头痛\n选项D：肾虚头痛\n选项E：瘀血头痛",
+    "correct_answer": "A",
+    "model_answer": "A、痰浊头痛",
+    "is_correct": false
+  },
+  {
+    "question_number": 485,
+    "category": "方剂学",
+    "question": "题干描述：小承气汤的功用是\n选项A：缓下热结\n选项B：峻下热结\n选项C：泻热逐水\n选项D：轻下热结\n选项E：润肠通便",
+    "correct_answer": "D",
+    "model_answer": "选项A：缓下热结",
+    "is_correct": false
+  },
+  {
+    "question_number": 486,
+    "category": "中医外科",
+    "question": "题干描述：可采用砭镰法治疗的疾病是\n选项A：附骨疽\n选项B：托盘疗\n选项C：蝼蛄疖\n选项D：红丝疔\n选项E：以上都不是",
+    "correct_answer": "D",
+    "model_answer": "E: 以上都不是\n\n砭镰法（Guīlíng fǎ）是中医的一种手术治疗方法，主要用于消除肿物、解毒和化瘀。它通常用于治疗外伤、内伤、癌症等病症。但是，砭镰法并不适用于附骨疽、托盘疗、蝼蛄疖和红丝疔这些疾病的治疗。",
+    "is_correct": false
+  },
+  {
+    "question_number": 487,
+    "category": "针灸学",
+    "question": "题干描述：下列哪项不属于同名经配穴\n选项A：耳鸣取中渚、足临泣\n选项B：头痛取外关、阳陵泉\n选项C：失眠取神门、三阴交\n选项D：牙痛取合谷、内庭\n选项E：便秘取天枢、合谷",
+    "correct_answer": "C",
+    "model_answer": "选项E：便秘取天枢、合谷 不属于同名经配穴。同名经配穴指两个穴道在同一经脉上，功能相似或互补的穴道。而选项E中的穴道分别位于三阳合经和五脏大腑经，不属于同一经脉，因此不是同名经配穴。",
+    "is_correct": false
+  },
+  {
+    "question_number": 488,
+    "category": "中药学",
+    "question": "题干描述：具有温中回阳作用的药物是\n选项A：生姜\n选项B：干姜\n选项C：炮姜\n选项D：生姜皮\n选项E：高良姜",
+    "correct_answer": "B",
+    "model_answer": "A、生姜",
+    "is_correct": false
+  },
+  {
+    "question_number": 489,
+    "category": "中医儿科学",
+    "question": "题干描述：有关汗证的描述哪项不对\n选项A：汗证多属虚证\n选项B：自汗以气虚、阳虚为主\n选项C：盗汗以阴虚、血虚为主\n选项D：小儿汗证多为虚实夹杂证\n选项E：实证多为湿热迫蒸",
+    "correct_answer": "D",
+    "model_answer": "选项A：汗证多属虚证不对。正确答案是选项B：自汗以气虚、阳虚为主。",
+    "is_correct": false
+  },
+  {
+    "question_number": 490,
+    "category": "中医诊断学",
+    "question": "题干描述：常脉中有神的表现是\n选项A：不大不小\n选项B：软滑从容\n选项C：不浮不沉\n选项D：柔和有力\n选项E：尺脉沉取有力",
+    "correct_answer": "D",
+    "model_answer": "选项C：不浮不沉",
+    "is_correct": false
+  },
+  {
+    "question_number": 491,
+    "category": "中医儿科学",
+    "question": "题干描述：小儿遗尿心肾失交证的治法为\n选项A：清心安神，滋阴固脬\n选项B：清心滋肾，安神固脬\n选项C：清泻心火，固涩小便\n选项D：泻心安神，固涩膀胱\n选项E：清心泻火，滋肾缩尿",
+    "correct_answer": "B",
+    "model_answer": "选项B：清心滋肾，安神固脬",
+    "is_correct": false
+  },
+  {
+    "question_number": 492,
+    "category": "中药学",
+    "question": "题干描述：具有润肠通便作用的药物是\n选项A：大黄\n选项B：芒硝\n选项C：番泻叶\n选项D：甘遂\n选项E：火麻仁",
+    "correct_answer": "E",
+    "model_answer": "A、大黄",
+    "is_correct": false
+  },
+  {
+    "question_number": 493,
+    "category": "中医诊断学",
+    "question": "题干描述：舌苔苔质粗大疏松而厚，揩之易去为\n选项A：滑苔\n选项B：糙苔\n选项C：腻苔\n选项D：腐苔\n选项E：无根苔",
+    "correct_answer": "D",
+    "model_answer": "B、糙苔",
+    "is_correct": false
+  },
+  {
+    "question_number": 494,
+    "category": "中药学",
+    "question": "题干描述：下列哪味药与大黄、芒硝同用，可使其泻而不速\n选项A：枳实\n选项B：厚朴\n选项C：大枣\n选项D：山药\n选项E：甘草",
+    "correct_answer": "E",
+    "model_answer": "A: 枳实",
+    "is_correct": false
+  },
+  {
+    "question_number": 495,
+    "category": "中医儿科学",
+    "question": "题干描述：患儿，5岁。证见发热烦躁，咳嗽喘促，气急鼻煽，呼吸困难，喉间痰鸣，面赤口渴，大便干燥，小便黄少，舌红，苔黄，脉滑数。其证候是\n选项A：风寒闭肺\n选项B：风热闭肺\n选项C：痰热闭肺\n选项D：毒热闭肺\n选项E：阴虚肺热",
+    "correct_answer": "C",
+    "model_answer": "根据提供的证候，最佳选择是选项B：风热闭肺",
+    "is_correct": false
+  },
+  {
+    "question_number": 496,
+    "category": "方剂学",
+    "question": "题干描述：理中丸的组成药物中不含有\n选项A：人参\n选项B：干姜\n选项C：甘草\n选项D：白术\n选项E：附子",
+    "correct_answer": "E",
+    "model_answer": "选项E：附子 不是理中丸的组成药物。",
+    "is_correct": false
+  },
+  {
+    "question_number": 497,
+    "category": "针灸学",
+    "question": "题干描述：属于奇经的是\n选项A：手少阳三焦经\n选项B：十二经筋\n选项C：十二皮部\n选项D：十五络脉\n选项E：阴维脉",
+    "correct_answer": "E",
+    "model_answer": "A: 手少阳三焦经",
+    "is_correct": false
+  },
+  {
+    "question_number": 498,
+    "category": "中医外科",
+    "question": "题干描述：痈的肿势范围是\n选项A：3cm左右\n选项B：3～6cm左右\n选项C：6～9cm左右\n选项D：大于9cm\n选项E：以上都不是",
+    "correct_answer": "C",
+    "model_answer": "选项B：3～6cm左右",
+    "is_correct": false
+  },
+  {
+    "question_number": 499,
+    "category": "中医儿科学",
+    "question": "题干描述：上述疾病，耳后及枕骨下有淋巴结肿大的是\n选项A：麻疹\n选项B：风疹\n选项C：猩红热\n选项D：手足口病\n选项E：水痘",
+    "correct_answer": "B",
+    "model_answer": "A: Mumps (Mas)",
+    "is_correct": false
+  },
+  {
+    "question_number": 500,
+    "category": "中医儿科学",
+    "question": "题干描述：不属于小儿正常断奶季节是\n选项A：春季\n选项B：酷暑\n选项C：初秋\n选项D：深秋\n选项E：初冬",
+    "correct_answer": "B",
+    "model_answer": "选项E：初冬 不属于小儿正常断奨季节。正常的小儿断奨季节是春季和秋季，而初冬则是寒冷的季节，不适合小孩子长期外出，更不适合进行断奨活动。",
+    "is_correct": false
+  }
+]
